@@ -43,7 +43,9 @@ def jsonRevistas():
     minArt = request.args.get('minArt')
     maxArt = request.args.get('maxArt')
     
-    return listaRevistas(area,categorias,minArt,maxArt),200
+    estado = request.args.get('estado')
+
+    return listaRevistas(area,categorias,minArt,maxArt,estado),200
 
 #ruta que captura petición y devuelve una lista (local)
 @app.route('/filtro', methods =["GET"])
