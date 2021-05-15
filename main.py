@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from back import filtradoParametros
+from back import listaRevistas
 import json
 from flask_cors import CORS
 
@@ -43,7 +43,7 @@ def jsonRevistas():
     minArt = request.args.get('minArt')
     maxArt = request.args.get('maxArt')
     
-    return filtradoParametros(area,categorias,minArt,maxArt),200
+    return listaRevistas(area,categorias,minArt,maxArt),200
 
 #ruta que captura petición y devuelve una lista (local)
 @app.route('/filtro', methods =["GET"])

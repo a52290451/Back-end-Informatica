@@ -15,7 +15,7 @@ diccionarioCat = {"All subject areas": 0, "Agricultural and Biological Sciences"
                                 "Physics and Astronomy": 3100, "Psychology": 3200, "Social Sciences": 3300, 
                                 "Veterinary": 3400}
 
-# metodo para listar revistas
+# metodo para listar revistas PRINCIPAL
 def listaRevistas(area,categorias,minArt,maxArt):
     listaTotal = []
 
