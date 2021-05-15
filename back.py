@@ -16,7 +16,7 @@ diccionarioCat = {"All subject areas": 0, "Agricultural and Biological Sciences"
                                 "Veterinary": 3400}
 
 # metodo para listar revistas
-def litaRevistas(area,categorias,minArt,maxArt):
+def listaRevistas(area,categorias,minArt,maxArt):
     listaTotal = []
 
     for i in range(0, 4):
@@ -26,8 +26,6 @@ def litaRevistas(area,categorias,minArt,maxArt):
             listaTotal += listaArchivo #concatenado de listas 
     
     listaTotal = sorted(listaTotal,  key=lambda rev: int(rev['CantidadArticulos']), reverse = True)
-
-    
 
     return listaTotal
 
@@ -68,4 +66,3 @@ def filtradoParametros(area,categorias,minArt,maxArt):
     # Dictionary to JSON Object using dumps() method
     # Return JSON Object
     return json.dumps(value)
-
