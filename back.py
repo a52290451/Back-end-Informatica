@@ -1,8 +1,9 @@
 # Import Module
 import json
+import csv
 
 # diccionario de categoria
-def diccionarioCat = {"All subject areas": 0, "Agricultural and Biological Sciences": 1100, "Arts and Humanities": 1200, 
+diccionarioCat = {"All subject areas": 0, "Agricultural and Biological Sciences": 1100, "Arts and Humanities": 1200, 
                                 "Biochemistry, Genetics and Molecular Biology": 1300, "Business, Management and Accounting": 1400, 
                                 "Chemical Engineering": 1500, 
                                 "Chemistry": 1600, "Computer Science": 1700, "Decision Sciences": 1800, 
@@ -18,7 +19,37 @@ def diccionarioCat = {"All subject areas": 0, "Agricultural and Biological Scien
 def litaRevistas(area,categorias,minArt,maxArt):
     listaTotal = []
 
+    for i in range(0, 4):
+        if categorias[i].get():            
+            archivoEntrada = nombreArchivo(area, i + 1) #se pasa area y categoria real. se obtiene el nombre del archivo
+            listaArchivo = listaAreaCategoria(archivoEntrada, minArt, maxArt) #lista con las revistas
+            listaTotal += listaArchivo #concatenado de listas 
+    
+    listaTotal = sorted(listaTotal,  key=lambda rev: int(rev['CantidadArticulos']), reverse = True)
+
+    
+
     return listaTotal
+
+# metodo de retorno del nombre del archivo csv a cargar
+def nombreArchivo(area, categoria):
+    if diccionarioCat[area] == 0:
+        nombre = 'or' + 'q' + str(categoria) + 'Completo.csv'
+        return nombre
+    nombre = 'or' + str(diccionarioCat[area]) + 'q' + str(categoria) + 'Completo.csv'
+    return nombre
+
+# metodo que retorna la lista de revistas que están en el rango [min, max] de cantidad
+def listaAreaCategoria(archivoEntrada, minimo, maximo):
+    path = "repos/"+archivoEntrada
+    with open (path, 'r', encoding = 'UTF8') as archivo:
+        lectorCSV = csv.DictReader(archivo)
+        lista = []
+        for revista in lectorCSV:
+            cant = int(revista['CantidadArticulos'])
+            if (cant >= minimo) and (maximo >= cant):
+                lista.append(revista)   
+	return lista
 
 def filtradoParametros(area,categorias,minArt,maxArt):
     print("llegaste")
@@ -37,3 +68,4 @@ def filtradoParametros(area,categorias,minArt,maxArt):
     # Dictionary to JSON Object using dumps() method
     # Return JSON Object
     return json.dumps(value)
+
