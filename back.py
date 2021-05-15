@@ -20,14 +20,16 @@ def listaRevistas(area,categorias,minArt,maxArt):
     listaTotal = []
 
     for i in range(0, 4):
-        if categorias[i].get():            
+        if categorias[i]:            
             archivoEntrada = nombreArchivo(area, i + 1) #se pasa area y categoria real. se obtiene el nombre del archivo
             listaArchivo = listaAreaCategoria(archivoEntrada, minArt, maxArt) #lista con las revistas
             listaTotal += listaArchivo #concatenado de listas 
     
-    listaTotal = sorted(listaTotal,  key=lambda rev: int(rev['CantidadArticulos']), reverse = True)
+    listaTotal = sorted(listaTotal, key=lambda rev:int(rev['CantidadArticulos']))
+    
+    return json.dumps(listaTotal)
 
-    return listaTotal
+    #return listaTotal
 
 # metodo de retorno del nombre del archivo csv a cargar
 def nombreArchivo(area, categoria):
@@ -48,6 +50,18 @@ def listaAreaCategoria(archivoEntrada, minimo, maximo):
             if (cant >= minimo) and (maximo >= cant):
                 lista.append(revista)   
 	return lista
+
+def revistaATexto(revista):
+    if revista['Nombre'] == 'Vacio':
+            revista['Nombre'] = 'No disponible'
+    if revista['CantidadArticulos'] == 'Vacio':
+            revista['CantidadArticulos'] = 'No disponible'
+    if revista['Categoria'] == 'Vacio':
+            revista['Categoria'] = 'No disponible'
+    if revista['Enlace'] == 'Vacio':
+            revista['Enlace'] = 'No disponible'
+
+    return revista       
 
 def filtradoParametros(area,categorias,minArt,maxArt):
     print("llegaste")
