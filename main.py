@@ -16,7 +16,7 @@ filtro = [
 ]
 
 #Ruta que captura los parametros de busqueda de la forma 
-#(http://localhost:5000/filtroParametros?area=Energy&categoria1=Q1&categoria2=Q2&minArt=10&maxArt=1000&estado=free)
+#(http://localhost:5000/filtroParametros?area=Computer%20Science&categoria1=Q1&minArt=100&maxArt=1500&estado=premium)
 
 @app.route('/filtroParametros', methods =["GET"])
 def jsonRevistas():
