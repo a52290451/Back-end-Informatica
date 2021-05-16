@@ -26,7 +26,7 @@ def listaRevistas(area,categorias,minArt,maxArt,estado):
             listaArchivo = listaAreaCategoria(archivoEntrada, minArt, maxArt) #lista con las revistas
             listaTotal += listaArchivo #concatenado de listas 
     
-    listaTotal = sorted(listaTotal, key=lambda rev:int(rev['CantidadArticulos']), reverse = True)
+    listaTotal = sorted(listaTotal, key=lambda rev:int(rev['Cantidad-articulos-ultimo']), reverse = True)
     
     if estado == 'free':
         return json.dumps(listaTotal[:3])
@@ -48,21 +48,8 @@ def listaAreaCategoria(archivoEntrada, minimo, maximo):
         lectorCSV = csv.DictReader(archivo)
         lista = []
         for revista in lectorCSV:
-            cant = int(revista['CantidadArticulos'])
+            cant = int(revista['Cantidad-articulos-ultimo'])
             if (cant >= int(minimo)) and (int(maximo) >= cant):
                 lista.append(revista)
                 
     return lista
-
-def revistaATexto(revista):
-    if revista['Nombre'] == 'Vacio':
-            revista['Nombre'] = 'No disponible'
-    if revista['CantidadArticulos'] == 'Vacio':
-            revista['CantidadArticulos'] = 'No disponible'
-    if revista['Categoria'] == 'Vacio':
-            revista['Categoria'] = 'No disponible'
-    if revista['Enlace'] == 'Vacio':
-            revista['Enlace'] = 'No disponible'
-
-    return revista       
-
