@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from back import listaRevistas
+from buscador import listaRevistas
 import json
 from flask_cors import CORS
 
