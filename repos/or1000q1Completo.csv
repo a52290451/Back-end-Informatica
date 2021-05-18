@@ -1,36 +1,36 @@
 Nombre,Factor,Categoria,IndiceH,CantidadArticulosUltimo,CantidadArticulosUltimosTres,Enlace,ISSN,Homologacion
 Nature,14.047,Q1,1159,3039,9630,http://www.nature.com/nature/index.html,0028-0836/1476-4687,A1
-Science,13.11,Q1,1124,2376,6816,http://www.sciencemag.org/magazine.dtl,0036-8075/1095-9203,A1
-Science advances,6.062,Q1,102,64,2174,http://advances.sciencemag.org/,2375-2548,A1
-Proceedings of the National Academy of Sciences of the United States of America,5.165,Q1,737,3977,11653,http://www.pnas.org/,0027-8424/1091-6490,A1
-National Science Review,2.2430000000000003,Q1,39,183,310,https://academic.oup.com/nsr,2053-714X/2095-5138,A1
-iScience,1.7069999999999999,Q1,15,512,224,https://www.cell.com/iscience/home,2589-0042,A1
-Science Bulletin,1.517,Q1,101,298,799,https://www.journals.elsevier.com/science-bulletin,2095-9273/2095-9281,A1
-Research,1.489,Q1,7,111,20,https://spj.sciencemag.org/research/,2639-5274,A1
-Scientific Reports,1.341,Q1,179,20423,65585,https://www.nature.com/srep/,2045-2322,A1
-PLoS ONE,1.023,Q1,300,16312,63029,https://journals.plos.org/plosone/,1932-6203,A1
-Journal of Advanced Research,0.9890000000000001,Q1,45,86,231,https://www.journals.elsevier.com/journal-of-advanced-research,2090-1224/2090-1232,A1
-Royal Society Open Science,0.966,Q1,37,714,2143,https://royalsocietypublishing.org/journal/rsos,2054-5703,A1
-Proceedings of the Japan Academy Series B: Physical and Biological Sciences,0.89,Q1,50,38,120,http://www.japan-acad.go.jp/en/publishing/pja_b.html,Sin informacion,No
-Progress in Natural Science: Materials International,0.857,Q1,54,95,308,https://www.journals.elsevier.com/progress-in-natural-science-materials-international,Sin informacion,No
-Fractals,0.735,Q1,39,158,254,http://www.worldscinet.com/fractals/fractals.shtml,0218-348X/1793-6543,A1
-International Journal of Bifurcation and Chaos in Applied Sciences and Engineering,0.715,Q1,95,249,788,http://www.worldscinet.com/ijbc/ijbc.shtml,Sin informacion,No
-Periodico Tche Quimica,0.6890000000000001,Q1,11,265,230,http://www.journal.tchequimica.com/,1806-0374/2179-0302,A1
-Research in Science and Technological Education,0.655,Q1,31,52,77,https://www.tandfonline.com/loi/crst20,0263-5143/1470-1138,A1
-Tsinghua Science and Technology,0.551,Q1,40,63,191,http://tst.tsinghuajournals.com/EN/1007-0214/home.shtml,1007-0214/1878-7606,A1
-Latin American Research Review,0.524,Q1,45,53,142,http://muse.jhu.edu/journals/latin_american_research_review/,0023-8791/1542-4278,A1
-Complexity,0.507,Q1,52,679,1256,https://www.hindawi.com/journals/complexity/,1076-2787/1099-0526,A1
-Issues in Science and Technology,0.493,Q1,28,2,78,http://www.issues.org/,0748-5492/1938-1557,A1
-Applied Network Science,0.466,Q1,7,112,104,https://www.scimagojr.com/journalsearch.php?q=21100901173&tip=sid&clean=0,2364-8228,A1
-Journal of King Saud University - Science,0.46299999999999997,Q1,32,226,200,https://www.journals.elsevier.com/journal-of-king-saud-university-science/,Sin informacion,No
-Science and Technology Studies,0.44799999999999995,Q1,12,25,49,https://www.scimagojr.com/journalsearch.php?q=21100247071&tip=sid&clean=0,2243-4690,A1
-Heliyon,0.43200000000000005,Q1,18,1889,1020,https://www.cell.com/heliyon/home,2405-8440,A1
-SpringerPlus,0.409,Q1,41,0,2120,https://springerplus.springeropen.com/,Sin informacion,No
-Constructivist Foundations,0.408,Q1,14,47,360,http://www.univie.ac.at/constructivism/journal/,1782-348X,A1
-Pacific Science,0.387,Q1,40,24,111,http://www.uhpress.hawaii.edu/journals/ps/,0030-8870/1534-6188,A1
-Xinan Jiaotong Daxue Xuebao/Journal of Southwest Jiaotong University,0.371,Q1,20,168,475,https://www.scimagojr.com/journalsearch.php?q=26207&tip=sid&clean=0,Sin informacion,No
-Eurasip Journal on Bioinformatics and Systems Biology,0.369,Q1,19,0,29,https://link.springer.com/journal/13637/volumes-and-issues,Sin informacion,No
-European Journal of Science and Theology,0.35,Q1,15,105,372,http://www.ejst.tuiasi.ro/,1841-0464/1842-8517,A1
-Anais da Academia Brasileira de Ciencias,0.345,Q1,54,307,770,http://www.scielo.br/scielo.php?script=sci_serial&pid=0001-3765&lng=en&nrm=iso,0001-3765/1678-2690,A1
-International Journal of Agile Systems and Management,0.33899999999999997,Q1,19,19,51,https://www.inderscience.com/jhome.php?jcode=ijasm,1741-9174/1741-9182,A1
-Journal of the Royal Society of New Zealand,0.33399999999999996,Q1,37,51,81,https://www.tandfonline.com/loi/tnzr20,0303-6758/1175-8899,A1
+Science,13.110,Q1,1124,2376,6816,http://www.sciencemag.org/magazine.dtl,0036-8075/1095-9203,A1
+Science advances,6.062 ,Q1,102,64,2174,http://advances.sciencemag.org/,2375-2548,A1
+Proceedings of the National Academy of Sciences of the United States of America,5.165 ,Q1,737,3977,11653,http://www.pnas.org/,0027-8424/1091-6490,A1
+National Science Review,2.243 ,Q1,39,183,310,https://academic.oup.com/nsr,2053-714X/2095-5138,A1
+iScience,1.707 ,Q1,15,512,224,https://www.cell.com/iscience/home,2589-0042,A1
+Science Bulletin,1.517 ,Q1,101,298,799,https://www.journals.elsevier.com/science-bulletin,2095-9273/2095-9281,A1
+Research,1.489 ,Q1,7,111,20,https://spj.sciencemag.org/research/,2639-5274,A1
+Scientific Reports,1.341 ,Q1,179,20423,65585,https://www.nature.com/srep/,2045-2322,A1
+PLoS ONE,1.023 ,Q1,300,16312,63029,https://journals.plos.org/plosone/,1932-6203,A1
+Journal of Advanced Research,0.989 ,Q1,45,86,231,https://www.journals.elsevier.com/journal-of-advanced-research,2090-1224/2090-1232,A1
+Royal Society Open Science,0.966 ,Q1,37,714,2143,https://royalsocietypublishing.org/journal/rsos,2054-5703,A1
+Proceedings of the Japan Academy Series B: Physical and Biological Sciences,0.890 ,Q1,50,38,120,http://www.japan-acad.go.jp/en/publishing/pja_b.html,Sin informacion,No
+Progress in Natural Science: Materials International,0.857 ,Q1,54,95,308,https://www.journals.elsevier.com/progress-in-natural-science-materials-international,Sin informacion,No
+Fractals,0.735 ,Q1,39,158,254,http://www.worldscinet.com/fractals/fractals.shtml,0218-348X/1793-6543,A1
+International Journal of Bifurcation and Chaos in Applied Sciences and Engineering,0.715 ,Q1,95,249,788,http://www.worldscinet.com/ijbc/ijbc.shtml,Sin informacion,No
+Periodico Tche Quimica,0.689 ,Q1,11,265,230,http://www.journal.tchequimica.com/,1806-0374/2179-0302,A1
+Research in Science and Technological Education,0.655 ,Q1,31,52,77,https://www.tandfonline.com/loi/crst20,0263-5143/1470-1138,A1
+Tsinghua Science and Technology,0.551 ,Q1,40,63,191,http://tst.tsinghuajournals.com/EN/1007-0214/home.shtml,1007-0214/1878-7606,A1
+Latin American Research Review,0.524 ,Q1,45,53,142,http://muse.jhu.edu/journals/latin_american_research_review/,0023-8791/1542-4278,A1
+Complexity,0.507 ,Q1,52,679,1256,https://www.hindawi.com/journals/complexity/,1076-2787/1099-0526,A1
+Issues in Science and Technology,0.493 ,Q1,28,2,78,http://www.issues.org/,0748-5492/1938-1557,A1
+Applied Network Science,0.466 ,Q1,7,112,104,https://www.scimagojr.com/journalsearch.php?q=21100901173&tip=sid&clean=0,2364-8228,A1
+Journal of King Saud University - Science,0.463 ,Q1,32,226,200,https://www.journals.elsevier.com/journal-of-king-saud-university-science/,Sin informacion,No
+Science and Technology Studies,0.448 ,Q1,12,25,49,https://www.scimagojr.com/journalsearch.php?q=21100247071&tip=sid&clean=0,2243-4690,A1
+Heliyon,0.432 ,Q1,18,1889,1020,https://www.cell.com/heliyon/home,2405-8440,A1
+SpringerPlus,0.409 ,Q1,41,0,2120,https://springerplus.springeropen.com/,Sin informacion,No
+Constructivist Foundations,0.408 ,Q1,14,47,360,http://www.univie.ac.at/constructivism/journal/,1782-348X,A1
+Pacific Science,0.387 ,Q1,40,24,111,http://www.uhpress.hawaii.edu/journals/ps/,0030-8870/1534-6188,A1
+Xinan Jiaotong Daxue Xuebao/Journal of Southwest Jiaotong University,0.371 ,Q1,20,168,475,https://www.scimagojr.com/journalsearch.php?q=26207&tip=sid&clean=0,Sin informacion,No
+Eurasip Journal on Bioinformatics and Systems Biology,0.369 ,Q1,19,0,29,https://link.springer.com/journal/13637/volumes-and-issues,Sin informacion,No
+European Journal of Science and Theology,0.350 ,Q1,15,105,372,http://www.ejst.tuiasi.ro/,1841-0464/1842-8517,A1
+Anais da Academia Brasileira de Ciencias,0.345 ,Q1,54,307,770,http://www.scielo.br/scielo.php?script=sci_serial&pid=0001-3765&lng=en&nrm=iso,0001-3765/1678-2690,A1
+International Journal of Agile Systems and Management,0.339 ,Q1,19,19,51,https://www.inderscience.com/jhome.php?jcode=ijasm,1741-9174/1741-9182,A1
+Journal of the Royal Society of New Zealand,0.334 ,Q1,37,51,81,https://www.tandfonline.com/loi/tnzr20,0303-6758/1175-8899,A1
