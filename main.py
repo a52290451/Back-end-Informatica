@@ -23,19 +23,19 @@ def jsonRevistas():
     # Si no se encuentra la etiqueta, devuelve None
     area = request.args.get('area')
     categorias= []
-    if request.args.get('categoria1') != None:
+    if request.args.get('categoria1') != '':
         categorias.append(True)
     else:
         categorias.append(False)
-    if request.args.get('categoria2') != None:
+    if request.args.get('categoria2') != '':
         categorias.append(True)
     else:
         categorias.append(False)
-    if request.args.get('categoria3') != None:
+    if request.args.get('categoria3') != '':
         categorias.append(True)
     else:
         categorias.append(False)
-    if request.args.get('categoria4') != None:
+    if request.args.get('categoria4') != '':
         categorias.append(True)
     else:
         categorias.append(False)

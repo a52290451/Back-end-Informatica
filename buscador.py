@@ -28,9 +28,9 @@ def listaRevistas(area,categorias,minArt,maxArt,estado):
     
     listaTotal = sorted(listaTotal, key=lambda rev:int(rev['Cantidad-articulos-ultimo']), reverse = True)
     
-    if estado == 'free':
+    if estado == 'Free':
         return json.dumps(listaTotal[:3])
-    elif estado == 'premium':
+    elif estado == 'Premium':
         return json.dumps(listaTotal)
 
 # metodo de retorno del nombre del archivo csv a cargar
