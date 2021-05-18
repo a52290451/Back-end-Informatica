@@ -1,141 +1,141 @@
-Nombre,Factor,Categoria,Indice-H,Cantidad-articulos-ultimo,Cantidad-articulos-ultimos-tres,Enlace,ISSN,Homologacion
+Nombre,Factor,Categoria,IndiceH,CantidadArticulosUltimo,CantidadArticulosUltimosTres,Enlace,ISSN,Homologacion
 Nature Reviews Immunology,20.611,Q1,371,148,438,http://www.nature.com/nri/index.html,1474-1733/1474-1741,A1
 Annual Review of Immunology,13.842,Q1,289,24,73,https://www.annualreviews.org/journal/immunol,Sin informacion,No
-Nature Reviews Microbiology,13.160,Q1,276,179,450,http://www.nature.com/nrmicro/index.html,1740-1526/1740-1534,A1
+Nature Reviews Microbiology,13.16,Q1,276,179,450,http://www.nature.com/nrmicro/index.html,1740-1526/1740-1534,A1
 Nature Biotechnology,12.565,Q1,426,380,1088,https://www.nature.com/nbt/,1087-0156/1546-1696,A1
 Immunity,11.977,Q1,377,255,777,http://www.cell.com/immunity/home,1074-7613/1097-4180,A1
-Nature Immunology,9.283 ,Q1,368,285,758,https://www.nature.com/ni/,1529-2908/1529-2916,A1
-Clinical Microbiology Reviews,8.664 ,Q1,263,40,99,https://cmr.asm.org/,0893-8512/1098-6618,A1
-Science immunology,8.014 ,Q1,35,118,243,https://immunology.sciencemag.org/,2470-9468,A1
-Nature Microbiology,7.922 ,Q1,58,315,716,https://www.nature.com/nmicrobiol/,2058-5276,A1
-Journal of Experimental Medicine,7.757 ,Q1,432,220,703,https://rupress.org/jem,0022-1007/1540-9538,A1
-Microbiology and Molecular Biology Reviews,7.365 ,Q1,238,21,77,http://mmbr.asm.org/,1092-2172/1098-5557,A1
-Molecular Systems Biology,7.338 ,Q1,140,51,178,https://www.embopress.org/journal/17444292,1744-4292,A1
-Cell Host and Microbe,7.168 ,Q1,163,198,620,https://www.cell.com/cell-host-microbe/home,1931-3128/1934-6069,A1
-EMBO Journal,7.086 ,Q1,381,282,756,https://www.embopress.org/journal/14602075,0261-4189/1460-2075,A1
-Annual Review of Microbiology,6.517 ,Q1,185,31,87,https://www.annualreviews.org/journal/micro,Sin informacion,No
-The Lancet HIV,6.395 ,Q1,44,201,468,https://www.journals.elsevier.com/the-lancet-hiv,2352-3018,A1
-Annals of the Rheumatic Diseases,6.142 ,Q1,228,647,1221,http://ard.bmj.com/content/by/year,0003-4967/1468-2060,A1
-eLife,6.079 ,Q1,115,1675,4167,https://elifesciences.org/magazine,2050-084X,A1
-Immunological Reviews,6.063 ,Q1,214,90,306,https://onlinelibrary.wiley.com/journal/1600065x,0105-2896/1600-065X,A1
-Trends in Immunology,5.917 ,Q1,218,108,286,https://www.cell.com/trends/immunology/home,1471-4906/1471-4981,A1
-FEMS Microbiology Reviews,5.485 ,Q1,198,40,161,https://academic.oup.com/femsre,0168-6445/1574-6976,A1
-Blood,5.416 ,Q1,448,852,3077,https://ashpublications.org/blood,0006-4971/1528-0020,A1
-Microbiome,5.282 ,Q1,62,163,464,https://microbiomejournal.biomedcentral.com/,2049-2618,A1
-ISME Journal,5.073 ,Q1,156,253,777,https://www.nature.com/ismej/,1751-7362/1751-7370,A1
-Cancer immunology research,4.598 ,Q1,72,195,393,https://cancerimmunolres.aacrjournals.org/,2326-6066/2326-6074,A1
-PLoS Biology,4.488 ,Q1,260,491,968,https://journals.plos.org/plosbiology/,1544-9173/1545-7885,A1
-Current Opinion in Microbiology,4.418 ,Q1,169,80,390,https://www.journals.elsevier.com/current-opinion-in-microbiology,1369-5274/1879-0364,A1
-Trends in Microbiology,4.288 ,Q1,181,122,358,https://www.cell.com/trends/microbiology/home,0966-842X/1878-4380,A1
-Journal for ImmunoTherapy of Cancer,4.194 ,Q1,45,357,350,https://jitc.biomedcentral.com/,2051-1426,A1
-Arthritis and Rheumatology,4.113 ,Q1,305,317,1075,https://onlinelibrary.wiley.com/journal/23265205,2326-5191/2326-5205,A1
-Annual Review of Virology,3.977 ,Q1,30,32,81,https://www.annualreviews.org/journal/virology,2327-056X/2327-0578,A1
-mBio,3.876 ,Q1,102,716,1593,https://mbio.asm.org/,2150-7511/2161-2129,A1
-Current Opinion in Immunology,3.860 ,Q1,186,99,336,https://www.journals.elsevier.com/current-opinion-in-immunology/,0952-7915/1879-0372,A1
-Journal of Allergy and Clinical Immunology,3.700 ,Q1,279,610,1858,https://www.jacionline.org/,0091-6749/1097-6825,A1
-Seminars in Immunology,3.648 ,Q1,120,55,177,https://www.journals.elsevier.com/seminars-in-immunology,1044-5323/1096-3618,A1
-Mucosal Immunology,3.643 ,Q1,92,132,440,https://www.nature.com/mi/,1933-0219/1935-3456,A1
-PLoS Pathogens,3.640 ,Q1,191,558,1979,https://journals.plos.org/plospathogens/,1553-7366/1553-7374,A1
-mSystems,3.489 ,Q1,28,205,232,https://msystems.asm.org/,2379-5077,A1
-Gut Microbes,3.245 ,Q1,61,79,166,https://www.tandfonline.com/loi/kgmi20,1949-0976/1949-0984,A1
-Microbial genomics,3.208 ,Q1,21,73,188,https://www.microbiologyresearch.org/content/journal/mgen,2057-5858,A1
-Allergy: European Journal of Allergy and Clinical Immunology,3.061 ,Q1,163,427,724,https://onlinelibrary.wiley.com/journal/13989995,Sin informacion,No
-Eurosurveillance,3.014 ,Q1,95,281,721,https://www.eurosurveillance.org/,1025-496X/1560-7917,A1
-Seminars in Immunopathology,2.920 ,Q1,90,68,180,https://www.springer.com/journal/281/?IFA,1863-2297/1863-2300,A1
-Metabolic Engineering,2.885 ,Q1,112,131,414,https://www.journals.elsevier.com/metabolic-engineering,1096-7176/1096-7184,A1
-Clinical and Translational Immunology,2.833 ,Q1,22,43,97,https://onlinelibrary.wiley.com/journal/20500068,2050-0068,A1
-EcoSal Plus,2.827 ,Q1,21,16,28,http://www.asmscience.org/content/journal/ecosalplus,2324-6200,A1
-Biotechnology Advances,2.786 ,Q1,176,123,307,https://www.journals.elsevier.com/biotechnology-advances/,0734-9750/1873-1899,A1
-npj Biofilms and Microbiomes,2.705 ,Q1,21,37,88,https://www.nature.com/npjbiofilms/,2055-5008,A1
-Advances in Parasitology,2.641 ,Q1,84,27,97,https://www.sciencedirect.com/bookseries/advances-in-parasitology,Sin informacion,No
-Soil Biology and Biochemistry,2.630 ,Q1,206,303,981,https://www.sciencedirect.com/journal/soil-biology-and-biochemistry,0038-0717,A1
-Proceedings of the Royal Society B: Biological Sciences,2.626 ,Q1,237,599,1813,https://royalsocietypublishing.org/journal/rspb,Sin informacion,No
-Trends in Parasitology,2.606 ,Q1,136,120,370,https://www.cell.com/trends/parasitology/home,1471-4922/1471-5007,A1
-"Brain, Behavior, and Immunity",2.582 ,Q1,140,351,820,https://www.journals.elsevier.com/brain-behavior-and-immunity,Sin informacion,No
-Cellular and Molecular Immunology,2.569 ,Q1,74,195,384,https://www.nature.com/cmi/,1672-7681/2042-0226,A1
-Journal of Immunology,2.509 ,Q1,363,667,2673,https://www.jimmunol.org/,0022-1767/1550-6606,A1
-npj Vaccines,2.465 ,Q1,15,54,107,https://www.nature.com/npjvaccines/,2059-0105,A1
-OncoImmunology,2.461 ,Q1,65,266,1153,https://www.tandfonline.com/loi/koni20,2162-4011/2162-402X,A1
-Current Opinion in Virology,2.455 ,Q1,62,80,350,https://www.sciencedirect.com/journal/current-opinion-in-virology,1879-6257/1879-6265,A1
-AIDS,2.447 ,Q1,212,361,1169,https://journals.lww.com/aidsonline/pages/default.aspx,0269-9370/1473-5571,A1
-Cytokine and Growth Factor Reviews,2.432 ,Q1,152,43,178,https://www.sciencedirect.com/journal/cytokine-and-growth-factor-reviews,1359-6101/1879-0305,A1
-Journal of Virology,2.406 ,Q1,282,803,2776,http://jvi.asm.org/,0022-538X/1098-5514,A1
-Open Biology,2.368 ,Q1,46,96,367,https://royalsocietypublishing.org/journal/rsob,2046-2441,A1
-Autoimmunity Reviews,2.281 ,Q1,114,159,473,https://www.journals.elsevier.com/autoimmunity-reviews,1568-9972/1873-0183,A1
-mSphere,2.267 ,Q1,28,330,672,https://msphere.asm.org/,2379-5042,A1
-Emerging Microbes and Infections,2.212 ,Q1,38,172,415,https://www.tandfonline.com/toc/temi20/current,2222-1751,A1
-Journal of Neuroinflammation,2.187 ,Q1,102,284,917,https://jneuroinflammation.biomedcentral.com/,1742-2094,A1
-Environmental Microbiology,2.180 ,Q1,176,364,1159,https://sfamjournals.onlinelibrary.wiley.com/journal/14622920,1462-2912/1462-2920,A1
-Cell Death and Disease,2.164 ,Q1,96,960,2320,https://www.nature.com/cddis/,2041-4889,A1
-DMM Disease Models and Mechanisms,2.138 ,Q1,74,152,458,https://dmm.biologists.org/,1754-8403/1754-8411,A1
-European Journal of Immunology,2.124 ,Q1,194,197,685,https://onlinelibrary.wiley.com/journal/15214141,0014-2980/1521-4141,A1
-Frontiers in Immunology,2.116 ,Q1,102,3101,5743,https://www.frontiersin.org/journals/immunology,1664-3224,A1
-Journal of Autoimmunity,2.107 ,Q1,107,151,368,https://www.journals.elsevier.com/journal-of-autoimmunity,0896-8411/1095-9157,A1
-Molecular Microbiology,2.089 ,Q1,237,245,811,https://onlinelibrary.wiley.com/journal/13652958,0950-382X/1365-2958,A1
-Biology and Fertility of Soils,2.026 ,Q1,117,71,259,https://www.springer.com/journal/374,0178-2762/1432-0789,A1
-Current Opinion in HIV and AIDS,2.016 ,Q1,58,76,256,https://journals.lww.com/co-hivandaids/pages/default.aspx,1746-630X/1746-6318,A1
-International Immunology,1.993 ,Q1,129,80,194,https://academic.oup.com/intimm,0953-8178/1460-2377,A1
-Microbiology spectrum,1.993 ,Q1,40,110,445,https://www.asmscience.org/microbiologyspectrum,2165-0497,A1
-Journal of Scleroderma and Related Disorders,1.968 ,Q1,9,45,96,https://journals.sagepub.com/home/jso,2397-1983/2397-1991,A1
-"Cancer Immunology, Immunotherapy",1.957 ,Q1,112,183,470,http://www.springer.com/medicine/oncology/journal/262,Sin informacion,No
-Cellular Microbiology,1.954 ,Q1,133,161,367,https://onlinelibrary.wiley.com/journal/14625822,1462-5814/1462-5822,A1
-Current HIV/AIDS Reports,1.942 ,Q1,52,53,118,http://www.springer.com/medicine/journal/11904,Sin informacion,No
-Critical Reviews in Microbiology,1.934 ,Q1,81,43,158,https://www.tandfonline.com/toc/imby20/current,1040-841X/1549-7828,A1
-Biometrics,1.894 ,Q1,124,196,441,https://onlinelibrary.wiley.com/journal/15410420,0006-341X/1541-0420,A1
-Journal of Bacteriology,1.843 ,Q1,234,300,924,https://jb.asm.org/,0021-9193/1098-5530,A1
-Immunology,1.810 ,Q1,125,118,438,https://onlinelibrary.wiley.com/journal/13652567,0019-2805/1365-2567,A1
-Malaria Journal,1.780 ,Q1,96,450,1595,https://malariajournal.biomedcentral.com/,1475-2875,A1
-Retrovirology,1.768 ,Q1,84,46,227,https://retrovirology.biomedcentral.com/,1742-4690,A1
-Virulence,1.757 ,Q1,57,80,482,https://www.tandfonline.com/loi/kvir20,2150-5594/2150-5608,A1
-Expert Review of Vaccines,1.746 ,Q1,81,103,358,https://www.tandfonline.com/toc/ierv20/current,1476-0584/1744-8395,A1
-Vaccines,1.743 ,Q1,29,209,182,https://www.mdpi.com/journal/vaccines,2076-393X,A1
-Biology,1.739 ,Q1,33,91,146,https://www.mdpi.com/journal/biology,2079-7737,A1
-International Journal for Parasitology,1.731 ,Q1,139,108,302,http://www.elsevier.com/wps/find/journaldescription.cws_home/353/description#description,0020-7519/1879-0135,A1
-RMD Open,1.715 ,Q1,28,111,304,https://rmdopen.bmj.com/,2056-5933,A1
-Critical Reviews in Biotechnology,1.703 ,Q1,86,65,253,https://www.tandfonline.com/loi/ibty20,0738-8551/1549-7801,A1
-ImmunoTargets and Therapy,1.703 ,Q1,7,0,6,https://www.dovepress.com/immunotargets-and-therapy-journal,Sin informacion,No
-Frontiers in Microbiology,1.690 ,Q1,108,2984,7844,https://www.frontiersin.org/journals/microbiology,1664-302X,A1
-Journal of Leukocyte Biology,1.688 ,Q1,184,245,767,https://jlb.onlinelibrary.wiley.com/,0741-5400/1938-3673,A1
-Immunology and Cell Biology,1.685 ,Q1,100,91,366,https://onlinelibrary.wiley.com/journal/14401711,0818-9641/1440-1711,A1
-Arthritis Research and Therapy,1.684 ,Q1,144,304,879,https://arthritis-research.biomedcentral.com/,1478-6354/1478-6362,A1
-Vaccine,1.683 ,Q1,175,1046,3135,https://www.sciencedirect.com/journal/vaccine,0264-410X/1358-8745,A1
-Viruses,1.633 ,Q1,69,1219,1463,https://www.mdpi.com/journal/viruses,1999-4915,A1
-Clinical and Vaccine Immunology,1.628 ,Q1,73,0,218,https://cvi.asm.org/,Sin informacion,No
-Frontiers in Cellular and Infection Microbiology,1.626 ,Q1,62,454,1194,https://www.frontiersin.org/journals/cellular-and-infection-microbiology,2235-2988,A1
-Antiviral Research,1.596 ,Q1,115,210,685,https://www.journals.elsevier.com/antiviral-research,0166-3542/1872-9096,A1
-Applied and Environmental Microbiology,1.594 ,Q1,310,545,1927,http://aem.asm.org/,0099-2240/1098-5336,A1
-Infection and Immunity,1.581 ,Q1,212,301,962,https://iai.asm.org/,0019-9567/1098-5522,A1
-Topics in antiviral medicine,1.554 ,Q1,42,20,49,https://www.iasusa.org/activities/topics-in-antiviral-medicine/current-issues/,2161-5853/2161-5861,A1
-Epidemics,1.537 ,Q1,33,57,115,https://www.journals.elsevier.com/epidemics,1755-4365/1878-0067,A1
-Biotechnology for Biofuels,1.522 ,Q1,84,292,910,https://biotechnologyforbiofuels.biomedcentral.com/,1754-6834,A1
-International Journal of Biological Sciences,1.522 ,Q1,77,251,475,https://www.ijbs.com/,1449-2288,A1
-FEMS Microbiology Ecology,1.483 ,Q1,146,214,708,https://academic.oup.com/femsec,0168-6496/1574-6941,A1
-Current Opinion in Food Science,1.466 ,Q1,30,102,302,https://www.journals.elsevier.com/current-opinion-in-food-science,2214-7993/2214-8000,A1
-Fungal Biology Reviews,1.430 ,Q1,48,16,53,https://www.journals.elsevier.com/fungal-biology-reviews,1749-4613/1878-0253,A1
-Parasites and Vectors,1.406 ,Q1,73,614,1961,https://parasitesandvectors.biomedcentral.com/,1756-3305,A1
-International Journal of Medical Microbiology,1.382 ,Q1,88,65,267,https://www.journals.elsevier.com/international-journal-of-medical-microbiology,1438-4221/1618-0607,A1
-Yeast,1.382 ,Q1,99,59,147,https://onlinelibrary.wiley.com/journal/10970061,0749-503X/1097-0061,A1
-Fungal Genetics and Biology,1.379 ,Q1,104,112,252,https://www.journals.elsevier.com/fungal-genetics-and-biology,1087-1845/1096-0937,A1
-International Journal of Food Microbiology,1.364 ,Q1,183,314,958,https://www.journals.elsevier.com/international-journal-of-food-microbiology,0168-1605/1879-3460,A1
-Current Topics in Microbiology and Immunology,1.363 ,Q1,115,59,308,https://www.springer.com/series/82,Sin informacion,No
-Microbial Cell Factories,1.356 ,Q1,90,218,648,https://microbialcellfactories.biomedcentral.com/,1475-2859,A1
-Journal of Nanobiotechnology,1.335 ,Q1,67,126,279,https://jnanobiotechnology.biomedcentral.com/,1477-3155,A1
-Synthetic and Systems Biotechnology,1.335 ,Q1,16,33,107,http://www.keaipublishing.com/en/journals/synthetic-and-systems-biotechnology/,2405-805X,A1
-Microbial Biotechnology,1.332 ,Q1,64,155,416,https://sfamjournals.onlinelibrary.wiley.com/journal/17517915,1751-7907/1751-7915,A1
-Reviews in Environmental Science and Biotechnology,1.327 ,Q1,71,33,99,https://www.springer.com/journal/11157,Sin informacion,No
-FEMS Yeast Research,1.276 ,Q1,86,106,317,https://academic.oup.com/femsyr,1567-1356/1567-1364,A1
-International Journal for Parasitology: Drugs and Drug Resistance,1.257 ,Q1,31,51,155,https://www.sciencedirect.com/journal/international-journal-for-parasitology-drugs-and-drug-resistance,Sin informacion,No
-Tropical Medicine and International Health,1.256 ,Q1,109,155,494,https://onlinelibrary.wiley.com/journal/13653156,1360-2276/1365-3156,A1
-Biotechnology and Bioengineering,1.191 ,Q1,182,293,899,https://onlinelibrary.wiley.com/journal/10970290,0006-3592/1097-0290,A1
-American Journal of Tropical Medicine and Hygiene,1.182 ,Q1,144,567,1745,https://www.ajtmh.org/content/journals/14761645,0002-9637/1476-1645,A1
-Ticks and Tick-borne Diseases,1.182 ,Q1,39,191,560,https://www.journals.elsevier.com/ticks-and-tick-borne-diseases,Sin informacion,No
-Systematic and Applied Microbiology,1.134 ,Q1,92,74,207,https://www.sciencedirect.com/journal/systematic-and-applied-microbiology,0723-2020/1618-0984,A1
-Gut Pathogens,1.116 ,Q1,36,59,197,https://gutpathogens.biomedcentral.com/,1757-4749,A1
-Parasitology,1.106 ,Q1,109,212,567,http://journals.cambridge.org/action/displayJournal?jid=PAR,0031-1820/1469-8161,A1
-Biotechnology Journal,1.089 ,Q1,78,216,566,https://onlinelibrary.wiley.com/journal/18607314,1860-6768/1860-7314,A1
-Applied Microbiology and Biotechnology,1.058 ,Q1,212,752,2461,https://www.springer.com/journal/253,0175-7598/1432-0614,A1
-Journal of Biotechnology,0.992 ,Q1,147,224,996,https://www.sciencedirect.com/journal/journal-of-biotechnology,0168-1656/1873-4863,A1
-Biotechnology Reports,0.965 ,Q1,28,101,167,https://www.journals.elsevier.com/biotechnology-reports/,2215-017X,A1
-"Bioscience of Microbiota, Food and Health",0.949 ,Q1,12,23,49,https://bmfh.jp/,Sin informacion,No
-Journal of Microbiology,0.944 ,Q1,59,135,353,https://www.springer.com/journal/12275,1225-8873/1976-3794,A1
-Advances in Biochemical Engineering/Biotechnology,0.916 ,Q1,84,57,137,http://www.springer.com/series/10,Sin informacion,No
+Nature Immunology,9.283,Q1,368,285,758,https://www.nature.com/ni/,1529-2908/1529-2916,A1
+Clinical Microbiology Reviews,8.664,Q1,263,40,99,https://cmr.asm.org/,0893-8512/1098-6618,A1
+Science immunology,8.014,Q1,35,118,243,https://immunology.sciencemag.org/,2470-9468,A1
+Nature Microbiology,7.922000000000001,Q1,58,315,716,https://www.nature.com/nmicrobiol/,2058-5276,A1
+Journal of Experimental Medicine,7.757000000000001,Q1,432,220,703,https://rupress.org/jem,0022-1007/1540-9538,A1
+Microbiology and Molecular Biology Reviews,7.365,Q1,238,21,77,http://mmbr.asm.org/,1092-2172/1098-5557,A1
+Molecular Systems Biology,7.337999999999999,Q1,140,51,178,https://www.embopress.org/journal/17444292,1744-4292,A1
+Cell Host and Microbe,7.167999999999999,Q1,163,198,620,https://www.cell.com/cell-host-microbe/home,1931-3128/1934-6069,A1
+EMBO Journal,7.086,Q1,381,282,756,https://www.embopress.org/journal/14602075,0261-4189/1460-2075,A1
+Annual Review of Microbiology,6.517,Q1,185,31,87,https://www.annualreviews.org/journal/micro,Sin informacion,No
+The Lancet HIV,6.395,Q1,44,201,468,https://www.journals.elsevier.com/the-lancet-hiv,2352-3018,A1
+Annals of the Rheumatic Diseases,6.142,Q1,228,647,1221,http://ard.bmj.com/content/by/year,0003-4967/1468-2060,A1
+eLife,6.079,Q1,115,1675,4167,https://elifesciences.org/magazine,2050-084X,A1
+Immunological Reviews,6.063,Q1,214,90,306,https://onlinelibrary.wiley.com/journal/1600065x,0105-2896/1600-065X,A1
+Trends in Immunology,5.917000000000001,Q1,218,108,286,https://www.cell.com/trends/immunology/home,1471-4906/1471-4981,A1
+FEMS Microbiology Reviews,5.485,Q1,198,40,161,https://academic.oup.com/femsre,0168-6445/1574-6976,A1
+Blood,5.416,Q1,448,852,3077,https://ashpublications.org/blood,0006-4971/1528-0020,A1
+Microbiome,5.282,Q1,62,163,464,https://microbiomejournal.biomedcentral.com/,2049-2618,A1
+ISME Journal,5.073,Q1,156,253,777,https://www.nature.com/ismej/,1751-7362/1751-7370,A1
+Cancer immunology research,4.598,Q1,72,195,393,https://cancerimmunolres.aacrjournals.org/,2326-6066/2326-6074,A1
+PLoS Biology,4.488,Q1,260,491,968,https://journals.plos.org/plosbiology/,1544-9173/1545-7885,A1
+Current Opinion in Microbiology,4.418,Q1,169,80,390,https://www.journals.elsevier.com/current-opinion-in-microbiology,1369-5274/1879-0364,A1
+Trends in Microbiology,4.288,Q1,181,122,358,https://www.cell.com/trends/microbiology/home,0966-842X/1878-4380,A1
+Journal for ImmunoTherapy of Cancer,4.194,Q1,45,357,350,https://jitc.biomedcentral.com/,2051-1426,A1
+Arthritis and Rheumatology,4.113,Q1,305,317,1075,https://onlinelibrary.wiley.com/journal/23265205,2326-5191/2326-5205,A1
+Annual Review of Virology,3.977,Q1,30,32,81,https://www.annualreviews.org/journal/virology,2327-056X/2327-0578,A1
+mBio,3.8760000000000003,Q1,102,716,1593,https://mbio.asm.org/,2150-7511/2161-2129,A1
+Current Opinion in Immunology,3.86,Q1,186,99,336,https://www.journals.elsevier.com/current-opinion-in-immunology/,0952-7915/1879-0372,A1
+Journal of Allergy and Clinical Immunology,3.7,Q1,279,610,1858,https://www.jacionline.org/,0091-6749/1097-6825,A1
+Seminars in Immunology,3.648,Q1,120,55,177,https://www.journals.elsevier.com/seminars-in-immunology,1044-5323/1096-3618,A1
+Mucosal Immunology,3.6430000000000002,Q1,92,132,440,https://www.nature.com/mi/,1933-0219/1935-3456,A1
+PLoS Pathogens,3.64,Q1,191,558,1979,https://journals.plos.org/plospathogens/,1553-7366/1553-7374,A1
+mSystems,3.489,Q1,28,205,232,https://msystems.asm.org/,2379-5077,A1
+Gut Microbes,3.245,Q1,61,79,166,https://www.tandfonline.com/loi/kgmi20,1949-0976/1949-0984,A1
+Microbial genomics,3.208,Q1,21,73,188,https://www.microbiologyresearch.org/content/journal/mgen,2057-5858,A1
+Allergy: European Journal of Allergy and Clinical Immunology,3.0610000000000004,Q1,163,427,724,https://onlinelibrary.wiley.com/journal/13989995,Sin informacion,No
+Eurosurveillance,3.014,Q1,95,281,721,https://www.eurosurveillance.org/,1025-496X/1560-7917,A1
+Seminars in Immunopathology,2.92,Q1,90,68,180,https://www.springer.com/journal/281/?IFA,1863-2297/1863-2300,A1
+Metabolic Engineering,2.885,Q1,112,131,414,https://www.journals.elsevier.com/metabolic-engineering,1096-7176/1096-7184,A1
+Clinical and Translational Immunology,2.833,Q1,22,43,97,https://onlinelibrary.wiley.com/journal/20500068,2050-0068,A1
+EcoSal Plus,2.827,Q1,21,16,28,http://www.asmscience.org/content/journal/ecosalplus,2324-6200,A1
+Biotechnology Advances,2.786,Q1,176,123,307,https://www.journals.elsevier.com/biotechnology-advances/,0734-9750/1873-1899,A1
+npj Biofilms and Microbiomes,2.705,Q1,21,37,88,https://www.nature.com/npjbiofilms/,2055-5008,A1
+Advances in Parasitology,2.641,Q1,84,27,97,https://www.sciencedirect.com/bookseries/advances-in-parasitology,Sin informacion,No
+Soil Biology and Biochemistry,2.63,Q1,206,303,981,https://www.sciencedirect.com/journal/soil-biology-and-biochemistry,0038-0717,A1
+Proceedings of the Royal Society B: Biological Sciences,2.6260000000000003,Q1,237,599,1813,https://royalsocietypublishing.org/journal/rspb,Sin informacion,No
+Trends in Parasitology,2.6060000000000003,Q1,136,120,370,https://www.cell.com/trends/parasitology/home,1471-4922/1471-5007,A1
+"Brain, Behavior, and Immunity",2.582,Q1,140,351,820,https://www.journals.elsevier.com/brain-behavior-and-immunity,Sin informacion,No
+Cellular and Molecular Immunology,2.569,Q1,74,195,384,https://www.nature.com/cmi/,1672-7681/2042-0226,A1
+Journal of Immunology,2.509,Q1,363,667,2673,https://www.jimmunol.org/,0022-1767/1550-6606,A1
+npj Vaccines,2.465,Q1,15,54,107,https://www.nature.com/npjvaccines/,2059-0105,A1
+OncoImmunology,2.461,Q1,65,266,1153,https://www.tandfonline.com/loi/koni20,2162-4011/2162-402X,A1
+Current Opinion in Virology,2.455,Q1,62,80,350,https://www.sciencedirect.com/journal/current-opinion-in-virology,1879-6257/1879-6265,A1
+AIDS,2.447,Q1,212,361,1169,https://journals.lww.com/aidsonline/pages/default.aspx,0269-9370/1473-5571,A1
+Cytokine and Growth Factor Reviews,2.432,Q1,152,43,178,https://www.sciencedirect.com/journal/cytokine-and-growth-factor-reviews,1359-6101/1879-0305,A1
+Journal of Virology,2.406,Q1,282,803,2776,http://jvi.asm.org/,0022-538X/1098-5514,A1
+Open Biology,2.3680000000000003,Q1,46,96,367,https://royalsocietypublishing.org/journal/rsob,2046-2441,A1
+Autoimmunity Reviews,2.281,Q1,114,159,473,https://www.journals.elsevier.com/autoimmunity-reviews,1568-9972/1873-0183,A1
+mSphere,2.267,Q1,28,330,672,https://msphere.asm.org/,2379-5042,A1
+Emerging Microbes and Infections,2.2119999999999997,Q1,38,172,415,https://www.tandfonline.com/toc/temi20/current,2222-1751,A1
+Journal of Neuroinflammation,2.187,Q1,102,284,917,https://jneuroinflammation.biomedcentral.com/,1742-2094,A1
+Environmental Microbiology,2.18,Q1,176,364,1159,https://sfamjournals.onlinelibrary.wiley.com/journal/14622920,1462-2912/1462-2920,A1
+Cell Death and Disease,2.164,Q1,96,960,2320,https://www.nature.com/cddis/,2041-4889,A1
+DMM Disease Models and Mechanisms,2.138,Q1,74,152,458,https://dmm.biologists.org/,1754-8403/1754-8411,A1
+European Journal of Immunology,2.124,Q1,194,197,685,https://onlinelibrary.wiley.com/journal/15214141,0014-2980/1521-4141,A1
+Frontiers in Immunology,2.116,Q1,102,3101,5743,https://www.frontiersin.org/journals/immunology,1664-3224,A1
+Journal of Autoimmunity,2.1069999999999998,Q1,107,151,368,https://www.journals.elsevier.com/journal-of-autoimmunity,0896-8411/1095-9157,A1
+Molecular Microbiology,2.089,Q1,237,245,811,https://onlinelibrary.wiley.com/journal/13652958,0950-382X/1365-2958,A1
+Biology and Fertility of Soils,2.026,Q1,117,71,259,https://www.springer.com/journal/374,0178-2762/1432-0789,A1
+Current Opinion in HIV and AIDS,2.016,Q1,58,76,256,https://journals.lww.com/co-hivandaids/pages/default.aspx,1746-630X/1746-6318,A1
+International Immunology,1.993,Q1,129,80,194,https://academic.oup.com/intimm,0953-8178/1460-2377,A1
+Microbiology spectrum,1.993,Q1,40,110,445,https://www.asmscience.org/microbiologyspectrum,2165-0497,A1
+Journal of Scleroderma and Related Disorders,1.9680000000000002,Q1,9,45,96,https://journals.sagepub.com/home/jso,2397-1983/2397-1991,A1
+"Cancer Immunology, Immunotherapy",1.9569999999999999,Q1,112,183,470,http://www.springer.com/medicine/oncology/journal/262,Sin informacion,No
+Cellular Microbiology,1.954,Q1,133,161,367,https://onlinelibrary.wiley.com/journal/14625822,1462-5814/1462-5822,A1
+Current HIV/AIDS Reports,1.942,Q1,52,53,118,http://www.springer.com/medicine/journal/11904,Sin informacion,No
+Critical Reviews in Microbiology,1.9340000000000002,Q1,81,43,158,https://www.tandfonline.com/toc/imby20/current,1040-841X/1549-7828,A1
+Biometrics,1.8940000000000001,Q1,124,196,441,https://onlinelibrary.wiley.com/journal/15410420,0006-341X/1541-0420,A1
+Journal of Bacteriology,1.8430000000000002,Q1,234,300,924,https://jb.asm.org/,0021-9193/1098-5530,A1
+Immunology,1.81,Q1,125,118,438,https://onlinelibrary.wiley.com/journal/13652567,0019-2805/1365-2567,A1
+Malaria Journal,1.78,Q1,96,450,1595,https://malariajournal.biomedcentral.com/,1475-2875,A1
+Retrovirology,1.768,Q1,84,46,227,https://retrovirology.biomedcentral.com/,1742-4690,A1
+Virulence,1.757,Q1,57,80,482,https://www.tandfonline.com/loi/kvir20,2150-5594/2150-5608,A1
+Expert Review of Vaccines,1.746,Q1,81,103,358,https://www.tandfonline.com/toc/ierv20/current,1476-0584/1744-8395,A1
+Vaccines,1.743,Q1,29,209,182,https://www.mdpi.com/journal/vaccines,2076-393X,A1
+Biology,1.739,Q1,33,91,146,https://www.mdpi.com/journal/biology,2079-7737,A1
+International Journal for Parasitology,1.7309999999999999,Q1,139,108,302,http://www.elsevier.com/wps/find/journaldescription.cws_home/353/description#description,0020-7519/1879-0135,A1
+RMD Open,1.715,Q1,28,111,304,https://rmdopen.bmj.com/,2056-5933,A1
+Critical Reviews in Biotechnology,1.703,Q1,86,65,253,https://www.tandfonline.com/loi/ibty20,0738-8551/1549-7801,A1
+ImmunoTargets and Therapy,1.703,Q1,7,0,6,https://www.dovepress.com/immunotargets-and-therapy-journal,Sin informacion,No
+Frontiers in Microbiology,1.69,Q1,108,2984,7844,https://www.frontiersin.org/journals/microbiology,1664-302X,A1
+Journal of Leukocyte Biology,1.6880000000000002,Q1,184,245,767,https://jlb.onlinelibrary.wiley.com/,0741-5400/1938-3673,A1
+Immunology and Cell Biology,1.685,Q1,100,91,366,https://onlinelibrary.wiley.com/journal/14401711,0818-9641/1440-1711,A1
+Arthritis Research and Therapy,1.6840000000000002,Q1,144,304,879,https://arthritis-research.biomedcentral.com/,1478-6354/1478-6362,A1
+Vaccine,1.683,Q1,175,1046,3135,https://www.sciencedirect.com/journal/vaccine,0264-410X/1358-8745,A1
+Viruses,1.633,Q1,69,1219,1463,https://www.mdpi.com/journal/viruses,1999-4915,A1
+Clinical and Vaccine Immunology,1.6280000000000001,Q1,73,0,218,https://cvi.asm.org/,Sin informacion,No
+Frontiers in Cellular and Infection Microbiology,1.626,Q1,62,454,1194,https://www.frontiersin.org/journals/cellular-and-infection-microbiology,2235-2988,A1
+Antiviral Research,1.5959999999999999,Q1,115,210,685,https://www.journals.elsevier.com/antiviral-research,0166-3542/1872-9096,A1
+Applied and Environmental Microbiology,1.594,Q1,310,545,1927,http://aem.asm.org/,0099-2240/1098-5336,A1
+Infection and Immunity,1.581,Q1,212,301,962,https://iai.asm.org/,0019-9567/1098-5522,A1
+Topics in antiviral medicine,1.554,Q1,42,20,49,https://www.iasusa.org/activities/topics-in-antiviral-medicine/current-issues/,2161-5853/2161-5861,A1
+Epidemics,1.537,Q1,33,57,115,https://www.journals.elsevier.com/epidemics,1755-4365/1878-0067,A1
+Biotechnology for Biofuels,1.5219999999999998,Q1,84,292,910,https://biotechnologyforbiofuels.biomedcentral.com/,1754-6834,A1
+International Journal of Biological Sciences,1.5219999999999998,Q1,77,251,475,https://www.ijbs.com/,1449-2288,A1
+FEMS Microbiology Ecology,1.483,Q1,146,214,708,https://academic.oup.com/femsec,0168-6496/1574-6941,A1
+Current Opinion in Food Science,1.466,Q1,30,102,302,https://www.journals.elsevier.com/current-opinion-in-food-science,2214-7993/2214-8000,A1
+Fungal Biology Reviews,1.43,Q1,48,16,53,https://www.journals.elsevier.com/fungal-biology-reviews,1749-4613/1878-0253,A1
+Parasites and Vectors,1.406,Q1,73,614,1961,https://parasitesandvectors.biomedcentral.com/,1756-3305,A1
+International Journal of Medical Microbiology,1.382,Q1,88,65,267,https://www.journals.elsevier.com/international-journal-of-medical-microbiology,1438-4221/1618-0607,A1
+Yeast,1.382,Q1,99,59,147,https://onlinelibrary.wiley.com/journal/10970061,0749-503X/1097-0061,A1
+Fungal Genetics and Biology,1.379,Q1,104,112,252,https://www.journals.elsevier.com/fungal-genetics-and-biology,1087-1845/1096-0937,A1
+International Journal of Food Microbiology,1.364,Q1,183,314,958,https://www.journals.elsevier.com/international-journal-of-food-microbiology,0168-1605/1879-3460,A1
+Current Topics in Microbiology and Immunology,1.3630000000000002,Q1,115,59,308,https://www.springer.com/series/82,Sin informacion,No
+Microbial Cell Factories,1.3559999999999999,Q1,90,218,648,https://microbialcellfactories.biomedcentral.com/,1475-2859,A1
+Journal of Nanobiotechnology,1.335,Q1,67,126,279,https://jnanobiotechnology.biomedcentral.com/,1477-3155,A1
+Synthetic and Systems Biotechnology,1.335,Q1,16,33,107,http://www.keaipublishing.com/en/journals/synthetic-and-systems-biotechnology/,2405-805X,A1
+Microbial Biotechnology,1.3319999999999999,Q1,64,155,416,https://sfamjournals.onlinelibrary.wiley.com/journal/17517915,1751-7907/1751-7915,A1
+Reviews in Environmental Science and Biotechnology,1.327,Q1,71,33,99,https://www.springer.com/journal/11157,Sin informacion,No
+FEMS Yeast Research,1.276,Q1,86,106,317,https://academic.oup.com/femsyr,1567-1356/1567-1364,A1
+International Journal for Parasitology: Drugs and Drug Resistance,1.2570000000000001,Q1,31,51,155,https://www.sciencedirect.com/journal/international-journal-for-parasitology-drugs-and-drug-resistance,Sin informacion,No
+Tropical Medicine and International Health,1.256,Q1,109,155,494,https://onlinelibrary.wiley.com/journal/13653156,1360-2276/1365-3156,A1
+Biotechnology and Bioengineering,1.1909999999999998,Q1,182,293,899,https://onlinelibrary.wiley.com/journal/10970290,0006-3592/1097-0290,A1
+American Journal of Tropical Medicine and Hygiene,1.182,Q1,144,567,1745,https://www.ajtmh.org/content/journals/14761645,0002-9637/1476-1645,A1
+Ticks and Tick-borne Diseases,1.182,Q1,39,191,560,https://www.journals.elsevier.com/ticks-and-tick-borne-diseases,Sin informacion,No
+Systematic and Applied Microbiology,1.1340000000000001,Q1,92,74,207,https://www.sciencedirect.com/journal/systematic-and-applied-microbiology,0723-2020/1618-0984,A1
+Gut Pathogens,1.1159999999999999,Q1,36,59,197,https://gutpathogens.biomedcentral.com/,1757-4749,A1
+Parasitology,1.1059999999999999,Q1,109,212,567,http://journals.cambridge.org/action/displayJournal?jid=PAR,0031-1820/1469-8161,A1
+Biotechnology Journal,1.089,Q1,78,216,566,https://onlinelibrary.wiley.com/journal/18607314,1860-6768/1860-7314,A1
+Applied Microbiology and Biotechnology,1.058,Q1,212,752,2461,https://www.springer.com/journal/253,0175-7598/1432-0614,A1
+Journal of Biotechnology,0.992,Q1,147,224,996,https://www.sciencedirect.com/journal/journal-of-biotechnology,0168-1656/1873-4863,A1
+Biotechnology Reports,0.965,Q1,28,101,167,https://www.journals.elsevier.com/biotechnology-reports/,2215-017X,A1
+"Bioscience of Microbiota, Food and Health",0.9490000000000001,Q1,12,23,49,https://bmfh.jp/,Sin informacion,No
+Journal of Microbiology,0.9440000000000001,Q1,59,135,353,https://www.springer.com/journal/12275,1225-8873/1976-3794,A1
+Advances in Biochemical Engineering/Biotechnology,0.9159999999999999,Q1,84,57,137,http://www.springer.com/series/10,Sin informacion,No

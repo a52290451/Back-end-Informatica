@@ -1,145 +1,145 @@
-Nombre,Factor,Categoria,Indice-H,Cantidad-articulos-ultimo,Cantidad-articulos-ultimos-tres,Enlace,ISSN,Homologacion
-Nature Reviews Neuroscience,14.780,Q1,397,149,409,https://www.nature.com/nrn/,1471-003X/1471-0048,A1
-Nature Neuroscience,13.723,Q1,398,261,734,https://www.nature.com/neuro/,1097-6256/1546-1726,A1
+Nombre,Factor,Categoria,IndiceH,CantidadArticulosUltimo,CantidadArticulosUltimosTres,Enlace,ISSN,Homologacion
+Nature Reviews Neuroscience,14.78,Q1,397,149,409,https://www.nature.com/nrn/,1471-003X/1471-0048,A1
+Nature Neuroscience,13.722999999999999,Q1,398,261,734,https://www.nature.com/neuro/,1097-6256/1546-1726,A1
 Annual Review of Neuroscience,10.311,Q1,233,23,72,https://www.annualreviews.org/journal/neuro,Sin informacion,No
-Neuron,9.527 ,Q1,453,469,1570,http://www.cell.com/neuron/home,0896-6273/1097-4199,A1
-Acta Neuropathologica,8.158 ,Q1,158,153,412,https://www.springer.com/journal/401,0001-6322/1432-0533,A1
-EMBO Journal,7.086 ,Q1,381,282,756,https://www.embopress.org/journal/14602075,0261-4189/1460-2075,A1
-The Lancet Psychiatry,6.967 ,Q1,65,340,995,https://www.thelancet.com/journals/lanpsy/home,2215-0366/2215-0374,A1
-Trends in Cognitive Sciences,6.948 ,Q1,298,118,353,https://www.cell.com/trends/cognitive-sciences/home,1364-6613/1879-307X,A1
-Molecular Psychiatry,6.290 ,Q1,207,381,812,https://www.nature.com/mp/,1359-4184/1476-5578,A1
-eLife,6.079 ,Q1,115,1675,4167,https://elifesciences.org/magazine,2050-084X,A1
-Biological Psychiatry,6.059 ,Q1,308,313,934,https://www.biologicalpsychiatryjournal.com/,0006-3223/1873-2402,A1
-Alzheimer's and Dementia,6.012 ,Q1,107,166,424,http://www.elsevier.com/wps/find/journaldescription.cws_home/704180/description#description,Sin informacion,No
-Progress in Retinal and Eye Research,5.834 ,Q1,141,54,130,https://www.journals.elsevier.com/progress-in-retinal-and-eye-research,1350-9462/1873-1635,A1
-Nature Reviews Neurology,5.247 ,Q1,139,181,516,https://www.nature.com/nrneurol/,1759-4758/1759-4766,A1
-Annals of Neurology,4.900 ,Q1,287,214,702,https://onlinelibrary.wiley.com/journal/15318249,0364-5134/1531-8249,A1
-Trends in Neurosciences,4.871 ,Q1,281,90,275,https://www.cell.com/trends/neurosciences/home,0166-2236/0378-5912,A1
-PLoS Biology,4.488 ,Q1,260,491,968,https://journals.plos.org/plosbiology/,1544-9173/1545-7885,A1
-Current Opinion in Neurobiology,4.380 ,Q1,222,160,462,https://www.journals.elsevier.com/current-opinion-in-neurobiology,0959-4388/1873-6882,A1
-Molecular Neurodegeneration,4.040 ,Q1,76,51,237,https://molecularneurodegeneration.biomedcentral.com/,1750-1326,A1
-Current Biology,3.958 ,Q1,303,820,2491,https://www.cell.com/current-biology/home,0960-9822/1879-0445,A1
-Journal of Abnormal Psychology,3.809 ,Q1,186,91,280,https://www.apa.org/pubs/journals/abn/,0021-843X,A1
-Ageing Research Reviews,3.789 ,Q1,108,82,250,https://www.journals.elsevier.com/ageing-research-reviews,1568-1637/1872-9649,A1
-Journal of Neuroscience,3.701 ,Q1,440,800,3079,https://www.jneurosci.org/,0270-6474/1529-2401,A1
-Neuroscience and Biobehavioral Reviews,3.672 ,Q1,224,344,927,https://www.journals.elsevier.com/neuroscience-and-biobehavioral-reviews/,0149-7634/1873-7528,A1
-Nature Human Behaviour,3.664 ,Q1,29,289,456,https://www.nature.com/nathumbehav/,2397-3374,A1
-Sleep Medicine Reviews,3.567 ,Q1,135,88,256,https://www.journals.elsevier.com/sleep-medicine-reviews,1087-0792/1532-2955,A1
-Progress in Neurobiology,3.475 ,Q1,222,71,176,https://www.journals.elsevier.com/progress-in-neurobiology,0301-0082/1873-5118,A1
-Frontiers in Neuroendocrinology,3.333 ,Q1,127,60,100,https://www.journals.elsevier.com/frontiers-in-neuroendocrinology,0091-3022/1095-6808,A1
-Cerebral Cortex,3.208 ,Q1,239,391,1144,https://academic.oup.com/cercor,1047-3211/1460-2199,A1
-NeuroImage,3.207 ,Q1,344,1044,2698,https://www.journals.elsevier.com/neuroimage,1053-8119/1095-9572,A1
-Stroke,3.097 ,Q1,310,788,1986,https://www.ahajournals.org/journal/str,0039-2499/1524-4628,A1
-Cellular and Molecular Life Sciences,2.970 ,Q1,210,431,890,https://www.springer.com/journal/18,1420-682X/1420-9071,A1
-Movement Disorders,2.954 ,Q1,186,322,1018,https://onlinelibrary.wiley.com/journal/15318257,0885-3185/1531-8257,A1
-PLoS Computational Biology,2.910 ,Q1,166,703,1804,https://journals.plos.org/ploscompbiol/,1553-734X/1553-7358,A1
-Biological Psychiatry: Cognitive Neuroscience and Neuroimaging,2.904 ,Q1,22,141,290,https://www.biologicalpsychiatrycnni.org/,Sin informacion,No
-Acta neuropathologica communications,2.845 ,Q1,45,221,361,https://actaneurocomms.biomedcentral.com/,2051-5960,A1
-Neurobiology of Stress,2.815 ,Q1,27,60,99,https://www.journals.elsevier.com/neurobiology-of-stress,2352-2895,A1
-Translational Psychiatry,2.760 ,Q1,74,343,882,https://www.nature.com/tp/,2158-3188,A1
-GLIA,2.730 ,Q1,159,177,466,https://onlinelibrary.wiley.com/journal/10981136,0894-1491/1098-1136,A1
-Journal of Experimental Psychology: General,2.721 ,Q1,150,223,376,https://www.apa.org/pubs/journals/xge/,Sin informacion,No
-Brain Stimulation,2.599 ,Q1,74,230,506,https://www.brainstimjrnl.com/,1876-4754/1935-861X,A1
-Molecular Autism,2.585 ,Q1,50,53,192,https://molecularautism.biomedcentral.com/,2040-2392,A1
-"Brain, Behavior, and Immunity",2.582 ,Q1,140,351,820,https://www.journals.elsevier.com/brain-behavior-and-immunity,Sin informacion,No
-Pain,2.563 ,Q1,250,310,1023,https://journals.lww.com/pain/pages/default.aspx,0304-3959/1872-6623,A1
-Dialogues in Clinical Neuroscience,2.554 ,Q1,79,42,120,https://www.dialogues-cns.org/,1294-8322/1958-5969,A1
-Neuroscientist,2.537 ,Q1,117,65,171,https://journals.sagepub.com/home/nro,1073-8584/1089-4098,A1
-Developmental Cognitive Neuroscience,2.520 ,Q1,55,137,260,https://www.journals.elsevier.com/developmental-cognitive-neuroscience,1878-9293/1878-9307,A1
-Neuropathology and Applied Neurobiology,2.497 ,Q1,90,86,168,http://www.wiley.com/bw/journal.asp?ref=0305-1846,0305-1846/1365-2990,A1
-Epilepsia,2.484 ,Q1,184,298,923,https://onlinelibrary.wiley.com/journal/15281167,0013-9580/1528-1167,A1
-Developmental Science,2.425 ,Q1,120,175,376,https://onlinelibrary.wiley.com/journal/14677687,1363-755X/1467-7687,A1
-Alzheimer's Research and Therapy,2.398 ,Q1,58,116,286,https://alzres.biomedcentral.com/,Sin informacion,No
-Open Biology,2.368 ,Q1,46,96,367,https://royalsocietypublishing.org/journal/rsob,2046-2441,A1
-Cognition,2.330 ,Q1,179,248,718,https://www.journals.elsevier.com/cognition,0010-0277/1873-7838,A1
-Neurobiology of Disease,2.285 ,Q1,161,336,640,https://www.journals.elsevier.com/neurobiology-of-disease,0969-9961/1095-953X,A1
-Bipolar Disorders,2.269 ,Q1,124,143,279,https://onlinelibrary.wiley.com/journal/13995618,1398-5647/1399-5618,A1
-Frontiers in Synaptic Neuroscience,2.257 ,Q1,34,27,64,https://www.frontiersin.org/journals/synaptic-neuroscience,1663-3563,A1
-Annals of Clinical and Translational Neurology,2.253 ,Q1,35,272,322,https://onlinelibrary.wiley.com/journal/23289503,2328-9503,A1
-Journal of Cerebral Blood Flow and Metabolism,2.230 ,Q1,186,293,656,https://journals.sagepub.com/home/jcb,0271-678X/1559-7016,A1
-Human Brain Mapping,2.216 ,Q1,182,404,1133,https://onlinelibrary.wiley.com/journal/10970193,1065-9471/1097-0193,A1
-Journal of Neuroinflammation,2.187 ,Q1,102,284,917,https://jneuroinflammation.biomedcentral.com/,1742-2094,A1
-Cell Death and Disease,2.164 ,Q1,96,960,2320,https://www.nature.com/cddis/,2041-4889,A1
-DMM Disease Models and Mechanisms,2.138 ,Q1,74,152,458,https://dmm.biologists.org/,1754-8403/1754-8411,A1
-Social Cognitive and Affective Neuroscience,2.095 ,Q1,95,99,489,http://scan.oxfordjournals.org/,1749-5016/1749-5024,A1
-eNeuro,2.088 ,Q1,27,328,834,http://www.eneuro.org/,2373-2822,A1
-Psychoneuroendocrinology,2.049 ,Q1,164,401,966,https://www.journals.elsevier.com/psychoneuroendocrinology,0306-4530/1873-3360,A1
-Hippocampus,2.046 ,Q1,151,123,317,https://onlinelibrary.wiley.com/journal/10981063,1050-9631/1098-1063,A1
-Cortex,2.026 ,Q1,108,347,800,https://www.sciencedirect.com/journal/cortex,0010-9452/1973-8102,A1
-Neurobiology of Aging,2.021 ,Q1,177,299,954,http://www.elsevier.com/wps/find/journaldescription.cws_home/525480/description#description,0197-4580/1558-1497,A1
-Journal of Comparative Neurology,2.009 ,Q1,203,215,586,https://onlinelibrary.wiley.com/journal/10969861,0021-9967/1096-9861,A1
-Frontiers in Systems Neuroscience,2.003 ,Q1,66,89,273,https://www.frontiersin.org/journals/systems-neuroscience,1662-5137,A1
-Neuroinformatics,1.984 ,Q1,55,41,107,https://www.springer.com/journal/12021,1539-2791/1559-0089,A1
-Current Opinion in Behavioral Sciences,1.970 ,Q1,31,146,458,https://www.sciencedirect.com/journal/current-opinion-in-behavioral-sciences,2352-1546/2352-1554,A1
-International Journal of Stroke,1.949 ,Q1,67,211,461,http://www.wiley.com/bw/journal.asp?ref=1747-4930&site=1,1747-4930/1747-4949,A1
-Molecular Brain,1.945 ,Q1,55,120,241,https://molecularbrain.biomedcentral.com/,1756-6606,A1
-Developmental Neurobiology,1.944 ,Q1,126,67,272,https://onlinelibrary.wiley.com/journal/1932846x,1932-8451/1932-846X,A1
-Wiley Interdisciplinary Reviews: Cognitive Science,1.943 ,Q1,44,29,88,https://onlinelibrary.wiley.com/journal/19395086,Sin informacion,No
-Experimental Neurology,1.928 ,Q1,178,217,711,https://www.journals.elsevier.com/experimental-neurology,0014-4886/1090-2430,A1
-Frontiers in Neural Circuits,1.909 ,Q1,54,87,346,https://www.frontiersin.org/journals/neural-circuits,1662-5110,A1
-British Journal of Ophthalmology,1.878 ,Q1,146,483,949,https://bjo.bmj.com/,0007-1161/1468-2079,A1
-Brain Structure and Function,1.862 ,Q1,88,227,845,https://www.springer.com/journal/429/?IFA,1863-2653/1863-2661,A1
-Journal of Psychiatric Research,1.860 ,Q1,130,258,740,https://www.sciencedirect.com/journal/journal-of-psychiatric-research,0022-3956/1879-1379,A1
-Neurorehabilitation and Neural Repair,1.853 ,Q1,99,93,261,https://journals.sagepub.com/home/nnr,1545-9683/1552-6844,A1
-Frontiers in Molecular Neuroscience,1.851 ,Q1,52,329,1098,https://www.scimagojr.com/journalsearch.php?q=19700175113&tip=sid&clean=0,1662-5099,A1
-Multiple Sclerosis,1.837 ,Q1,120,396,891,https://journals.sagepub.com/home/msj,1352-4585/1477-0970,A1
-Journal of Experimental Psychology: Human Perception and Performance,1.835 ,Q1,143,116,462,https://www.apa.org/pubs/journals/xhp/,Sin informacion,No
-Journal of Neurochemistry,1.828 ,Q1,221,255,921,https://onlinelibrary.wiley.com/journal/14714159,0022-3042/1471-4159,A1
-Brain Pathology,1.827 ,Q1,127,103,308,https://onlinelibrary.wiley.com/journal/17503639,1015-6305/1750-3639,A1
-Translational Neurodegeneration,1.812 ,Q1,33,36,93,https://translationalneurodegeneration.biomedcentral.com/,2047-9158,A1
-Journal of Psychiatry and Neuroscience,1.810 ,Q1,94,54,170,https://jpn.ca/,1180-4882/1488-2434,A1
-Psychophysiology,1.809 ,Q1,150,165,517,https://onlinelibrary.wiley.com/journal/14698986,0048-5772/1469-8986,A1
-Frontiers in Neuroanatomy,1.808 ,Q1,57,104,382,https://www.frontiersin.org/journals/neuroanatomy,1662-5129,A1
-NeuroImage: Clinical,1.795 ,Q1,58,503,979,https://www.journals.elsevier.com/neuroimage-clinical,Sin informacion,No
-Brain Connectivity,1.789 ,Q1,48,69,192,https://home.liebertpub.com/publications/brain-connectivity/389/overview,2158-0014/2158-0022,A1
-Investigative Ophthalmology and Visual Science,1.789 ,Q1,209,561,2474,https://iovs.arvojournals.org/,0146-0404/1552-5783,A1
-Neuroendocrinology,1.738 ,Q1,97,84,218,https://www.karger.com/Journal/Home/223855,0028-3835/1423-0194,A1
-Journal of Pain,1.732 ,Q1,119,184,440,https://www.sciencedirect.com/journal/the-journal-of-pain,1526-5900/1528-8447,A1
-Annals of the New York Academy of Sciences,1.726 ,Q1,239,237,811,https://nyaspubs.onlinelibrary.wiley.com/journal/17496632,Sin informacion,No
-Neural Networks,1.718 ,Q1,136,206,506,https://www.journals.elsevier.com/neural-networks,0893-6080/1879-2782,A1
-European Journal of Neurology,1.703 ,Q1,117,253,828,https://onlinelibrary.wiley.com/journal/14681331,1351-5101/1468-1331,A1
-Developmental Medicine and Child Neurology,1.691 ,Q1,137,325,885,https://onlinelibrary.wiley.com/journal/14698749,0012-1622/1469-8749,A1
-Journal of Cognitive Neuroscience,1.682 ,Q1,206,96,523,https://www.mitpressjournals.org/loi/jocn,0898-929X/1530-8898,A1
-Neural Development,1.675 ,Q1,49,12,68,https://neuraldevelopment.biomedcentral.com/,1749-8104,A1
-Neurology: Neuroimmunology and NeuroInflammation,1.674 ,Q1,35,114,263,https://nn.neurology.org/,Sin informacion,No
-Current Opinion in Neurology,1.657 ,Q1,115,128,316,https://journals.lww.com/co-neurology/pages/default.aspx,1350-7540/1473-6551,A1
-Cognitive Science,1.654 ,Q1,107,94,406,https://onlinelibrary.wiley.com/journal/15516709,0364-0213/1551-6709,A1
-European Neuropsychopharmacology,1.652 ,Q1,107,136,448,https://www.journals.elsevier.com/european-neuropsychopharmacology,0924-977X/1873-7862,A1
-Current Topics in Behavioral Neurosciences,1.637 ,Q1,50,43,237,https://www.springer.com/series/7854,Sin informacion,No
-Frontiers in Aging Neuroscience,1.635 ,Q1,67,333,1109,https://www.frontiersin.org/journals/aging-neuroscience,1663-4365,A1
-Journal of Alzheimer's Disease,1.586 ,Q1,127,729,2184,https://www.j-alz.com/,Sin informacion,No
-Hearing Research,1.585 ,Q1,112,182,616,https://www.journals.elsevier.com/hearing-research,0378-5955/1878-5891,A1
-"Language, Cognition and Neuroscience",1.572 ,Q1,76,114,313,https://www.tandfonline.com/action/journalInformation?journalCode=plcp21,Sin informacion,No
-Hormones and Behavior,1.563 ,Q1,137,132,505,https://www.journals.elsevier.com/hormones-and-behavior,0018-506X/1095-6867,A1
-Neurobiology of Learning and Memory,1.557 ,Q1,113,155,596,https://www.sciencedirect.com/journal/neurobiology-of-learning-and-memory,1074-7427/1095-9564,A1
-Frontiers in Neuroscience,1.554 ,Q1,84,1258,2194,https://www.frontiersin.org/journals/neuroscience,1662-453X/1662-4548,A1
-Current Neuropharmacology,1.531 ,Q1,65,85,317,https://benthamscience.com/journals/current-neuropharmacology/,1570-159X/1875-6190,A1
-"Genes, Brain and Behavior",1.508 ,Q1,88,105,205,https://onlinelibrary.wiley.com/journal/1601183x,Sin informacion,No
-Autism Research,1.506 ,Q1,59,174,429,https://onlinelibrary.wiley.com/journal/19393806,1939-3792/1939-3806,A1
-Journal of Neurodevelopmental Disorders,1.496 ,Q1,41,42,127,https://jneurodevdisorders.biomedcentral.com/,1866-1947/1866-1955,A1
-Molecular Neurobiology,1.482 ,Q1,104,649,2035,https://www.springer.com/journal/12035,0893-7648/1559-1182,A1
-Parkinsonism and Related Disorders,1.478 ,Q1,92,472,922,https://www.journals.elsevier.com/parkinsonism-and-related-disorders,1353-8020/1873-5126,A1
-Journal of Neurosurgery: Spine,1.467 ,Q1,93,235,779,https://thejns.org/spine/view/journals/j-neurosurg-spine/j-neurosurg-spine-overview.xml,Sin informacion,No
-Neuropsychologia,1.464 ,Q1,199,351,1117,https://www.journals.elsevier.com/neuropsychologia,0028-3932/1873-3514,A1
-Neuroscience Bulletin,1.457 ,Q1,41,136,283,https://www.springer.com/journal/12264,1673-7067/1995-8218,A1
-Fluids and Barriers of the CNS,1.448 ,Q1,43,41,92,https://fluidsbarrierscns.biomedcentral.com/,2045-8118,A1
-Cerebellum,1.432 ,Q1,66,115,276,https://www.springer.com/journal/12311,1473-4222/1473-4230,A1
-Neural Plasticity,1.422 ,Q1,62,141,734,http://www.hindawi.com/journals/np/,1687-5443/2090-5904,A1
-Journal of Neuropathology and Experimental Neurology,1.366 ,Q1,159,117,324,https://academic.oup.com/jnen,0022-3069/1554-6578,A1
-Visual Neuroscience,1.357 ,Q1,78,14,53,https://www.cambridge.org/core/journals/visual-neuroscience,0952-5238/1469-8714,A1
-Human Factors,1.345 ,Q1,109,166,255,https://journals.sagepub.com/home/hfs,0018-7208/1547-8181,A1
-Journal of Research on Adolescence,1.333 ,Q1,90,84,207,https://onlinelibrary.wiley.com/journal/15327795,1050-8392/1532-7795,A1
-Journal of Neurology,1.331 ,Q1,130,496,1144,https://link.springer.com/journal/415,0340-5354/1432-1459,A1
-"Attention, Perception & Psychophysics",1.327 ,Q1,111,294,568,https://www.springer.com/journal/13414,Sin informacion,No
-Brain Imaging and Behavior,1.325 ,Q1,44,325,464,https://www.springer.com/journal/11682,1931-7557/1931-7565,A1
-Ophthalmic and Physiological Optics,1.323 ,Q1,63,51,227,https://onlinelibrary.wiley.com/journal/14751313,0275-5408/1475-1313,A1
-Journal of Sleep Research,1.322 ,Q1,110,209,330,https://onlinelibrary.wiley.com/journal/13652869,0962-1105/1365-2869,A1
-Eye and Brain,1.307 ,Q1,11,6,32,https://www.dovepress.com/eye-and-brain-journal,1179-2744,A1
-Clinical Neurophysiology,1.284 ,Q1,175,295,1211,https://www.journals.elsevier.com/clinical-neurophysiology,1388-2457/1872-8952,A1
-"Cognitive, Affective and Behavioral Neuroscience",1.258 ,Q1,97,106,271,https://www.springer.com/journal/13415,Sin informacion,No
-Neuromodulation,1.255 ,Q1,55,200,401,https://onlinelibrary.wiley.com/journal/15251403,1094-7159/1525-1403,A1
-Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration,1.249 ,Q1,70,110,328,https://www.tandfonline.com/toc/iafd20/current,2167-8421/2167-9223,A1
-Frontiers in Human Neuroscience,1.241 ,Q1,100,434,1891,https://www.frontiersin.org/journals/human-neuroscience,1662-5161,A1
-Frontiers in Behavioral Neuroscience,1.199 ,Q1,64,292,828,https://www.frontiersin.org/journals/behavioral-neuroscience,1662-5153,A1
-Behavioural Brain Research,1.179 ,Q1,164,687,1703,https://www.journals.elsevier.com/behavioural-brain-research,0166-4328/1872-7549,A1
-Nature and Science of Sleep,1.170 ,Q1,27,37,106,https://www.dovepress.com/nature-and-science-of-sleep-journal,1179-1608,A1
+Neuron,9.527000000000001,Q1,453,469,1570,http://www.cell.com/neuron/home,0896-6273/1097-4199,A1
+Acta Neuropathologica,8.158,Q1,158,153,412,https://www.springer.com/journal/401,0001-6322/1432-0533,A1
+EMBO Journal,7.086,Q1,381,282,756,https://www.embopress.org/journal/14602075,0261-4189/1460-2075,A1
+The Lancet Psychiatry,6.9670000000000005,Q1,65,340,995,https://www.thelancet.com/journals/lanpsy/home,2215-0366/2215-0374,A1
+Trends in Cognitive Sciences,6.9479999999999995,Q1,298,118,353,https://www.cell.com/trends/cognitive-sciences/home,1364-6613/1879-307X,A1
+Molecular Psychiatry,6.29,Q1,207,381,812,https://www.nature.com/mp/,1359-4184/1476-5578,A1
+eLife,6.079,Q1,115,1675,4167,https://elifesciences.org/magazine,2050-084X,A1
+Biological Psychiatry,6.059,Q1,308,313,934,https://www.biologicalpsychiatryjournal.com/,0006-3223/1873-2402,A1
+Alzheimer's and Dementia,6.0120000000000005,Q1,107,166,424,http://www.elsevier.com/wps/find/journaldescription.cws_home/704180/description#description,Sin informacion,No
+Progress in Retinal and Eye Research,5.834,Q1,141,54,130,https://www.journals.elsevier.com/progress-in-retinal-and-eye-research,1350-9462/1873-1635,A1
+Nature Reviews Neurology,5.247000000000001,Q1,139,181,516,https://www.nature.com/nrneurol/,1759-4758/1759-4766,A1
+Annals of Neurology,4.9,Q1,287,214,702,https://onlinelibrary.wiley.com/journal/15318249,0364-5134/1531-8249,A1
+Trends in Neurosciences,4.871,Q1,281,90,275,https://www.cell.com/trends/neurosciences/home,0166-2236/0378-5912,A1
+PLoS Biology,4.488,Q1,260,491,968,https://journals.plos.org/plosbiology/,1544-9173/1545-7885,A1
+Current Opinion in Neurobiology,4.38,Q1,222,160,462,https://www.journals.elsevier.com/current-opinion-in-neurobiology,0959-4388/1873-6882,A1
+Molecular Neurodegeneration,4.04,Q1,76,51,237,https://molecularneurodegeneration.biomedcentral.com/,1750-1326,A1
+Current Biology,3.958,Q1,303,820,2491,https://www.cell.com/current-biology/home,0960-9822/1879-0445,A1
+Journal of Abnormal Psychology,3.8089999999999997,Q1,186,91,280,https://www.apa.org/pubs/journals/abn/,0021-843X,A1
+Ageing Research Reviews,3.7889999999999997,Q1,108,82,250,https://www.journals.elsevier.com/ageing-research-reviews,1568-1637/1872-9649,A1
+Journal of Neuroscience,3.701,Q1,440,800,3079,https://www.jneurosci.org/,0270-6474/1529-2401,A1
+Neuroscience and Biobehavioral Reviews,3.6719999999999997,Q1,224,344,927,https://www.journals.elsevier.com/neuroscience-and-biobehavioral-reviews/,0149-7634/1873-7528,A1
+Nature Human Behaviour,3.6639999999999997,Q1,29,289,456,https://www.nature.com/nathumbehav/,2397-3374,A1
+Sleep Medicine Reviews,3.5669999999999997,Q1,135,88,256,https://www.journals.elsevier.com/sleep-medicine-reviews,1087-0792/1532-2955,A1
+Progress in Neurobiology,3.475,Q1,222,71,176,https://www.journals.elsevier.com/progress-in-neurobiology,0301-0082/1873-5118,A1
+Frontiers in Neuroendocrinology,3.333,Q1,127,60,100,https://www.journals.elsevier.com/frontiers-in-neuroendocrinology,0091-3022/1095-6808,A1
+Cerebral Cortex,3.208,Q1,239,391,1144,https://academic.oup.com/cercor,1047-3211/1460-2199,A1
+NeuroImage,3.207,Q1,344,1044,2698,https://www.journals.elsevier.com/neuroimage,1053-8119/1095-9572,A1
+Stroke,3.097,Q1,310,788,1986,https://www.ahajournals.org/journal/str,0039-2499/1524-4628,A1
+Cellular and Molecular Life Sciences,2.97,Q1,210,431,890,https://www.springer.com/journal/18,1420-682X/1420-9071,A1
+Movement Disorders,2.9539999999999997,Q1,186,322,1018,https://onlinelibrary.wiley.com/journal/15318257,0885-3185/1531-8257,A1
+PLoS Computational Biology,2.91,Q1,166,703,1804,https://journals.plos.org/ploscompbiol/,1553-734X/1553-7358,A1
+Biological Psychiatry: Cognitive Neuroscience and Neuroimaging,2.904,Q1,22,141,290,https://www.biologicalpsychiatrycnni.org/,Sin informacion,No
+Acta neuropathologica communications,2.845,Q1,45,221,361,https://actaneurocomms.biomedcentral.com/,2051-5960,A1
+Neurobiology of Stress,2.815,Q1,27,60,99,https://www.journals.elsevier.com/neurobiology-of-stress,2352-2895,A1
+Translational Psychiatry,2.76,Q1,74,343,882,https://www.nature.com/tp/,2158-3188,A1
+GLIA,2.73,Q1,159,177,466,https://onlinelibrary.wiley.com/journal/10981136,0894-1491/1098-1136,A1
+Journal of Experimental Psychology: General,2.721,Q1,150,223,376,https://www.apa.org/pubs/journals/xge/,Sin informacion,No
+Brain Stimulation,2.5989999999999998,Q1,74,230,506,https://www.brainstimjrnl.com/,1876-4754/1935-861X,A1
+Molecular Autism,2.585,Q1,50,53,192,https://molecularautism.biomedcentral.com/,2040-2392,A1
+"Brain, Behavior, and Immunity",2.582,Q1,140,351,820,https://www.journals.elsevier.com/brain-behavior-and-immunity,Sin informacion,No
+Pain,2.563,Q1,250,310,1023,https://journals.lww.com/pain/pages/default.aspx,0304-3959/1872-6623,A1
+Dialogues in Clinical Neuroscience,2.5540000000000003,Q1,79,42,120,https://www.dialogues-cns.org/,1294-8322/1958-5969,A1
+Neuroscientist,2.537,Q1,117,65,171,https://journals.sagepub.com/home/nro,1073-8584/1089-4098,A1
+Developmental Cognitive Neuroscience,2.52,Q1,55,137,260,https://www.journals.elsevier.com/developmental-cognitive-neuroscience,1878-9293/1878-9307,A1
+Neuropathology and Applied Neurobiology,2.497,Q1,90,86,168,http://www.wiley.com/bw/journal.asp?ref=0305-1846,0305-1846/1365-2990,A1
+Epilepsia,2.484,Q1,184,298,923,https://onlinelibrary.wiley.com/journal/15281167,0013-9580/1528-1167,A1
+Developmental Science,2.425,Q1,120,175,376,https://onlinelibrary.wiley.com/journal/14677687,1363-755X/1467-7687,A1
+Alzheimer's Research and Therapy,2.398,Q1,58,116,286,https://alzres.biomedcentral.com/,Sin informacion,No
+Open Biology,2.3680000000000003,Q1,46,96,367,https://royalsocietypublishing.org/journal/rsob,2046-2441,A1
+Cognition,2.33,Q1,179,248,718,https://www.journals.elsevier.com/cognition,0010-0277/1873-7838,A1
+Neurobiology of Disease,2.285,Q1,161,336,640,https://www.journals.elsevier.com/neurobiology-of-disease,0969-9961/1095-953X,A1
+Bipolar Disorders,2.269,Q1,124,143,279,https://onlinelibrary.wiley.com/journal/13995618,1398-5647/1399-5618,A1
+Frontiers in Synaptic Neuroscience,2.2569999999999997,Q1,34,27,64,https://www.frontiersin.org/journals/synaptic-neuroscience,1663-3563,A1
+Annals of Clinical and Translational Neurology,2.253,Q1,35,272,322,https://onlinelibrary.wiley.com/journal/23289503,2328-9503,A1
+Journal of Cerebral Blood Flow and Metabolism,2.23,Q1,186,293,656,https://journals.sagepub.com/home/jcb,0271-678X/1559-7016,A1
+Human Brain Mapping,2.2159999999999997,Q1,182,404,1133,https://onlinelibrary.wiley.com/journal/10970193,1065-9471/1097-0193,A1
+Journal of Neuroinflammation,2.187,Q1,102,284,917,https://jneuroinflammation.biomedcentral.com/,1742-2094,A1
+Cell Death and Disease,2.164,Q1,96,960,2320,https://www.nature.com/cddis/,2041-4889,A1
+DMM Disease Models and Mechanisms,2.138,Q1,74,152,458,https://dmm.biologists.org/,1754-8403/1754-8411,A1
+Social Cognitive and Affective Neuroscience,2.095,Q1,95,99,489,http://scan.oxfordjournals.org/,1749-5016/1749-5024,A1
+eNeuro,2.088,Q1,27,328,834,http://www.eneuro.org/,2373-2822,A1
+Psychoneuroendocrinology,2.049,Q1,164,401,966,https://www.journals.elsevier.com/psychoneuroendocrinology,0306-4530/1873-3360,A1
+Hippocampus,2.046,Q1,151,123,317,https://onlinelibrary.wiley.com/journal/10981063,1050-9631/1098-1063,A1
+Cortex,2.026,Q1,108,347,800,https://www.sciencedirect.com/journal/cortex,0010-9452/1973-8102,A1
+Neurobiology of Aging,2.021,Q1,177,299,954,http://www.elsevier.com/wps/find/journaldescription.cws_home/525480/description#description,0197-4580/1558-1497,A1
+Journal of Comparative Neurology,2.009,Q1,203,215,586,https://onlinelibrary.wiley.com/journal/10969861,0021-9967/1096-9861,A1
+Frontiers in Systems Neuroscience,2.003,Q1,66,89,273,https://www.frontiersin.org/journals/systems-neuroscience,1662-5137,A1
+Neuroinformatics,1.984,Q1,55,41,107,https://www.springer.com/journal/12021,1539-2791/1559-0089,A1
+Current Opinion in Behavioral Sciences,1.97,Q1,31,146,458,https://www.sciencedirect.com/journal/current-opinion-in-behavioral-sciences,2352-1546/2352-1554,A1
+International Journal of Stroke,1.949,Q1,67,211,461,http://www.wiley.com/bw/journal.asp?ref=1747-4930&site=1,1747-4930/1747-4949,A1
+Molecular Brain,1.945,Q1,55,120,241,https://molecularbrain.biomedcentral.com/,1756-6606,A1
+Developmental Neurobiology,1.944,Q1,126,67,272,https://onlinelibrary.wiley.com/journal/1932846x,1932-8451/1932-846X,A1
+Wiley Interdisciplinary Reviews: Cognitive Science,1.943,Q1,44,29,88,https://onlinelibrary.wiley.com/journal/19395086,Sin informacion,No
+Experimental Neurology,1.9280000000000002,Q1,178,217,711,https://www.journals.elsevier.com/experimental-neurology,0014-4886/1090-2430,A1
+Frontiers in Neural Circuits,1.909,Q1,54,87,346,https://www.frontiersin.org/journals/neural-circuits,1662-5110,A1
+British Journal of Ophthalmology,1.8780000000000001,Q1,146,483,949,https://bjo.bmj.com/,0007-1161/1468-2079,A1
+Brain Structure and Function,1.8619999999999999,Q1,88,227,845,https://www.springer.com/journal/429/?IFA,1863-2653/1863-2661,A1
+Journal of Psychiatric Research,1.86,Q1,130,258,740,https://www.sciencedirect.com/journal/journal-of-psychiatric-research,0022-3956/1879-1379,A1
+Neurorehabilitation and Neural Repair,1.8530000000000002,Q1,99,93,261,https://journals.sagepub.com/home/nnr,1545-9683/1552-6844,A1
+Frontiers in Molecular Neuroscience,1.851,Q1,52,329,1098,https://www.scimagojr.com/journalsearch.php?q=19700175113&tip=sid&clean=0,1662-5099,A1
+Multiple Sclerosis,1.837,Q1,120,396,891,https://journals.sagepub.com/home/msj,1352-4585/1477-0970,A1
+Journal of Experimental Psychology: Human Perception and Performance,1.835,Q1,143,116,462,https://www.apa.org/pubs/journals/xhp/,Sin informacion,No
+Journal of Neurochemistry,1.828,Q1,221,255,921,https://onlinelibrary.wiley.com/journal/14714159,0022-3042/1471-4159,A1
+Brain Pathology,1.827,Q1,127,103,308,https://onlinelibrary.wiley.com/journal/17503639,1015-6305/1750-3639,A1
+Translational Neurodegeneration,1.8119999999999998,Q1,33,36,93,https://translationalneurodegeneration.biomedcentral.com/,2047-9158,A1
+Journal of Psychiatry and Neuroscience,1.81,Q1,94,54,170,https://jpn.ca/,1180-4882/1488-2434,A1
+Psychophysiology,1.8090000000000002,Q1,150,165,517,https://onlinelibrary.wiley.com/journal/14698986,0048-5772/1469-8986,A1
+Frontiers in Neuroanatomy,1.808,Q1,57,104,382,https://www.frontiersin.org/journals/neuroanatomy,1662-5129,A1
+NeuroImage: Clinical,1.795,Q1,58,503,979,https://www.journals.elsevier.com/neuroimage-clinical,Sin informacion,No
+Brain Connectivity,1.7890000000000001,Q1,48,69,192,https://home.liebertpub.com/publications/brain-connectivity/389/overview,2158-0014/2158-0022,A1
+Investigative Ophthalmology and Visual Science,1.7890000000000001,Q1,209,561,2474,https://iovs.arvojournals.org/,0146-0404/1552-5783,A1
+Neuroendocrinology,1.7380000000000002,Q1,97,84,218,https://www.karger.com/Journal/Home/223855,0028-3835/1423-0194,A1
+Journal of Pain,1.732,Q1,119,184,440,https://www.sciencedirect.com/journal/the-journal-of-pain,1526-5900/1528-8447,A1
+Annals of the New York Academy of Sciences,1.726,Q1,239,237,811,https://nyaspubs.onlinelibrary.wiley.com/journal/17496632,Sin informacion,No
+Neural Networks,1.7180000000000002,Q1,136,206,506,https://www.journals.elsevier.com/neural-networks,0893-6080/1879-2782,A1
+European Journal of Neurology,1.703,Q1,117,253,828,https://onlinelibrary.wiley.com/journal/14681331,1351-5101/1468-1331,A1
+Developmental Medicine and Child Neurology,1.6909999999999998,Q1,137,325,885,https://onlinelibrary.wiley.com/journal/14698749,0012-1622/1469-8749,A1
+Journal of Cognitive Neuroscience,1.682,Q1,206,96,523,https://www.mitpressjournals.org/loi/jocn,0898-929X/1530-8898,A1
+Neural Development,1.675,Q1,49,12,68,https://neuraldevelopment.biomedcentral.com/,1749-8104,A1
+Neurology: Neuroimmunology and NeuroInflammation,1.6740000000000002,Q1,35,114,263,https://nn.neurology.org/,Sin informacion,No
+Current Opinion in Neurology,1.6569999999999998,Q1,115,128,316,https://journals.lww.com/co-neurology/pages/default.aspx,1350-7540/1473-6551,A1
+Cognitive Science,1.6540000000000001,Q1,107,94,406,https://onlinelibrary.wiley.com/journal/15516709,0364-0213/1551-6709,A1
+European Neuropsychopharmacology,1.652,Q1,107,136,448,https://www.journals.elsevier.com/european-neuropsychopharmacology,0924-977X/1873-7862,A1
+Current Topics in Behavioral Neurosciences,1.6369999999999998,Q1,50,43,237,https://www.springer.com/series/7854,Sin informacion,No
+Frontiers in Aging Neuroscience,1.635,Q1,67,333,1109,https://www.frontiersin.org/journals/aging-neuroscience,1663-4365,A1
+Journal of Alzheimer's Disease,1.5859999999999999,Q1,127,729,2184,https://www.j-alz.com/,Sin informacion,No
+Hearing Research,1.585,Q1,112,182,616,https://www.journals.elsevier.com/hearing-research,0378-5955/1878-5891,A1
+"Language, Cognition and Neuroscience",1.5719999999999998,Q1,76,114,313,https://www.tandfonline.com/action/journalInformation?journalCode=plcp21,Sin informacion,No
+Hormones and Behavior,1.5630000000000002,Q1,137,132,505,https://www.journals.elsevier.com/hormones-and-behavior,0018-506X/1095-6867,A1
+Neurobiology of Learning and Memory,1.557,Q1,113,155,596,https://www.sciencedirect.com/journal/neurobiology-of-learning-and-memory,1074-7427/1095-9564,A1
+Frontiers in Neuroscience,1.554,Q1,84,1258,2194,https://www.frontiersin.org/journals/neuroscience,1662-453X/1662-4548,A1
+Current Neuropharmacology,1.531,Q1,65,85,317,https://benthamscience.com/journals/current-neuropharmacology/,1570-159X/1875-6190,A1
+"Genes, Brain and Behavior",1.508,Q1,88,105,205,https://onlinelibrary.wiley.com/journal/1601183x,Sin informacion,No
+Autism Research,1.506,Q1,59,174,429,https://onlinelibrary.wiley.com/journal/19393806,1939-3792/1939-3806,A1
+Journal of Neurodevelopmental Disorders,1.496,Q1,41,42,127,https://jneurodevdisorders.biomedcentral.com/,1866-1947/1866-1955,A1
+Molecular Neurobiology,1.482,Q1,104,649,2035,https://www.springer.com/journal/12035,0893-7648/1559-1182,A1
+Parkinsonism and Related Disorders,1.4780000000000002,Q1,92,472,922,https://www.journals.elsevier.com/parkinsonism-and-related-disorders,1353-8020/1873-5126,A1
+Journal of Neurosurgery: Spine,1.4669999999999999,Q1,93,235,779,https://thejns.org/spine/view/journals/j-neurosurg-spine/j-neurosurg-spine-overview.xml,Sin informacion,No
+Neuropsychologia,1.464,Q1,199,351,1117,https://www.journals.elsevier.com/neuropsychologia,0028-3932/1873-3514,A1
+Neuroscience Bulletin,1.4569999999999999,Q1,41,136,283,https://www.springer.com/journal/12264,1673-7067/1995-8218,A1
+Fluids and Barriers of the CNS,1.4480000000000002,Q1,43,41,92,https://fluidsbarrierscns.biomedcentral.com/,2045-8118,A1
+Cerebellum,1.432,Q1,66,115,276,https://www.springer.com/journal/12311,1473-4222/1473-4230,A1
+Neural Plasticity,1.422,Q1,62,141,734,http://www.hindawi.com/journals/np/,1687-5443/2090-5904,A1
+Journal of Neuropathology and Experimental Neurology,1.3659999999999999,Q1,159,117,324,https://academic.oup.com/jnen,0022-3069/1554-6578,A1
+Visual Neuroscience,1.357,Q1,78,14,53,https://www.cambridge.org/core/journals/visual-neuroscience,0952-5238/1469-8714,A1
+Human Factors,1.345,Q1,109,166,255,https://journals.sagepub.com/home/hfs,0018-7208/1547-8181,A1
+Journal of Research on Adolescence,1.3330000000000002,Q1,90,84,207,https://onlinelibrary.wiley.com/journal/15327795,1050-8392/1532-7795,A1
+Journal of Neurology,1.331,Q1,130,496,1144,https://link.springer.com/journal/415,0340-5354/1432-1459,A1
+"Attention, Perception & Psychophysics",1.327,Q1,111,294,568,https://www.springer.com/journal/13414,Sin informacion,No
+Brain Imaging and Behavior,1.325,Q1,44,325,464,https://www.springer.com/journal/11682,1931-7557/1931-7565,A1
+Ophthalmic and Physiological Optics,1.3230000000000002,Q1,63,51,227,https://onlinelibrary.wiley.com/journal/14751313,0275-5408/1475-1313,A1
+Journal of Sleep Research,1.3219999999999998,Q1,110,209,330,https://onlinelibrary.wiley.com/journal/13652869,0962-1105/1365-2869,A1
+Eye and Brain,1.307,Q1,11,6,32,https://www.dovepress.com/eye-and-brain-journal,1179-2744,A1
+Clinical Neurophysiology,1.284,Q1,175,295,1211,https://www.journals.elsevier.com/clinical-neurophysiology,1388-2457/1872-8952,A1
+"Cognitive, Affective and Behavioral Neuroscience",1.258,Q1,97,106,271,https://www.springer.com/journal/13415,Sin informacion,No
+Neuromodulation,1.255,Q1,55,200,401,https://onlinelibrary.wiley.com/journal/15251403,1094-7159/1525-1403,A1
+Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration,1.249,Q1,70,110,328,https://www.tandfonline.com/toc/iafd20/current,2167-8421/2167-9223,A1
+Frontiers in Human Neuroscience,1.2409999999999999,Q1,100,434,1891,https://www.frontiersin.org/journals/human-neuroscience,1662-5161,A1
+Frontiers in Behavioral Neuroscience,1.199,Q1,64,292,828,https://www.frontiersin.org/journals/behavioral-neuroscience,1662-5153,A1
+Behavioural Brain Research,1.179,Q1,164,687,1703,https://www.journals.elsevier.com/behavioural-brain-research,0166-4328/1872-7549,A1
+Nature and Science of Sleep,1.17,Q1,27,37,106,https://www.dovepress.com/nature-and-science-of-sleep-journal,1179-1608,A1

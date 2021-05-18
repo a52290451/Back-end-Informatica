@@ -1,440 +1,440 @@
-Nombre,Factor,Categoria,Indice-H,Cantidad-articulos-ultimo,Cantidad-articulos-ultimos-tres,Enlace,ISSN,Homologacion
-Journal of Statistical Software,9.444 ,Q1,129,52,235,https://www.jstatsoft.org/index,1548-7660,A1
-IEEE Transactions on Pattern Analysis and Machine Intelligence,7.536 ,Q1,344,218,626,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34,0162-8828/1939-3539,A1
-Molecular Systems Biology,7.338 ,Q1,140,51,178,https://www.embopress.org/journal/17444292,1744-4292,A1
-Nature Biomedical Engineering,5.887 ,Q1,37,158,312,https://www.nature.com/natbiomedeng/,2157-846X,A1
-Science Robotics,5.126 ,Q1,30,72,119,https://robotics.sciencemag.org/,2470-9476,A1
-Foundations and Trends in Machine Learning,5.120 ,Q1,30,2,10,https://www.nowpublishers.com/MAL,1935-8237/1935-8245,A1
-Journal of Computer-Mediated Communication,4.987 ,Q1,111,15,71,https://academic.oup.com/jcmc,Sin informacion,No
-MIS Quarterly: Management Information Systems,4.531 ,Q1,216,59,163,https://misq.org/,Sin informacion,No
-IEEE Transactions on Cybernetics,4.393 ,Q1,101,370,982,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036,2168-2267/2168-2275,A1
-Internet and Higher Education,4.247 ,Q1,81,22,91,https://www.journals.elsevier.com/the-internet-and-higher-education,1096-7516/1873-5525,A1
-International Journal of Computer Vision,4.121 ,Q1,181,132,268,https://link.springer.com/journal/11263,0920-5691/1573-1405,A1
-npj Quantum Information,4.098 ,Q1,24,112,115,https://www.nature.com/npjqi/,2056-6387,A1
-Wiley Interdisciplinary Reviews: Computational Molecular Science,4.091 ,Q1,71,49,112,https://onlinelibrary.wiley.com/journal/17590884,Sin informacion,No
-IEEE Communications Magazine,4.025 ,Q1,231,258,1067,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35,0163-6804/1558-1896,A1
-ACM Transactions on Graphics,4.014 ,Q1,195,240,766,https://dl.acm.org/journal/tog,0730-0301/1557-7368,A1
-IEEE Transactions on Evolutionary Computation,3.993 ,Q1,166,94,192,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235,1089-778X/1941-0026,A1
-Journal of Supply Chain Management,3.983 ,Q1,86,17,63,https://onlinelibrary.wiley.com/journal/1745493x,1523-2409,A1
-Journal of Operations Management,3.957 ,Q1,181,50,103,https://onlinelibrary.wiley.com/journal/18731317,0272-6963/1873-1317,A1
-IEEE Transactions on Automatic Control,3.908 ,Q1,274,573,1534,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=9,0018-9286/1558-2523,A1
-IEEE Journal on Selected Areas in Communications,3.885 ,Q1,225,203,732,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49,0733-8716/1558-0008,A1
-Medical Image Analysis,3.877 ,Q1,122,149,371,https://www.sciencedirect.com/journal/medical-image-analysis,1361-8415/1361-8423,A1
-"IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans",3.868 ,Q1,120,64,163,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021,Sin informacion,No
-Foundations and Trends in Signal Processing,3.839 ,Q1,15,0,10,https://www.nowpublishers.com/SIG,1932-8346/1932-8354,A1
-IEEE Wireless Communications,3.764 ,Q1,148,152,356,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742,1536-1284/1558-0687,A1
-IEEE Geoscience and Remote Sensing Magazine,3.642 ,Q1,23,34,93,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518,Sin informacion,No
-IEEE Transactions on Smart Grid,3.590 ,Q1,142,519,1324,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411,1949-3053/1949-3061,A1
-Bioinformatics,3.567 ,Q1,363,1026,2513,http://bioinformatics.oxfordjournals.org/,Sin informacion,No
-IEEE Transactions on Neural Networks and Learning Systems,3.555 ,Q1,196,339,1027,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385,2162-237X/2162-2388,A1
-Operations Research,3.539 ,Q1,128,97,310,https://pubsonline.informs.org/journal/opre,0030-364X/1526-5463,A1
-mSystems,3.489 ,Q1,28,205,232,https://msystems.asm.org/,2379-5077,A1
-npj Computational Materials,3.440 ,Q1,25,129,163,https://www.nature.com/npjcompumats/,2057-3960,A1
-Journal of Service Research,3.370 ,Q1,113,36,86,https://journals.sagepub.com/home/jsr,1094-6705/1552-7379,A1
-"Transportation Research, Part C: Emerging Technologies",3.342 ,Q1,116,298,793,https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies,Sin informacion,No
-IEEE Transactions on Medical Imaging,3.276 ,Q1,209,272,714,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42,0278-0062/1558-254X,A1
-Big Data and Society,3.249 ,Q1,30,48,149,https://journals.sagepub.com/home/bdsa,2053-9517,A1
-Information Systems Research,3.235 ,Q1,151,75,155,https://pubsonline.informs.org/journal/isre,1047-7047/1526-5536,A1
-International Journal of Robotics Research,3.212 ,Q1,155,102,258,https://journals.sagepub.com/home/ijr,0278-3649/1741-3176,A1
-IEEE Transactions on Fuzzy Systems,3.134 ,Q1,181,209,609,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91,1063-6706/1941-0034,A1
-ISPRS Journal of Photogrammetry and Remote Sensing,3.122 ,Q1,126,221,632,https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing,0924-2716/1872-8235,A1
-Information Fusion,3.112 ,Q1,93,155,245,https://www.sciencedirect.com/journal/information-fusion,1566-2535/1872-6305,A1
-Briefings in Bioinformatics,3.109 ,Q1,101,120,419,https://academic.oup.com/bib,1467-5463/1477-4054,A1
-Scientific data,3.099 ,Q1,48,379,670,https://www.nature.com/sdata/,2052-4463,A1
-Journal of Memory and Language,3.093 ,Q1,138,66,226,https://www.journals.elsevier.com/journal-of-memory-and-language,0749-596X/1096-0821,A1
-"Mathematical Programming, Series B",3.082 ,Q1,115,179,362,https://www.springer.com/journal/10107,Sin informacion,No
-Computers and Education,3.047 ,Q1,164,199,527,https://www.journals.elsevier.com/computers-and-education,0360-1315/1873-782X,A1
-"IEEE Transactions on Systems, Man, and Cybernetics: Systems",2.934 ,Q1,44,186,800,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021,Sin informacion,No
-IEEE Transactions on Industrial Electronics,2.911 ,Q1,262,959,2761,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41,0278-0046/1557-9948,A1
-PLoS Computational Biology,2.910 ,Q1,166,703,1804,https://journals.plos.org/ploscompbiol/,1553-734X/1553-7358,A1
-IEEE Transactions on Image Processing,2.893 ,Q1,265,442,1366,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83,1057-7149/1941-0042,A1
-International Journal of Information Management,2.881 ,Q1,99,180,334,https://www.journals.elsevier.com/international-journal-of-information-management/,0268-4012/1873-4707,A1
-Journal of Management Information Systems,2.863 ,Q1,137,44,140,https://www.tandfonline.com/toc/mmis20/current,0742-1222/1557-928X,A1
-Physics of Life Reviews,2.854 ,Q1,58,139,355,https://www.journals.elsevier.com/physics-of-life-reviews,1571-0645/1873-1457,A1
-IEEE Transactions on Robotics,2.815 ,Q1,146,121,357,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860,1552-3098/1941-0468,A1
-Computer Methods in Applied Mechanics and Engineering,2.786 ,Q1,182,586,1319,https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering,0045-7825/0374-2830,A1
-Cognitive Psychology,2.780 ,Q1,114,30,105,https://www.journals.elsevier.com/cognitive-psychology,0010-0285/1095-5623,A1
-IEEE Network,2.773 ,Q1,120,13,284,https://www.comsoc.org/publications/magazines/ieee-network,0890-8044/1558-156X,A1
-International Journal of Computer-Supported Collaborative Learning,2.772 ,Q1,50,22,65,https://www.springer.com/journal/11412,Sin informacion,No
-SIAM Journal on Optimization,2.720 ,Q1,115,104,350,https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt,1052-6234/1095-7189,A1
-Journal of Strategic Information Systems,2.698 ,Q1,82,28,71,https://www.journals.elsevier.com/the-journal-of-strategic-information-systems,0963-8687/1873-1198,A1
-GigaScience,2.639 ,Q1,40,159,360,https://academic.oup.com/gigascience,2047-217X,A1
-IEEE Transactions on Wireless Communications,2.623 ,Q1,200,391,1833,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693,1536-1276/1558-2248,A1
-IEEE Internet of Things Journal,2.607 ,Q1,67,919,808,http://ieee-iotj.org/,2327-4662,A1
-IEEE Signal Processing Magazine,2.479 ,Q1,172,96,279,https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER310-PRT,1053-5888/1558-0792,A1
-IEEE Transactions on Control of Network Systems,2.467 ,Q1,37,160,295,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6509490,2325-5870/2372-2533,A1
-Journal of the Association of Information Systems,2.461 ,Q1,70,57,110,http://aisel.aisnet.org/jais/,Sin informacion,No
-Information and Management,2.395 ,Q1,153,121,241,https://www.sciencedirect.com/journal/information-and-management,0378-7206/1872-7530,A1
-European Journal of Operational Research,2.364 ,Q1,243,717,2111,https://www.journals.elsevier.com/european-journal-of-operational-research,0377-2217/1872-6860,A1
-ACM Computing Surveys,2.357 ,Q1,143,163,294,https://dl.acm.org/journal/csur,0360-0300/1557-7341,A1
-IEEE Transactions on Industrial Informatics,2.345 ,Q1,115,538,1127,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424,1551-3203/1941-0050,A1
-Proceedings of the IEEE,2.329 ,Q1,269,139,442,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5,0018-9219/1558-2256,A1
-Pattern Recognition,2.323 ,Q1,195,381,1142,https://www.sciencedirect.com/journal/pattern-recognition,0031-3203/1873-5142,A1
-Journal of Combinatorial Theory. Series B,2.272 ,Q1,55,100,216,https://www.journals.elsevier.com/journal-of-combinatorial-theory-series-b,Sin informacion,No
-European Journal of Information Systems,2.260 ,Q1,103,36,101,https://www.tandfonline.com/toc/tjis20/current,0960-085X/1476-9344,A1
-Database : the journal of biological databases and curation,2.248 ,Q1,55,154,422,https://academic.oup.com/database,Sin informacion,No
-Journal of Machine Learning Research,2.219 ,Q1,188,184,694,http://www.jmlr.org/,1532-4435/1533-7928,A1
-Computers and Geotechnics,2.217 ,Q1,89,327,742,https://www.journals.elsevier.com/computers-and-geotechnics,0266-352X/1873-7633,A1
-Foundations and Trends in Networking,2.206 ,Q1,17,0,7,https://www.nowpublishers.com/NET,1554-057X/1554-0588,A1
-IEEE Journal on Selected Topics in Signal Processing,2.202 ,Q1,102,126,352,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690,1932-4553/1941-0484,A1
-Mechanical Systems and Signal Processing,2.191 ,Q1,151,921,1547,https://www.journals.elsevier.com/mechanical-systems-and-signal-processing/,0888-3270/1096-1216,A1
-Computers in Human Behavior,2.173 ,Q1,155,459,2031,https://www.journals.elsevier.com/computers-in-human-behavior,0747-5632/1873-7692,A1
-APL Photonics,2.165 ,Q1,22,149,236,https://aip.scitation.org/journal/app,2378-0967,A1
-Journal of Manufacturing Systems,2.111 ,Q1,61,83,280,https://www.journals.elsevier.com/journal-of-manufacturing-systems,0278-6125/1878-6642,A1
-IEEE Transactions on Signal Processing,2.098 ,Q1,249,412,1425,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78,1053-587X/1941-0476,A1
-Information Systems Journal,2.083 ,Q1,82,60,113,https://onlinelibrary.wiley.com/journal/13652575,1350-1917/1365-2575,A1
-Journal of Informetrics,2.079 ,Q1,65,81,302,https://www.journals.elsevier.com/journal-of-informetrics,1751-1577/1875-5879,A1
-npj Systems Biology and Applications,2.043 ,Q1,14,43,99,https://www.nature.com/npjsba/,2056-7189,A1
-Journal of the ACM,2.022 ,Q1,123,39,149,https://dl.acm.org/journal/jacm,0004-5411/1557-735X,A1
-Language Learning and Technology,2.011 ,Q1,69,27,104,https://www.lltjournal.org//,1094-3501,A1
-Computer Science Review,1.997 ,Q1,34,20,55,https://www.journals.elsevier.com/computer-science-review,1574-0137/1876-7745,A1
-Social Media and Society,1.993 ,Q1,23,73,250,https://uk.sagepub.com/en-gb/eur/journal/social-media-society#description,2056-3051,A1
-Neuroinformatics,1.984 ,Q1,55,41,107,https://www.springer.com/journal/12021,1539-2791/1559-0089,A1
-IEEE/ASME Transactions on Mechatronics,1.958 ,Q1,124,256,846,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516,Sin informacion,No
-Foundations of Computational Mathematics,1.955 ,Q1,50,62,130,https://www.springer.com/journal/10208,1615-3375/1615-3383,A1
-Soft Robotics,1.946 ,Q1,32,63,128,http://online.liebertpub.com/soro,2169-5172/2169-5180,A1
-Journal of Computational Physics,1.936 ,Q1,229,645,2106,https://www.journals.elsevier.com/journal-of-computational-physics,0021-9991/1090-2716,A1
-Nonlinear Analysis: Hybrid Systems,1.935 ,Q1,52,93,217,https://www.journals.elsevier.com/nonlinear-analysis-hybrid-systems,Sin informacion,No
-Decision Support Systems,1.918 ,Q1,138,114,338,https://www.journals.elsevier.com/decision-support-systems,0167-9236/1873-5797,A1
-Archives of Computational Methods in Engineering,1.908 ,Q1,57,121,103,http://www.springer.com/engineering/journal/11831,1134-3060/1886-1784,A1
-IEEE Transactions on Information Forensics and Security,1.897 ,Q1,112,230,695,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206,1556-6013/1556-6021,A1
-IEEE Transactions on Intelligent Transportation Systems,1.897 ,Q1,132,411,951,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979,1524-9050/1558-0016,A1
-Environmental Modelling and Software,1.896 ,Q1,124,252,761,https://www.sciencedirect.com/journal/environmental-modelling-and-software,1364-8152/1873-6726,A1
-International Journal of Intelligent Systems,1.895 ,Q1,79,142,235,https://onlinelibrary.wiley.com/journal/1098111x,0884-8173/1098-111X,A1
-Journal of Intelligent Transportation Systems,1.891 ,Q1,42,68,127,https://www.tandfonline.com/loi/gits20,1547-2442/1547-2450,A1
-IEEE Transactions on Multimedia,1.884 ,Q1,116,272,687,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046,1520-9210/1941-0077,A1
-IEEE Transactions on Information Theory,1.879 ,Q1,260,483,1437,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18,0018-9448/1557-9654,A1
-Statistics and Computing,1.878 ,Q1,66,81,264,https://www.springer.com/journal/11222,0960-3174/1573-1375,A1
-Computer-Aided Civil and Infrastructure Engineering,1.874 ,Q1,76,84,193,https://onlinelibrary.wiley.com/journal/14678667,Sin informacion,No
-Computer Assisted Language Learning,1.848 ,Q1,45,109,160,https://www.tandfonline.com/toc/ncal20/current,0958-8221/1744-3210,A1
-Journal of Information Technology,1.841 ,Q1,75,23,71,https://www.palgrave.com/gp/journal/41265,0268-3962/1466-4437,A1
-Information and Organization,1.832 ,Q1,57,17,43,http://www.elsevier.com/wps/find/journaldescription.cws_home/621423/description#description,1471-7727/1873-7919,A1
-CALICO Journal,1.827 ,Q1,31,17,66,https://journals.equinoxpub.com/index.php/CALICO/index,2056-9017,A1
-Current Opinion in Systems Biology,1.809 ,Q1,12,76,193,https://www.sciencedirect.com/journal/current-opinion-in-systems-biology,2452-3100,A1
-IEEE Transactions on Cognitive Communications and Networking,1.802 ,Q1,19,92,97,https://www.comsoc.org/publications/journals/ieee-tccn,2332-7731,A1
-Robotics and Computer-Integrated Manufacturing,1.795 ,Q1,84,157,322,https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing,Sin informacion,No
-Mathematical Programming Computation,1.790 ,Q1,30,26,52,https://www.springer.com/journal/12532,1867-2949/1867-2957,A1
-Systems and Control Letters,1.786 ,Q1,128,141,435,https://www.journals.elsevier.com/systems-and-control-letters/,0167-6911/1872-7956,A1
-Computational and Structural Biotechnology Journal,1.782 ,Q1,37,142,163,https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal,2001-0370,A1
-IEEE Transactions on Knowledge and Data Engineering,1.781 ,Q1,162,204,634,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69,1041-4347/1558-2191,A1
-Science Technology and Human Values,1.765 ,Q1,68,68,136,https://journals.sagepub.com/home/sth,0162-2439/1552-8251,A1
-Journal of Chemical Theory and Computation,1.759 ,Q1,165,586,1722,https://pubs.acs.org/journal/jctcce,1549-9618/1549-9626,A1
-Knowledge-Based Systems,1.754 ,Q1,107,419,1178,https://www.journals.elsevier.com/knowledge-based-systems,Sin informacion,No
-Foundations and Trends in Programming Languages,1.750 ,Q1,8,1,6,https://www.nowpublishers.com/PGL,2325-1107/2325-1131,A1
-Mathematics of Operations Research,1.727 ,Q1,73,68,199,https://pubsonline.informs.org/journal/moor,0364-765X/1526-5471,A1
-Information Sciences,1.723 ,Q1,169,862,2171,https://www.journals.elsevier.com/information-sciences,0020-0255/1872-6291,A1
-Neural Networks,1.718 ,Q1,136,206,506,https://www.journals.elsevier.com/neural-networks,0893-6080/1879-2782,A1
-Annual Reviews in Control,1.709 ,Q1,74,63,132,https://www.sciencedirect.com/journal/annual-reviews-in-control,1367-5788,A1
-Ocean Modelling,1.709 ,Q1,78,84,316,https://www.journals.elsevier.com/ocean-modelling,1463-5003/1463-5011,A1
-IEEE Communications Standards Magazine,1.703 ,Q1,13,46,126,https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine,2471-2825,A1
-IEEE Computational Intelligence Magazine,1.679 ,Q1,54,45,117,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=10207,1556-603X/1556-6048,A1
-Virtual and Physical Prototyping,1.665 ,Q1,36,35,97,https://www.tandfonline.com/loi/nvpp20,1745-2759/1745-2767,A1
-Computers and Operations Research,1.663 ,Q1,143,247,718,http://www.elsevier.com/wps/find/journaldescription.cws_home/300/description#description,0305-0548/1873-765X,A1
-Cognitive Science,1.654 ,Q1,107,94,406,https://onlinelibrary.wiley.com/journal/15516709,0364-0213/1551-6709,A1
-Swarm and Evolutionary Computation,1.650 ,Q1,51,214,217,https://www.journals.elsevier.com/swarm-and-evolutionary-computation,2210-6502/2210-6510,A1
-Structural and Multidisciplinary Optimization,1.637 ,Q1,106,295,762,https://www.springer.com/journal/158,1615-147X/1615-1488,A1
-IEEE Transactions on Vehicular Technology,1.634 ,Q1,160,999,2954,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25,0018-9545/1939-9359,A1
-Journal of Materials Processing Technology,1.634 ,Q1,173,449,1369,https://www.journals.elsevier.com/journal-of-materials-processing-technology,0924-0136/1873-4774,A1
-BMC Bioinformatics,1.626 ,Q1,196,763,1669,https://bmcbioinformatics.biomedcentral.com/,1471-2105,A1
-Computational Mechanics,1.612 ,Q1,97,167,360,https://www.springer.com/journal/466,0178-7675/1432-0924,A1
-Foundations and Trends in Human-Computer Interaction,1.607 ,Q1,22,1,11,https://www.nowpublishers.com/HCI,Sin informacion,No
-PeerJ Computer Science,1.601 ,Q1,18,63,129,https://peerj.com/computer-science/,2376-5992,A1
-User Modeling and User-Adapted Interaction,1.574 ,Q1,69,33,40,https://www.springer.com/journal/11257,Sin informacion,No
-IEEE Robotics and Automation Letters,1.555 ,Q1,34,536,1040,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369,2377-3766,A1
-IEEE Intelligent Systems,1.542 ,Q1,115,40,191,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670,1541-1672/1941-1294,A1
-Journal of Computer Assisted Learning,1.540 ,Q1,86,77,184,https://onlinelibrary.wiley.com/journal/13652729,0266-4909/1365-2729,A1
-"Computers, Materials and Continua",1.534 ,Q1,33,290,165,https://www.techscience.com/cmc/,Sin informacion,No
-IEEE Transactions on Computational Imaging,1.533 ,Q1,7,0,14,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852,2573-0436,A1
-IEEE/CAA Journal of Automatica Sinica,1.531 ,Q1,30,162,294,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654,Sin informacion,No
-IEEE Transactions on Dependable and Secure Computing,1.531 ,Q1,69,125,296,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858,1545-5971/1941-0018,A1
-Journal of Scientific Computing,1.531 ,Q1,70,330,742,https://www.springer.com/journal/10915,0885-7474/1573-7691,A1
-Mobile Media and Communication,1.530 ,Q1,23,33,71,https://journals.sagepub.com/home/mmc,2050-1579/2050-1587,A1
-Semantic Web,1.530 ,Q1,39,42,134,http://www.semantic-web-journal.net/,1570-0844/2210-4968,A1
-Computers and Structures,1.528 ,Q1,129,124,519,https://www.journals.elsevier.com/computers-and-structures,0045-7949/1879-2243,A1
-IEEE Transactions on Visualization and Computer Graphics,1.519 ,Q1,128,287,811,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945,1077-2626/1941-0506,A1
-IEEE Transactions on Mobile Computing,1.505 ,Q1,130,205,716,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7755,1536-1233/1558-0660,A1
-Autonomous Robots,1.502 ,Q1,105,126,270,https://www.springer.com/journal/10514,0929-5593/1573-7527,A1
-IEEE/ACM Transactions on Networking,1.498 ,Q1,165,173,760,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90,Sin informacion,No
-Expert Systems with Applications,1.494 ,Q1,184,725,1877,https://www.journals.elsevier.com/expert-systems-with-applications,0957-4174/1873-6793,A1
-SIAM Journal on Computing,1.492 ,Q1,103,55,213,https://www.siam.org/publications/journals/siam-journal-on-computing-sicomp,0097-5397/1095-7111,A1
-Artificial Intelligence and Law,1.482 ,Q1,34,21,48,https://www.springer.com/journal/10506,0924-8463/1572-8382,A1
-Journal of Information Technology and Politics,1.479 ,Q1,37,25,73,https://www.tandfonline.com/loi/witp20,1933-1681/1933-169X,A1
-INFORMS Journal on Computing,1.476 ,Q1,75,37,150,https://pubsonline.informs.org/journal/ijoc,1091-9856/1526-5528,A1
-Foundations and Trends in Information Retrieval,1.474 ,Q1,28,3,11,https://www.nowpublishers.com/INR,1554-0669/1554-0677,A1
-Computers and Industrial Engineering,1.469 ,Q1,121,673,1244,https://www.journals.elsevier.com/computers-and-industrial-engineering,0360-8352/1879-0550,A1
-Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,1.465 ,Q1,38,49,78,https://onlinelibrary.wiley.com/journal/19424795,Sin informacion,No
-Computer Vision and Image Understanding,1.453 ,Q1,128,84,424,https://www.sciencedirect.com/journal/computer-vision-and-image-understanding,1077-3142/1090-235X,A1
-Telematics and Informatics,1.441 ,Q1,56,108,476,https://www.journals.elsevier.com/telematics-and-informatics,0736-5853,A1
-Computing and Visualization in Science,1.431 ,Q1,40,18,30,https://www.springer.com/journal/791,1432-9360/1433-0369,A1
-Journal of Cheminformatics,1.430 ,Q1,44,48,207,https://jcheminf.biomedcentral.com/,1758-2946,A1
-Foundations and Trends in Computer Graphics and Vision,1.422 ,Q1,23,1,4,https://www.nowpublishers.com/CGV,1572-2740,A1
-Network Neuroscience,1.420 ,Q1,10,12,74,https://www.mitpressjournals.org/netn,2472-1751,A1
-Social Science Computer Review,1.420 ,Q1,67,113,148,https://journals.sagepub.com/home/ssc,0894-4393/1552-8286,A1
-Applied Soft Computing Journal,1.405 ,Q1,124,705,1923,https://www.journals.elsevier.com/applied-soft-computing,1568-4946/1872-9681,A1
-Combinatorics Probability and Computing,1.399 ,Q1,45,64,153,https://www.cambridge.org/core/journals/combinatorics-probability-and-computing,0963-5483/1469-2163,A1
-Production Planning and Control,1.394 ,Q1,70,144,299,https://www.tandfonline.com/toc/tppc20/current,0953-7287/1366-5871,A1
-Industrial Management and Data Systems,1.390 ,Q1,96,130,313,https://www.emerald.com/insight/publication/issn/0263-5577,0263-5577/1758-5783,A1
-Journal of Network and Computer Applications,1.389 ,Q1,89,220,777,https://www.journals.elsevier.com/journal-of-network-and-computer-applications,1084-8045/1095-8592,A1
-IEEE Transactions on Services Computing,1.382 ,Q1,62,119,368,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386,1939-1374,A1
-Frontiers in Neuroinformatics,1.377 ,Q1,57,76,225,https://www.frontiersin.org/journals/neuroinformatics,1662-5196,A1
-International Journal of Neural Systems,1.372 ,Q1,59,66,152,https://www.worldscientific.com/worldscinet/ijns,0129-0657/1793-6462,A1
-IEEE Transactions on Network and Service Management,1.359 ,Q1,43,126,280,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028,1932-4537,A1
-IET Control Theory and Applications,1.358 ,Q1,102,339,941,https://digital-library.theiet.org/content/journals/iet-cta,1751-8644/1751-8652,A1
-Information and Inference,1.356 ,Q1,17,18,49,https://academic.oup.com/imaiai,2049-8772,A1
-"Cyberpsychology, Behavior, and Social Networking",1.352 ,Q1,133,144,407,https://home.liebertpub.com/publications/cyberpsychology-behavior-brand-social-networking/10/overview,Sin informacion,No
-Journal of Combinatorial Theory - Series A,1.346 ,Q1,44,118,298,https://www.journals.elsevier.com/journal-of-combinatorial-theory-series-a,Sin informacion,No
-IEEE/ACM Transactions on Audio Speech and Language Processing,1.335 ,Q1,40,188,574,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655,Sin informacion,No
-International Journal of Mobile Learning and Organisation,1.334 ,Q1,20,21,56,https://www.inderscience.com/jhome.php?jcode=ijmlo,1746-725X/1746-7268,A1
-Journal of Building Performance Simulation,1.329 ,Q1,34,50,129,https://www.tandfonline.com/toc/tbps20/current,1940-1493/1940-1507,A1
-Journal of Chemical Information and Modeling,1.329 ,Q1,149,496,752,https://pubs.acs.org/journal/jcisd8,1549-9596/1549-960X,A1
-IEEE Transactions on Affective Computing,1.318 ,Q1,53,71,220,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369,1949-3045,A1
-International Journal of Molecular Sciences,1.317 ,Q1,140,6385,9042,https://www.mdpi.com/journal/ijms,1422-0067/1661-6596,A1
-Journal of Field Robotics,1.313 ,Q1,88,84,198,https://onlinelibrary.wiley.com/journal/15564967,1556-4959/1556-4967,A1
-IEEE Journal of Biomedical and Health Informatics,1.306 ,Q1,115,288,554,https://jbhi.embs.org/,2168-2194/2168-2208,A1
-Wirtschaftsinformatik,1.306 ,Q1,43,65,126,http://www.bise-journal.com/,Sin informacion,No
-Journal of the Association for Information Science and Technology,1.270 ,Q1,134,156,568,https://asistdl.onlinelibrary.wiley.com/journal/23301643,2330-1635/2330-1643,A1
-Journal of the Franklin Institute,1.265 ,Q1,77,578,1151,https://www.sciencedirect.com/journal/journal-of-the-franklin-institute,0016-0032/1879-2693,A1
-IEEE Communications Letters,1.261 ,Q1,136,540,1976,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234,1089-7798/1558-2558,A1
-Artificial Intelligence,1.254 ,Q1,142,83,231,https://www.journals.elsevier.com/artificial-intelligence/,0004-3702/1872-7921,A1
-Computer Graphics Forum,1.246 ,Q1,107,313,741,https://onlinelibrary.wiley.com/journal/14678659,0167-7055/1467-8659,A1
-Electronic Commerce Research and Applications,1.243 ,Q1,69,69,178,https://www.sciencedirect.com/journal/electronic-commerce-research-and-applications,1567-4223/1873-7846,A1
-Advances in Engineering Software,1.240 ,Q1,72,97,405,https://www.journals.elsevier.com/advances-in-engineering-software,0965-9978/1873-5339,A1
-IEEE Transactions on Signal and Information Processing over Networks,1.238 ,Q1,20,57,158,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276,2373-776X,A1
-Inverse Problems,1.230 ,Q1,107,165,482,https://iopscience.iop.org/journal/0266-5611,0266-5611/1361-6420,A1
-Artificial Intelligence Review,1.228 ,Q1,70,168,120,https://www.springer.com/journal/10462,0269-2821/1573-7462,A1
-Networks and Spatial Economics,1.227 ,Q1,44,77,141,https://www.springer.com/journal/11067,1566-113X/1572-9427,A1
-Interactive Learning Environments,1.226 ,Q1,38,243,337,https://www.tandfonline.com/toc/nile20/current,1049-4820/1744-5191,A1
-Mechanism and Machine Theory,1.222 ,Q1,103,335,738,https://www.sciencedirect.com/journal/mechanism-and-machine-theory,0094-114X/0374-1052,A1
-International Journal of Geographical Information Science,1.218 ,Q1,107,140,359,https://www.tandfonline.com/toc/tgis20/current,1362-3087/1365-8816,A1
-Future Generation Computer Systems,1.216 ,Q1,105,930,1451,https://www.journals.elsevier.com/future-generation-computer-systems,0167-739X/1872-7115,A1
-Journal of Environmental Informatics,1.215 ,Q1,29,13,66,http://www.jeionline.org/index.php?journal=mys,1684-8799/1726-2135,A1
-Computers and Mathematics with Applications,1.214 ,Q1,118,513,1255,https://www.journals.elsevier.com/computers-and-mathematics-with-applications,0898-1221/1873-7668,A1
-Journal of Intelligent Manufacturing,1.213 ,Q1,74,229,347,https://link.springer.com/journal/10845,0956-5515/1572-8145,A1
-Scientometrics,1.210 ,Q1,106,310,1169,http://www.springer.com/computer+science/database+management+%26+information+retrieval/journal/11192,0138-9130/1588-2861,A1
-Topics in Cognitive Science,1.207 ,Q1,51,97,178,https://onlinelibrary.wiley.com/journal/17568765,1756-8757/1756-8765,A1
-Communications of the ACM,1.204 ,Q1,203,246,928,https://cacm.acm.org/,0001-0782/1557-7317,A1
-Computational Statistics and Data Analysis,1.198 ,Q1,103,154,605,https://www.journals.elsevier.com/computational-statistics-and-data-analysis,0167-9473/1872-7352,A1
-IEEE Transactions on Software Engineering,1.193 ,Q1,158,110,239,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32,0098-5589/1939-3520,A1
-Information Processing and Management,1.192 ,Q1,94,167,232,https://www.journals.elsevier.com/information-processing-and-management,0306-4573/1873-5371,A1
-Journal of Research on Technology in Education,1.192 ,Q1,60,24,61,https://www.tandfonline.com/loi/ujrt20,1539-1523/1945-0818,A1
-Engineering Applications of Computational Fluid Mechanics,1.186 ,Q1,27,80,133,https://www.tandfonline.com/toc/tcfm20/current,1994-2060/1997-003X,A1
-IEEE Transactions on Human-Machine Systems,1.185 ,Q1,115,69,253,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037,Sin informacion,No
-International Journal of Artificial Intelligence in Education,1.181 ,Q1,45,17,117,https://www.springer.com/journal/40593,1560-4292/1560-4306,A1
-IEEE Transactions on Green Communications and Networking,1.180 ,Q1,18,99,140,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7511293,2473-2400,A1
-Neurocomputing,1.178 ,Q1,123,1370,4090,https://www.journals.elsevier.com/neurocomputing,0925-2312/1872-8286,A1
-Computer Physics Communications,1.177 ,Q1,167,299,816,https://www.journals.elsevier.com/computer-physics-communications,0010-4655/1879-2944,A1
-"Designs, Codes, and Cryptography",1.174 ,Q1,54,183,440,https://www.springer.com/journal/10623,Sin informacion,No
-Journal of Manufacturing Technology Management,1.173 ,Q1,65,94,154,https://www.emeraldgrouppublishing.com/journal/jmtm,1741-038X/1758-7786,A1
-ISA Transactions,1.166 ,Q1,70,441,797,https://www.journals.elsevier.com/isa-transactions,0019-0578/1879-2022,A1
-Journal of Biomedical Semantics,1.166 ,Q1,32,25,150,https://jbiomedsem.biomedcentral.com/,2041-1480,A1
-Cognitive Computation,1.165 ,Q1,43,83,243,https://www.springer.com/journal/12559,1866-9956/1866-9964,A1
-Foundations and Trends in Databases,1.158 ,Q1,16,0,6,https://www.nowpublishers.com/DBS,1931-7883/1931-7891,A1
-Fuzzy Optimization and Decision Making,1.156 ,Q1,49,24,71,https://www.springer.com/journal/10700,1568-4539/1573-2908,A1
-Control Engineering Practice,1.148 ,Q1,113,228,563,https://www.journals.elsevier.com/control-engineering-practice,0967-0661/1873-6939,A1
-IEEE Signal Processing Letters,1.145 ,Q1,128,348,1118,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97,1070-9908/1558-2361,A1
-Journal of Biomedical Informatics,1.140 ,Q1,91,189,601,https://www.journals.elsevier.com/journal-of-biomedical-informatics,1532-0464/1532-0480,A1
-European Journal of Combinatorics,1.138 ,Q1,45,144,371,https://www.journals.elsevier.com/european-journal-of-combinatorics,0195-6698/1095-9971,A1
-Web Semantics,1.135 ,Q1,79,39,73,https://www.journals.elsevier.com/journal-of-web-semantics,1570-8268,A1
-Finite Elements in Analysis and Design,1.119 ,Q1,73,58,244,https://www.journals.elsevier.com/finite-elements-in-analysis-and-design,0168-874X/1872-6925,A1
-Journal of Scheduling,1.117 ,Q1,58,59,142,https://www.springer.com/journal/10951,1094-6136/1099-1425,A1
-Journal of Semantics,1.113 ,Q1,36,22,48,https://academic.oup.com/jos,0167-5133/1477-4593,A1
-Gene Regulation and Systems Biology,1.108 ,Q1,17,0,26,https://www.scimagojr.com/journalsearch.php?q=19700174894&tip=sid&clean=0,1177-6250,A1
-Design Studies,1.104 ,Q1,87,47,149,https://www.journals.elsevier.com/design-studies,0142-694X/1872-6909,A1
-"Journal of Manufacturing Science and Engineering, Transactions of the ASME",1.104 ,Q1,90,147,630,https://asmedigitalcollection.asme.org/manufacturingscience,Sin informacion,No
-Information Society,1.095 ,Q1,73,22,78,http://www.informaworld.com/smpp/title~content=t713669588~db=all,0197-2243/1087-6537,A1
-International Journal of Control,1.090 ,Q1,111,464,732,http://www.informaworld.com/smpp/title~content=t713393989~db=all,0020-7179/1366-5820,A1
-Internet Policy Review,1.090 ,Q1,10,46,62,https://www.scimagojr.com/journalsearch.php?q=21100898535&tip=sid&clean=0,2197-6775,A1
-Empirical Software Engineering,1.084 ,Q1,64,119,268,https://www.springer.com/journal/10664,1382-3256/1573-7616,A1
-International Journal of Digital Earth,1.084 ,Q1,41,107,215,https://www.tandfonline.com/loi/tjde20,1753-8947/1753-8955,A1
-Advanced Modeling and Simulation in Engineering Sciences,1.081 ,Q1,12,13,71,https://amses-journal.springeropen.com/,2213-7467,A1
-Engineering,1.077 ,Q1,30,148,317,https://www.journals.elsevier.com/engineering/,0013-7782,C
-Computers and Fluids,1.075 ,Q1,98,303,994,https://www.journals.elsevier.com/computers-and-fluids,0045-7930/1879-0747,A1
-Smart Materials and Structures,1.070 ,Q1,144,526,1404,https://iopscience.iop.org/journal/0964-1726,0964-1726/1361-665X,A1
-Journal of Artificial Intelligence Research,1.069 ,Q1,112,61,202,http://www.jair.org/,1076-9757/1943-5037,A1
-International Journal of Educational Technology in Higher Education,1.066 ,Q1,22,42,130,https://educationaltechnologyjournal.springeropen.com/,2365-9440,A1
-Signal Processing,1.064 ,Q1,125,333,1076,https://www.journals.elsevier.com/signal-processing,0165-1684/1872-7557,A1
-Multiscale Modeling and Simulation,1.063 ,Q1,61,45,184,https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms,1540-3459/1540-3467,A1
-Fuzzy Sets and Systems,1.062 ,Q1,162,292,602,https://www.journals.elsevier.com/fuzzy-sets-and-systems,0165-0114/1872-6801,A1
-Computers and Electronics in Agriculture,1.058 ,Q1,104,545,1080,https://www.journals.elsevier.com/computers-and-electronics-in-agriculture,0168-1699/1872-7107,A1
-ReCALL,1.058 ,Q1,48,23,58,https://www.cambridge.org/core/journals/recall,0958-3440/1474-0109,A1
-CAD Computer Aided Design,1.052 ,Q1,109,106,278,https://www.sciencedirect.com/journal/computer-aided-design,0010-4485/1879-2685,A1
-Data Mining and Knowledge Discovery,1.052 ,Q1,96,63,168,https://www.springer.com/journal/10618,1384-5810/1573-756X,A1
-ACM Transactions on Intelligent Systems and Technology,1.050 ,Q1,53,66,207,https://tist.acm.org/,2157-6904/2157-6912,A1
-ACM Transactions on Mathematical Software,1.042 ,Q1,78,46,117,https://dl.acm.org/journal/toms,0098-3500/1557-7295,A1
-Transportmetrica B,1.042 ,Q1,19,83,59,https://www.tandfonline.com/toc/ttrb20/1/1,2168-0566/2168-0582,A1
-Computerized Medical Imaging and Graphics,1.035 ,Q1,70,57,182,http://www.elsevier.com/wps/find/journaldescription.cws_home/292/description#description,0895-6111/1879-0771,A1
-Data Base for Advances in Information Systems,1.035 ,Q1,55,31,78,https://dl.acm.org/newsletter/sigmis,0095-0033/1532-0936,A1
-Machine Learning,1.034 ,Q1,144,99,218,https://www.springer.com/journal/10994,0885-6125/1573-0565,A1
-IEEE Transactions on Neural Systems and Rehabilitation Engineering,1.033 ,Q1,130,249,644,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333,1534-4320/1558-0210,A1
-Image and Vision Computing,1.032 ,Q1,125,91,292,http://www.elsevier.com/wps/find/journaldescription.cws_home/525443/description#description,0262-8856/1872-8138,A1
-Foundations and Trends in Communications and Information Theory,1.026 ,Q1,24,3,5,https://www.nowpublishers.com/CIT,1567-2190/1567-2328,A1
-Information Systems Frontiers,1.020 ,Q1,62,134,270,http://www.springer.com/business+%26+management/business+information+systems/journal/10796,1387-3326/1572-9419,A1
-International Transactions in Operational Research,1.018 ,Q1,48,165,247,https://onlinelibrary.wiley.com/journal/14753995,0969-6016/1475-3995,A1
-Policy and Internet,1.017 ,Q1,20,32,66,https://onlinelibrary.wiley.com/journal/19442866,1944-2866,A1
-Engineering Applications of Artificial Intelligence,1.011 ,Q1,93,216,610,https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence,0952-1976/1873-6769,A1
-IEEE Robotics and Automation Magazine,1.010 ,Q1,88,73,235,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100,1070-9932/1558-223X,A1
-Computers in Industry,1.007 ,Q1,93,127,290,https://www.sciencedirect.com/journal/computers-in-industry,0166-3615/1872-6194,A1
-Electronic Markets,1.006 ,Q1,29,81,103,https://www.springer.com/journal/12525,1019-6781/1422-8890,A1
-Journal of Pathology Informatics,1.005 ,Q1,13,28,146,http://www.jpathinformatics.org/,2153-3539/2229-5089,A1
-Artificial Intelligence in Medicine,1.004 ,Q1,80,111,189,https://www.journals.elsevier.com/artificial-intelligence-in-medicine,0933-3657/1873-2860,A1
-BioData Mining,1.004 ,Q1,26,22,109,https://biodatamining.biomedcentral.com/,1756-0381,A1
-Journal of Optical Communications and Networking,1.000 ,Q1,55,100,450,https://www.osapublishing.org/jocn/home.cfm,1943-0620/1943-0639,A1
-International Journal of Advanced Manufacturing Technology,0.999 ,Q1,112,1926,5300,https://www.springer.com/journal/170,0268-3768/1433-3015,A1
-Computers and Chemical Engineering,0.997 ,Q1,131,366,917,https://www.journals.elsevier.com/computers-and-chemical-engineering,0098-1354/1873-4375,A1
-VLDB Journal,0.997 ,Q1,83,47,117,http://www.springer.com/computer+science/database+management+%26+information+retrieval/journal/778,0949-877X/1066-8888,A1
-ACM Transactions on Database Systems,0.996 ,Q1,79,18,72,http://tods.acm.org/,0362-5915/1557-4644,A1
-Library and Information Science Research,0.992 ,Q1,53,34,113,https://www.journals.elsevier.com/library-and-information-science-research,0740-8188/1873-1848,A1
-Robotics and Autonomous Systems,0.988 ,Q1,109,181,570,https://www.journals.elsevier.com/robotics-and-autonomous-systems,0921-8890/1872-793X,A1
-Computers and Security,0.984 ,Q1,86,208,449,https://www.journals.elsevier.com/computers-and-security,0167-4048/1872-6208,A1
-IEEE Systems Journal,0.983 ,Q1,66,494,736,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003,1932-8184/1937-9234,A1
-Mechatronics,0.975 ,Q1,83,97,405,http://www.elsevier.com/wps/find/journaldescription.cws_home/933/description#description,0957-4158,A1
-Animal Biotelemetry,0.974 ,Q1,19,27,70,https://animalbiotelemetry.biomedcentral.com/,2050-3385,A1
-IEEE Transactions on Cloud Computing,0.974 ,Q1,40,113,267,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519,2168-7161,A1
-Big Data,0.973 ,Q1,22,28,86,https://www.liebertpub.com/loi/big,2167-6461/2167-647X,A1
-Bioinformatics and Biology Insights,0.973 ,Q1,21,25,52,http://www.la-press.com/bioinformatics-and-biology-insights-journal-j39,1177-9322,A1
-Applied Clinical Informatics,0.972 ,Q1,23,104,279,https://www.scimagojr.com/journalsearch.php?q=21100258404&tip=sid&clean=0,1869-0327,A1
-Calphad: Computer Coupling of Phase Diagrams and Thermochemistry,0.969 ,Q1,59,134,266,http://www.elsevier.com/wps/find/journaldescription.cws_home/254/description#description,Sin informacion,No
-Journal of Digital Imaging,0.967 ,Q1,51,179,291,http://www.springer.com/medicine/radiology/journal/10278,0897-1889/1618-727X,A1
-Digital Communications and Networks,0.965 ,Q1,20,57,91,http://www.keaipublishing.com/en/journals/digital-communications-and-networks/,2352-8648/2468-5925,A1
-International Journal of Health Geographics,0.961 ,Q1,68,31,134,http://www.ij-healthgeographics.com/,1476-072X,A1
-Computers and Geosciences,0.955 ,Q1,112,154,541,http://www.elsevier.com/wps/find/journaldescription.cws_home/398/description#description,0098-3004/1873-7803,A1
-Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,0.954 ,Q1,68,43,179,http://www.worldscibooks.com/lifesci/bbcb.shtml,Sin informacion,No
-Virtual Reality,0.954 ,Q1,41,70,61,http://www.springer.com/computer+science/image+processing/journal/10055,1359-4338/1434-9957,A1
-BMC Systems Biology,0.952 ,Q1,79,40,425,http://www.biomedcentral.com/bmcsystbiol/,1752-0509,A1
-Journal of Computing in Civil Engineering,0.951 ,Q1,68,58,330,http://pubs.asce.org/journals/computing/default.htm,0887-3801/1943-5487,A1
-Advanced Engineering Informatics,0.946 ,Q1,75,119,232,https://www.journals.elsevier.com/advanced-engineering-informatics,1474-0346/1873-5320,A1
-Computer Methods and Programs in Biomedicine,0.946 ,Q1,92,256,831,http://www.elsevier.com/wps/find/journaldescription.cws_home/505960/description#description,0169-2607/1872-7565,A1
-Random Structures and Algorithms,0.946 ,Q1,58,68,174,https://onlinelibrary.wiley.com/journal/10982418,1042-9832/1098-2418,A1
-IEEE Transactions on Computers,0.943 ,Q1,118,127,633,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12,0018-9340/1557-9956,A1
-Information Technology for Development,0.938 ,Q1,33,46,114,https://www.tandfonline.com/toc/titd20/current,0268-1102/1554-0170,A1
-Journal of Global Optimization,0.938 ,Q1,80,144,376,http://www.springer.com/business+%26+management/operations+research/journal/10898,0925-5001/1573-2916,A1
-IEEE Transactions on Learning Technologies,0.935 ,Q1,44,52,130,http://ieee-edusociety.org/about/ieee-transactions-learning-technologies,1939-1382,A1
-IEEE Cloud Computing,0.929 ,Q1,31,0,181,https://www.scimagojr.com/journalsearch.php?q=21100373966&tip=sid&clean=0,Sin informacion,No
-IEEE Transactions on Parallel and Distributed Systems,0.929 ,Q1,130,185,750,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71,1045-9219/1558-2183,A1
-Journal of Big Data,0.925 ,Q1,23,112,127,https://journalofbigdata.springeropen.com/,2196-1115,A1
-Integrated Computer-Aided Engineering,0.923 ,Q1,39,25,83,http://www.iospress.nl/loadtop/load.php?isbn=10692509,Sin informacion,No
-"ACM Transactions on Multimedia Computing, Communications and Applications",0.922 ,Q1,45,113,200,https://dl.acm.org/journal/tomm,Sin informacion,No
-Online Learning Journal,0.920 ,Q1,44,59,177,https://olj.onlinelearningconsortium.org/index.php/olj,2472-5730,A1
-Bioprinting,0.917 ,Q1,11,20,38,https://www.journals.elsevier.com/bioprinting,2405-8866,A1
-Astronomy and Computing,0.912 ,Q1,20,38,136,https://www.journals.elsevier.com/astronomy-and-computing,2213-1337/2213-1345,A1
-EPJ Data Science,0.903 ,Q1,25,39,113,https://epjdatascience.springeropen.com/,2193-1127,A1
-Computational Management Science,0.902 ,Q1,29,36,83,http://www.springer.com/business+%26+management/operations+research/journal/10287,1619-697X/1619-6988,A1
-Journal of Process Control,0.902 ,Q1,108,173,340,http://www.elsevier.com/wps/find/journaldescription.cws_home/30445/description#description,0959-1524/1873-2771,A1
-IEEE Consumer Electronics Magazine,0.897 ,Q1,25,113,300,https://www.scimagojr.com/journalsearch.php?q=21100337101&tip=sid&clean=0,Sin informacion,No
-Journal of Hospitality and Tourism Technology,0.894 ,Q1,24,53,81,https://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=JHTT,1757-9880/1757-9899,A1
-Journal of Documentation,0.890 ,Q1,61,108,204,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=jd,0022-0418/1758-7379,A1
-Telecommunications Policy,0.888 ,Q1,66,87,223,https://www.journals.elsevier.com/telecommunications-policy,0308-5961/1879-3258,A1
-International Journal of Social Robotics,0.882 ,Q1,44,108,157,https://www.scimagojr.com/journalsearch.php?q=19500157063&tip=sid&clean=0,1875-4791/1875-4805,A1
-ACM Transactions on Information Systems,0.877 ,Q1,79,52,111,http://tois.acm.org/,1046-8188/1558-2868,A1
-"Journal of Mechanical Design, Transactions Of the ASME",0.877 ,Q1,115,128,429,http://www.asmedl.org/MechanicalDesign,Sin informacion,No
-Knowledge and Information Systems,0.875 ,Q1,65,216,353,http://www.springer.com/computer+science/information+systems+and+applications/journal/10115,0219-1377/0219-3116,A1
-International Journal of Logistics Research and Applications,0.873 ,Q1,29,48,104,https://www.tandfonline.com/toc/cjol20/current,1367-5567/1469-848X,A1
-International Journal of Systems Science: Operations and Logistics,0.872 ,Q1,16,43,83,https://www.scimagojr.com/journalsearch.php?q=21100886529&tip=sid&clean=0,Sin informacion,No
-"Technology, Pedagogy and Education",0.870 ,Q1,30,40,114,http://www.informaworld.com/smpp/title~content=t716100724~db=all,Sin informacion,No
-BIT Numerical Mathematics,0.868 ,Q1,53,60,168,https://www.springer.com/journal/10543,0006-3835/1572-9125,A1
-Journal of Simulation,0.867 ,Q1,22,44,84,http://www.palgrave-journals.com/jos/index.html,1747-7778/1747-7786,A1
-Applied Categorical Structures,0.856 ,Q1,26,37,152,http://www.springer.com/mathematics/journal/10485,0927-2852/1572-9095,A1
-Brain-Computer Interfaces,0.850 ,Q1,14,8,51,https://www.scimagojr.com/journalsearch.php?q=21100886426&tip=sid&clean=0,Sin informacion,No
-Pattern Recognition Letters,0.848 ,Q1,149,401,839,http://www.elsevier.com/wps/find/journaldescription.cws_home/505619/description#description,0167-8655/1872-7344,A1
-Ad Hoc Networks,0.847 ,Q1,86,216,473,http://www.elsevier.com/wps/find/journaldescription.cws_home/672380/description#description,1570-8705/1570-8713,A1
-Computer Networks,0.845 ,Q1,127,300,886,https://www.journals.elsevier.com/computer-networks,1389-1286/1872-7069,A1
-Memetic Computing,0.838 ,Q1,28,37,91,http://www.springer.com/engineering/journal/12293,1865-9284/1865-9292,A1
-Networks,0.835 ,Q1,59,213,199,http://www3.interscience.wiley.com/journal/32046/home,0028-3045/1097-0037,A1
-ACM Transactions on Management Information Systems,0.833 ,Q1,26,20,42,https://dl.acm.org/journal/tmis,2158-656X/2158-6578,A1
-ACM Transactions on Computer-Human Interaction,0.832 ,Q1,84,44,116,http://tochi.acm.org/,Sin informacion,No
-IEEE Transactions on Network Science and Engineering,0.828 ,Q1,16,82,114,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902,2327-4697,A1
-Ecological Informatics,0.825 ,Q1,48,98,271,http://www.elsevier.com/wps/find/journaldescription.cws_home/705192/description#description,1574-9541/1878-0512,A1
-Match,0.824 ,Q1,57,65,253,http://www.pmf.kg.ac.yu/match/,0340-6253,A1
-Computational Geosciences,0.823 ,Q1,60,118,238,http://www.springer.com/mathematics/journal/10596,1420-0597/1573-1499,A1
-Computational Materials Science,0.823 ,Q1,107,612,1885,http://www.elsevier.com/wps/find/journaldescription.cws_home/523412/description#description,0927-0256/1879-0801,A1
-Cryptography and Communications,0.816 ,Q1,14,111,150,https://www.scimagojr.com/journalsearch.php?q=19600156814&tip=sid&clean=0,1936-2447/1936-2455,A1
-Electronic Journal of Combinatorics,0.815 ,Q1,41,179,708,https://www.combinatorics.org/ojs/index.php/eljc,1077-8926/1097-1440,A1
-IEEE Transactions on Emerging Topics in Computing,0.807 ,Q1,38,106,249,https://www.scimagojr.com/journalsearch.php?q=21100338508&tip=sid&clean=0,2168-6750,A1
-Information Systems,0.807 ,Q1,80,111,245,http://www.elsevier.com/wps/find/journaldescription.cws_home/236/description#description,0306-4379/1873-6076,A1
-IEEE Software,0.805 ,Q1,106,117,365,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52,0740-7459/1937-4194,A1
-International Journal of Approximate Reasoning,0.800 ,Q1,91,152,448,https://www.journals.elsevier.com/international-journal-of-approximate-reasoning,0888-613X/1873-4731,A1
-ACM Transactions on Knowledge Discovery from Data,0.798 ,Q1,49,67,154,https://tkdd.acm.org/,1556-4681/1556-472X,A1
-Theory and Practice of Logic Programming,0.798 ,Q1,40,63,132,https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming,1471-0684/1475-3081,A1
-Journal of Enterprise Information Management,0.797 ,Q1,56,71,136,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=jeim,1741-0398/1758-7409,A1
-Neural Computing and Applications,0.796 ,Q1,68,1304,1353,http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/521,0941-0643/1433-3058,A1
-Computer,0.794 ,Q1,161,127,517,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2&_ga=2.230452380.1060451619.1570701794-436963832.1568633786,Sin informacion,No
-Journal of Complex Networks,0.793 ,Q1,17,15,134,https://academic.oup.com/comnet,2051-1310/2051-1329,A1
-Journal of King Saud University - Computer and Information Sciences,0.793 ,Q1,28,209,290,https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences,Sin informacion,No
-Applied Computing and Informatics,0.792 ,Q1,17,54,75,https://www.journals.elsevier.com/applied-computing-and-informatics,2210-8327,A1
-Optimization Methods and Software,0.792 ,Q1,56,105,202,http://www.informaworld.com/smpp/title~content=t713645924~db=all,1029-4937/1055-6788,A1
-Journal of Logic and Computation,0.786 ,Q1,50,37,207,http://logcom.oxfordjournals.org/,0955-792X/1465-363X,A1
-Journal of Mathematical Imaging and Vision,0.784 ,Q1,68,90,239,http://www.springer.com/computer+science/image+processing/journal/10851,0924-9907/1573-7683,A1
-Multisensory research,0.783 ,Q1,48,36,115,https://www.scimagojr.com/journalsearch.php?q=21100243801&tip=sid&clean=0,2213-4794/2213-4808,A1
-International Journal of Machine Learning and Cybernetics,0.782 ,Q1,38,283,396,https://www.springer.com/journal/13042,1868-8071/1868-808X,A1
-Information and Software Technology,0.781 ,Q1,95,144,407,https://www.journals.elsevier.com/information-and-software-technology,0950-5849/1873-6025,A1
-Journal of Information Systems,0.780 ,Q1,30,34,62,https://aaahq.org/AIS/Journal,0888-7985/1558-7959,A1
-IEEE Access,0.775 ,Q1,86,13729,9790,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639,2169-3536,A1
-Journal of Systems and Software,0.772 ,Q1,101,186,674,https://www.journals.elsevier.com/journal-of-systems-and-software/,0164-1212/1873-1228,A1
-Information Technology and Libraries,0.771 ,Q1,33,39,80,https://ejournals.bc.edu/index.php/ital,0730-9295/2163-5226,A1
-JASSS,0.770 ,Q1,55,39,139,http://jasss.soc.surrey.ac.uk/JASSS.html,1460-7425,A1
-Computer Communication Review,0.769 ,Q1,163,51,105,http://www.sigcomm.org/learn/computer-communication-review/,Sin informacion,No
-IEEE Internet Computing,0.767 ,Q1,108,51,248,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236,1089-7801/1941-0131,A1
-"Journal of King Saud University, Engineering Sciences",0.764 ,Q1,27,95,136,https://www.journals.elsevier.com/journal-of-king-saud-university-engineering-sciences/,Sin informacion,No
-International Journal of Human Computer Studies,0.756 ,Q1,116,140,232,http://www.elsevier.com/wps/find/journaldescription.cws_home/622846/description#description,1071-5819/1095-9300,A1
-Journal of Control and Decision,0.756 ,Q1,14,34,53,https://www.scimagojr.com/journalsearch.php?q=21100873335&tip=sid&clean=0,2330-7706/2330-7714,A1
-Requirements Engineering,0.755 ,Q1,52,35,72,http://www.springer.com/computer+science/swe/journal/766,0947-3602/1432-010X,A1
-Aslib Journal of Information Management,0.753 ,Q1,39,58,123,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=ajim,2050-3814,A1
-Statistical Analysis and Data Mining,0.753 ,Q1,28,41,80,https://onlinelibrary.wiley.com/journal/19321872,1932-1864/1932-1872,A1
-Games and Culture,0.751 ,Q1,44,85,121,http://gac.sagepub.com/,1555-4120/1555-4139,A1
-"Engineering Science and Technology, an International Journal",0.750 ,Q1,39,188,478,https://www.journals.elsevier.com/engineering-science-and-technology-an-international-journal,Sin informacion,No
-International Journal of Child-Computer Interaction,0.749 ,Q1,18,31,71,https://www.scimagojr.com/journalsearch.php?q=21100228541&tip=sid&clean=0,Sin informacion,No
-Journal of Computer and System Sciences,0.745 ,Q1,88,74,255,https://www.journals.elsevier.com/journal-of-computer-and-system-sciences,0022-0000/1090-2724,A1
-Journal of Computational Design and Engineering,0.739 ,Q1,17,60,106,https://www.journals.elsevier.com/journal-of-computational-design-and-engineering,2288-4300/2288-5048,A1
-Visualization in Engineering,0.739 ,Q1,15,1,38,https://viejournal.springeropen.com/,2213-7459,A1
-Information Technology and Tourism,0.731 ,Q1,14,30,76,https://www.springer.com/journal/40558,1098-3058/1943-4294,A1
-Distributed Computing,0.729 ,Q1,44,40,76,http://www.springer.com/computer+science/communication+networks/journal/446,0178-2770/1432-0452,A1
-Science China Information Sciences,0.724 ,Q1,50,286,872,https://www.springer.com/computer/information+systems+and+applications/journal/11432,1674-733X/1862-2836,A1
-International Journal of Design,0.720 ,Q1,35,18,55,http://www.ijdesign.org/index.php/IJDesign,1991-3761/1994-036X,A1
-Journal of Electromagnetic Engineering and Science,0.707 ,Q1,10,34,121,http://www.jees.kr/,2671-7255/2671-7263,A1
-Journal of Information Technology Education:Research,0.707 ,Q1,17,13,73,https://www.informingscience.org/Journals/JITEResearch/Overview,Sin informacion,No
-ACM Transactions on Sensor Networks,0.706 ,Q1,62,51,107,http://tosn.acm.org/,1550-4859/1550-4867,A1
-First Monday,0.700 ,Q1,65,25,288,http://firstmonday.org/,1396-0466,A1
-Pervasive and Mobile Computing,0.691 ,Q1,60,81,358,http://www.elsevier.com/wps/find/journaldescription.cws_home/704220/description#description,1574-1192/1873-1589,A1
-Advances in Mathematics of Communications,0.690 ,Q1,19,45,175,https://www.scimagojr.com/journalsearch.php?q=18800156711&tip=sid&clean=0,1930-5338/1930-5346,A1
-Computer Communications,0.687 ,Q1,98,185,637,https://www.journals.elsevier.com/computer-communications,0140-3664/1873-703X,A1
-Applied Ontology,0.679 ,Q1,27,16,43,https://www.scimagojr.com/journalsearch.php?q=19900193674&tip=sid&clean=0,1570-5838/1875-8533,A1
-International journal of computer assisted radiology and surgery,0.679 ,Q1,43,213,601,http://www.springer.com/medicine/radiology/journal/11548,1861-6410/1861-6429,A1
-Signal Processing: Image Communication,0.679 ,Q1,76,198,406,http://www.elsevier.com/wps/find/journaldescription.cws_home/505651/description#description,Sin informacion,No
-Computer Supported Cooperative Work,0.677 ,Q1,63,27,96,http://www.springer.com/computer+science/journal/10606,0925-9724/1573-7551,A1
-ACM Transactions on Computing Education,0.676 ,Q1,28,45,65,https://www.scimagojr.com/journalsearch.php?q=19700183047&tip=sid&clean=0,1946-6226,A1
-ACM Transactions on Internet Technology,0.675 ,Q1,51,47,122,http://toit.acm.org/,1533-5399/1557-6051,A1
-ACM Transactions on Information and System Security,0.673 ,Q1,78,0,5,http://tissec.acm.org/,1557-7406,A1
-Computer Law and Security Review,0.668 ,Q1,32,51,276,http://www.elsevier.com/wps/find/journaldescription.cws_home/422550/description#description,0267-3649,A1
-Computer Standards and Interfaces,0.662 ,Q1,60,78,247,http://www.elsevier.com/wps/find/journaldescription.cws_home/505607/description#description,0920-5489/1872-7018,A1
-Human-centric Computing and Information Sciences,0.661 ,Q1,29,43,104,https://www.scimagojr.com/journalsearch.php?q=21100358314&tip=sid&clean=0,Sin informacion,No
-IEEE Micro,0.658 ,Q1,90,73,208,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40,0272-1732/1937-4143,A1
-Journal of Cybersecurity,0.655 ,Q1,11,3,39,https://academic.oup.com/cybersecurity,2057-2093,A1
-Journal of Grid Computing,0.640 ,Q1,50,52,107,http://www.springer.com/computer+science/communication+networks/journal/10723,1570-7873/1572-9184,A1
-Ecological Psychology,0.627 ,Q1,47,19,58,http://www.informaworld.com/smpp/title~content=t775653640~db=all,1040-7413/1532-6969,A1
-IT Professional,0.625 ,Q1,45,71,226,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6294,1520-9202/1941-045X,A1
-ICT Express,0.624 ,Q1,15,63,117,https://www.journals.elsevier.com/ict-express,2405-9595,A1
-IEEE Journal on Exploratory Solid-State Computational Devices and Circuits,0.621 ,Q1,12,31,33,https://www.scimagojr.com/journalsearch.php?q=21100905985&tip=sid&clean=0,Sin informacion,No
-Frontiers of Computer Science,0.617 ,Q1,30,105,252,https://www.scimagojr.com/journalsearch.php?q=21100200426&tip=sid&clean=0,2095-2228/2095-2236,A1
-Journal of Computational Science,0.614 ,Q1,38,114,495,https://www.journals.elsevier.com/journal-of-computational-science,1877-7503,A1
-ACM Transactions on Privacy and Security,0.613 ,Q1,9,17,51,https://tops.acm.org/,2471-2566/2471-2574,A1
-Simulation Modelling Practice and Theory,0.609 ,Q1,63,112,313,http://www.elsevier.com/wps/find/journaldescription.cws_home/622330/description#description,1569-190X/1878-1462,A1
-Construction Innovation,0.595 ,Q1,36,35,78,https://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=CI,1471-4175/1477-0857,A1
-Optical Materials,0.594 ,Q1,98,770,2040,http://www.elsevier.com/wps/find/journaldescription.cws_home/522512/description#description,0925-3467/1873-1252,A1
-ACM Transactions on Modeling and Performance Evaluation of Computing Systems,0.593 ,Q1,6,22,55,https://www.scimagojr.com/journalsearch.php?q=21100934924&tip=sid&clean=0,2376-3639/2376-3647,A1
-Journal of Intelligent Information Systems,0.593 ,Q1,52,75,153,http://www.springer.com/computer+science/security+and+cryptology/journal/10844,0925-9902/1573-7675,A1
-Computers and Electrical Engineering,0.579 ,Q1,55,262,1044,http://www.elsevier.com/wps/find/journaldescription.cws_home/367/description#description,0045-7906/1879-0755,A1
-ACM Transactions on Computational Logic,0.572 ,Q1,46,33,88,http://tocl.acm.org/,1529-3785/1557-945X,A1
-Theoretical Computer Science,0.570 ,Q1,110,476,1180,http://www.elsevier.com/wps/find/journaldescription.cws_home/505625/description#description,0304-3975/1879-2294,A1
-Indonesian Journal of Science and Technology,0.569 ,Q1,9,26,54,https://ejournal.upi.edu/index.php/ijost/,2527-8045/2528-1410,A1
-Algorithmica,0.565 ,Q1,70,181,466,http://www.springer.com/computer+science/theoretical+computer+science/foundations+of+computations/journal/453,0178-4617/1432-0541,A1
-Logical Methods in Computer Science,0.558 ,Q1,33,108,237,https://www.scimagojr.com/journalsearch.php?q=19700175752&tip=sid&clean=0,1860-5974,A1
-International Journal of Computational Methods,0.557 ,Q1,34,187,254,http://www.worldscinet.com/ijcm/ijcm.shtml,0219-8762/1793-6969,A1
-Journal of Ambient Intelligence and Humanized Computing,0.544 ,Q1,28,680,511,https://www.springer.com/journal/12652,1868-5137/1868-5145,A1
-ACM Transactions on Autonomous and Adaptive Systems,0.537 ,Q1,38,16,69,http://taas.acm.org/,1556-4665/1556-4703,A1
-Computational Intelligence and Neuroscience,0.534 ,Q1,47,148,486,http://www.hindawi.com/journals/cin/,1687-5265/1687-5273,A1
-Journal of Formalized Reasoning,0.534 ,Q1,6,3,19,https://www.scimagojr.com/journalsearch.php?q=21100262198&tip=sid&clean=0,1972-5787,A1
-International Journal of Information Technology and Decision Making,0.533 ,Q1,39,70,200,https://www.worldscientific.com/worldscinet/ijitdm,0219-6220/1793-6845,A1
-Computer Science Education,0.526 ,Q1,29,19,47,https://www.tandfonline.com/toc/ncse20/current,0899-3408/1744-5175,A1
-Global Journal of Engineering Education,0.509 ,Q1,11,36,121,http://www.wiete.com.au/journals/GJEE/Publish/index.html,1328-3154,A1
-Complexity,0.507 ,Q1,52,679,1256,https://www.hindawi.com/journals/complexity/,1076-2787/1099-0526,A1
-Computers and Composition,0.496 ,Q1,33,48,103,http://www.elsevier.com/wps/find/journaldescription.cws_home/620371/description#description,8755-4615,A1
+Nombre,Factor,Categoria,IndiceH,CantidadArticulosUltimo,CantidadArticulosUltimosTres,Enlace,ISSN,Homologacion
+Journal of Statistical Software,9.443999999999999,Q1,129,52,235,https://www.jstatsoft.org/index,1548-7660,A1
+IEEE Transactions on Pattern Analysis and Machine Intelligence,7.5360000000000005,Q1,344,218,626,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34,0162-8828/1939-3539,A1
+Molecular Systems Biology,7.337999999999999,Q1,140,51,178,https://www.embopress.org/journal/17444292,1744-4292,A1
+Nature Biomedical Engineering,5.8870000000000005,Q1,37,158,312,https://www.nature.com/natbiomedeng/,2157-846X,A1
+Science Robotics,5.126,Q1,30,72,119,https://robotics.sciencemag.org/,2470-9476,A1
+Foundations and Trends in Machine Learning,5.12,Q1,30,2,10,https://www.nowpublishers.com/MAL,1935-8237/1935-8245,A1
+Journal of Computer-Mediated Communication,4.987,Q1,111,15,71,https://academic.oup.com/jcmc,Sin informacion,No
+MIS Quarterly: Management Information Systems,4.531000000000001,Q1,216,59,163,https://misq.org/,Sin informacion,No
+IEEE Transactions on Cybernetics,4.393,Q1,101,370,982,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036,2168-2267/2168-2275,A1
+Internet and Higher Education,4.247,Q1,81,22,91,https://www.journals.elsevier.com/the-internet-and-higher-education,1096-7516/1873-5525,A1
+International Journal of Computer Vision,4.121,Q1,181,132,268,https://link.springer.com/journal/11263,0920-5691/1573-1405,A1
+npj Quantum Information,4.098,Q1,24,112,115,https://www.nature.com/npjqi/,2056-6387,A1
+Wiley Interdisciplinary Reviews: Computational Molecular Science,4.091,Q1,71,49,112,https://onlinelibrary.wiley.com/journal/17590884,Sin informacion,No
+IEEE Communications Magazine,4.025,Q1,231,258,1067,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35,0163-6804/1558-1896,A1
+ACM Transactions on Graphics,4.013999999999999,Q1,195,240,766,https://dl.acm.org/journal/tog,0730-0301/1557-7368,A1
+IEEE Transactions on Evolutionary Computation,3.9930000000000003,Q1,166,94,192,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4235,1089-778X/1941-0026,A1
+Journal of Supply Chain Management,3.983,Q1,86,17,63,https://onlinelibrary.wiley.com/journal/1745493x,1523-2409,A1
+Journal of Operations Management,3.957,Q1,181,50,103,https://onlinelibrary.wiley.com/journal/18731317,0272-6963/1873-1317,A1
+IEEE Transactions on Automatic Control,3.908,Q1,274,573,1534,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=9,0018-9286/1558-2523,A1
+IEEE Journal on Selected Areas in Communications,3.885,Q1,225,203,732,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49,0733-8716/1558-0008,A1
+Medical Image Analysis,3.877,Q1,122,149,371,https://www.sciencedirect.com/journal/medical-image-analysis,1361-8415/1361-8423,A1
+"IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans",3.8680000000000003,Q1,120,64,163,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021,Sin informacion,No
+Foundations and Trends in Signal Processing,3.839,Q1,15,0,10,https://www.nowpublishers.com/SIG,1932-8346/1932-8354,A1
+IEEE Wireless Communications,3.764,Q1,148,152,356,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742,1536-1284/1558-0687,A1
+IEEE Geoscience and Remote Sensing Magazine,3.642,Q1,23,34,93,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245518,Sin informacion,No
+IEEE Transactions on Smart Grid,3.59,Q1,142,519,1324,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411,1949-3053/1949-3061,A1
+Bioinformatics,3.5669999999999997,Q1,363,1026,2513,http://bioinformatics.oxfordjournals.org/,Sin informacion,No
+IEEE Transactions on Neural Networks and Learning Systems,3.555,Q1,196,339,1027,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385,2162-237X/2162-2388,A1
+Operations Research,3.5389999999999997,Q1,128,97,310,https://pubsonline.informs.org/journal/opre,0030-364X/1526-5463,A1
+mSystems,3.489,Q1,28,205,232,https://msystems.asm.org/,2379-5077,A1
+npj Computational Materials,3.44,Q1,25,129,163,https://www.nature.com/npjcompumats/,2057-3960,A1
+Journal of Service Research,3.37,Q1,113,36,86,https://journals.sagepub.com/home/jsr,1094-6705/1552-7379,A1
+"Transportation Research, Part C: Emerging Technologies",3.342,Q1,116,298,793,https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies,Sin informacion,No
+IEEE Transactions on Medical Imaging,3.2760000000000002,Q1,209,272,714,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42,0278-0062/1558-254X,A1
+Big Data and Society,3.2489999999999997,Q1,30,48,149,https://journals.sagepub.com/home/bdsa,2053-9517,A1
+Information Systems Research,3.235,Q1,151,75,155,https://pubsonline.informs.org/journal/isre,1047-7047/1526-5536,A1
+International Journal of Robotics Research,3.2119999999999997,Q1,155,102,258,https://journals.sagepub.com/home/ijr,0278-3649/1741-3176,A1
+IEEE Transactions on Fuzzy Systems,3.134,Q1,181,209,609,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91,1063-6706/1941-0034,A1
+ISPRS Journal of Photogrammetry and Remote Sensing,3.122,Q1,126,221,632,https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing,0924-2716/1872-8235,A1
+Information Fusion,3.112,Q1,93,155,245,https://www.sciencedirect.com/journal/information-fusion,1566-2535/1872-6305,A1
+Briefings in Bioinformatics,3.109,Q1,101,120,419,https://academic.oup.com/bib,1467-5463/1477-4054,A1
+Scientific data,3.0989999999999998,Q1,48,379,670,https://www.nature.com/sdata/,2052-4463,A1
+Journal of Memory and Language,3.093,Q1,138,66,226,https://www.journals.elsevier.com/journal-of-memory-and-language,0749-596X/1096-0821,A1
+"Mathematical Programming, Series B",3.082,Q1,115,179,362,https://www.springer.com/journal/10107,Sin informacion,No
+Computers and Education,3.0469999999999997,Q1,164,199,527,https://www.journals.elsevier.com/computers-and-education,0360-1315/1873-782X,A1
+"IEEE Transactions on Systems, Man, and Cybernetics: Systems",2.9339999999999997,Q1,44,186,800,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021,Sin informacion,No
+IEEE Transactions on Industrial Electronics,2.911,Q1,262,959,2761,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41,0278-0046/1557-9948,A1
+PLoS Computational Biology,2.91,Q1,166,703,1804,https://journals.plos.org/ploscompbiol/,1553-734X/1553-7358,A1
+IEEE Transactions on Image Processing,2.8930000000000002,Q1,265,442,1366,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83,1057-7149/1941-0042,A1
+International Journal of Information Management,2.8810000000000002,Q1,99,180,334,https://www.journals.elsevier.com/international-journal-of-information-management/,0268-4012/1873-4707,A1
+Journal of Management Information Systems,2.863,Q1,137,44,140,https://www.tandfonline.com/toc/mmis20/current,0742-1222/1557-928X,A1
+Physics of Life Reviews,2.8539999999999996,Q1,58,139,355,https://www.journals.elsevier.com/physics-of-life-reviews,1571-0645/1873-1457,A1
+IEEE Transactions on Robotics,2.815,Q1,146,121,357,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860,1552-3098/1941-0468,A1
+Computer Methods in Applied Mechanics and Engineering,2.786,Q1,182,586,1319,https://www.journals.elsevier.com/computer-methods-in-applied-mechanics-and-engineering,0045-7825/0374-2830,A1
+Cognitive Psychology,2.78,Q1,114,30,105,https://www.journals.elsevier.com/cognitive-psychology,0010-0285/1095-5623,A1
+IEEE Network,2.773,Q1,120,13,284,https://www.comsoc.org/publications/magazines/ieee-network,0890-8044/1558-156X,A1
+International Journal of Computer-Supported Collaborative Learning,2.772,Q1,50,22,65,https://www.springer.com/journal/11412,Sin informacion,No
+SIAM Journal on Optimization,2.72,Q1,115,104,350,https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt,1052-6234/1095-7189,A1
+Journal of Strategic Information Systems,2.698,Q1,82,28,71,https://www.journals.elsevier.com/the-journal-of-strategic-information-systems,0963-8687/1873-1198,A1
+GigaScience,2.639,Q1,40,159,360,https://academic.oup.com/gigascience,2047-217X,A1
+IEEE Transactions on Wireless Communications,2.623,Q1,200,391,1833,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693,1536-1276/1558-2248,A1
+IEEE Internet of Things Journal,2.6069999999999998,Q1,67,919,808,http://ieee-iotj.org/,2327-4662,A1
+IEEE Signal Processing Magazine,2.479,Q1,172,96,279,https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=PER310-PRT,1053-5888/1558-0792,A1
+IEEE Transactions on Control of Network Systems,2.467,Q1,37,160,295,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6509490,2325-5870/2372-2533,A1
+Journal of the Association of Information Systems,2.461,Q1,70,57,110,http://aisel.aisnet.org/jais/,Sin informacion,No
+Information and Management,2.395,Q1,153,121,241,https://www.sciencedirect.com/journal/information-and-management,0378-7206/1872-7530,A1
+European Journal of Operational Research,2.364,Q1,243,717,2111,https://www.journals.elsevier.com/european-journal-of-operational-research,0377-2217/1872-6860,A1
+ACM Computing Surveys,2.3569999999999998,Q1,143,163,294,https://dl.acm.org/journal/csur,0360-0300/1557-7341,A1
+IEEE Transactions on Industrial Informatics,2.345,Q1,115,538,1127,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424,1551-3203/1941-0050,A1
+Proceedings of the IEEE,2.329,Q1,269,139,442,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5,0018-9219/1558-2256,A1
+Pattern Recognition,2.323,Q1,195,381,1142,https://www.sciencedirect.com/journal/pattern-recognition,0031-3203/1873-5142,A1
+Journal of Combinatorial Theory. Series B,2.272,Q1,55,100,216,https://www.journals.elsevier.com/journal-of-combinatorial-theory-series-b,Sin informacion,No
+European Journal of Information Systems,2.26,Q1,103,36,101,https://www.tandfonline.com/toc/tjis20/current,0960-085X/1476-9344,A1
+Database : the journal of biological databases and curation,2.248,Q1,55,154,422,https://academic.oup.com/database,Sin informacion,No
+Journal of Machine Learning Research,2.219,Q1,188,184,694,http://www.jmlr.org/,1532-4435/1533-7928,A1
+Computers and Geotechnics,2.217,Q1,89,327,742,https://www.journals.elsevier.com/computers-and-geotechnics,0266-352X/1873-7633,A1
+Foundations and Trends in Networking,2.206,Q1,17,0,7,https://www.nowpublishers.com/NET,1554-057X/1554-0588,A1
+IEEE Journal on Selected Topics in Signal Processing,2.202,Q1,102,126,352,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690,1932-4553/1941-0484,A1
+Mechanical Systems and Signal Processing,2.191,Q1,151,921,1547,https://www.journals.elsevier.com/mechanical-systems-and-signal-processing/,0888-3270/1096-1216,A1
+Computers in Human Behavior,2.173,Q1,155,459,2031,https://www.journals.elsevier.com/computers-in-human-behavior,0747-5632/1873-7692,A1
+APL Photonics,2.165,Q1,22,149,236,https://aip.scitation.org/journal/app,2378-0967,A1
+Journal of Manufacturing Systems,2.1109999999999998,Q1,61,83,280,https://www.journals.elsevier.com/journal-of-manufacturing-systems,0278-6125/1878-6642,A1
+IEEE Transactions on Signal Processing,2.0980000000000003,Q1,249,412,1425,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78,1053-587X/1941-0476,A1
+Information Systems Journal,2.083,Q1,82,60,113,https://onlinelibrary.wiley.com/journal/13652575,1350-1917/1365-2575,A1
+Journal of Informetrics,2.079,Q1,65,81,302,https://www.journals.elsevier.com/journal-of-informetrics,1751-1577/1875-5879,A1
+npj Systems Biology and Applications,2.043,Q1,14,43,99,https://www.nature.com/npjsba/,2056-7189,A1
+Journal of the ACM,2.022,Q1,123,39,149,https://dl.acm.org/journal/jacm,0004-5411/1557-735X,A1
+Language Learning and Technology,2.011,Q1,69,27,104,https://www.lltjournal.org//,1094-3501,A1
+Computer Science Review,1.9969999999999999,Q1,34,20,55,https://www.journals.elsevier.com/computer-science-review,1574-0137/1876-7745,A1
+Social Media and Society,1.993,Q1,23,73,250,https://uk.sagepub.com/en-gb/eur/journal/social-media-society#description,2056-3051,A1
+Neuroinformatics,1.984,Q1,55,41,107,https://www.springer.com/journal/12021,1539-2791/1559-0089,A1
+IEEE/ASME Transactions on Mechatronics,1.9580000000000002,Q1,124,256,846,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516,Sin informacion,No
+Foundations of Computational Mathematics,1.955,Q1,50,62,130,https://www.springer.com/journal/10208,1615-3375/1615-3383,A1
+Soft Robotics,1.946,Q1,32,63,128,http://online.liebertpub.com/soro,2169-5172/2169-5180,A1
+Journal of Computational Physics,1.936,Q1,229,645,2106,https://www.journals.elsevier.com/journal-of-computational-physics,0021-9991/1090-2716,A1
+Nonlinear Analysis: Hybrid Systems,1.935,Q1,52,93,217,https://www.journals.elsevier.com/nonlinear-analysis-hybrid-systems,Sin informacion,No
+Decision Support Systems,1.9180000000000001,Q1,138,114,338,https://www.journals.elsevier.com/decision-support-systems,0167-9236/1873-5797,A1
+Archives of Computational Methods in Engineering,1.9080000000000001,Q1,57,121,103,http://www.springer.com/engineering/journal/11831,1134-3060/1886-1784,A1
+IEEE Transactions on Information Forensics and Security,1.8969999999999998,Q1,112,230,695,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206,1556-6013/1556-6021,A1
+IEEE Transactions on Intelligent Transportation Systems,1.8969999999999998,Q1,132,411,951,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979,1524-9050/1558-0016,A1
+Environmental Modelling and Software,1.896,Q1,124,252,761,https://www.sciencedirect.com/journal/environmental-modelling-and-software,1364-8152/1873-6726,A1
+International Journal of Intelligent Systems,1.895,Q1,79,142,235,https://onlinelibrary.wiley.com/journal/1098111x,0884-8173/1098-111X,A1
+Journal of Intelligent Transportation Systems,1.891,Q1,42,68,127,https://www.tandfonline.com/loi/gits20,1547-2442/1547-2450,A1
+IEEE Transactions on Multimedia,1.8840000000000001,Q1,116,272,687,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046,1520-9210/1941-0077,A1
+IEEE Transactions on Information Theory,1.879,Q1,260,483,1437,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18,0018-9448/1557-9654,A1
+Statistics and Computing,1.8780000000000001,Q1,66,81,264,https://www.springer.com/journal/11222,0960-3174/1573-1375,A1
+Computer-Aided Civil and Infrastructure Engineering,1.874,Q1,76,84,193,https://onlinelibrary.wiley.com/journal/14678667,Sin informacion,No
+Computer Assisted Language Learning,1.848,Q1,45,109,160,https://www.tandfonline.com/toc/ncal20/current,0958-8221/1744-3210,A1
+Journal of Information Technology,1.841,Q1,75,23,71,https://www.palgrave.com/gp/journal/41265,0268-3962/1466-4437,A1
+Information and Organization,1.8319999999999999,Q1,57,17,43,http://www.elsevier.com/wps/find/journaldescription.cws_home/621423/description#description,1471-7727/1873-7919,A1
+CALICO Journal,1.827,Q1,31,17,66,https://journals.equinoxpub.com/index.php/CALICO/index,2056-9017,A1
+Current Opinion in Systems Biology,1.8090000000000002,Q1,12,76,193,https://www.sciencedirect.com/journal/current-opinion-in-systems-biology,2452-3100,A1
+IEEE Transactions on Cognitive Communications and Networking,1.8019999999999998,Q1,19,92,97,https://www.comsoc.org/publications/journals/ieee-tccn,2332-7731,A1
+Robotics and Computer-Integrated Manufacturing,1.795,Q1,84,157,322,https://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing,Sin informacion,No
+Mathematical Programming Computation,1.79,Q1,30,26,52,https://www.springer.com/journal/12532,1867-2949/1867-2957,A1
+Systems and Control Letters,1.786,Q1,128,141,435,https://www.journals.elsevier.com/systems-and-control-letters/,0167-6911/1872-7956,A1
+Computational and Structural Biotechnology Journal,1.7819999999999998,Q1,37,142,163,https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal,2001-0370,A1
+IEEE Transactions on Knowledge and Data Engineering,1.781,Q1,162,204,634,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69,1041-4347/1558-2191,A1
+Science Technology and Human Values,1.765,Q1,68,68,136,https://journals.sagepub.com/home/sth,0162-2439/1552-8251,A1
+Journal of Chemical Theory and Computation,1.7590000000000001,Q1,165,586,1722,https://pubs.acs.org/journal/jctcce,1549-9618/1549-9626,A1
+Knowledge-Based Systems,1.754,Q1,107,419,1178,https://www.journals.elsevier.com/knowledge-based-systems,Sin informacion,No
+Foundations and Trends in Programming Languages,1.75,Q1,8,1,6,https://www.nowpublishers.com/PGL,2325-1107/2325-1131,A1
+Mathematics of Operations Research,1.7269999999999999,Q1,73,68,199,https://pubsonline.informs.org/journal/moor,0364-765X/1526-5471,A1
+Information Sciences,1.723,Q1,169,862,2171,https://www.journals.elsevier.com/information-sciences,0020-0255/1872-6291,A1
+Neural Networks,1.7180000000000002,Q1,136,206,506,https://www.journals.elsevier.com/neural-networks,0893-6080/1879-2782,A1
+Annual Reviews in Control,1.709,Q1,74,63,132,https://www.sciencedirect.com/journal/annual-reviews-in-control,1367-5788,A1
+Ocean Modelling,1.709,Q1,78,84,316,https://www.journals.elsevier.com/ocean-modelling,1463-5003/1463-5011,A1
+IEEE Communications Standards Magazine,1.703,Q1,13,46,126,https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine,2471-2825,A1
+IEEE Computational Intelligence Magazine,1.679,Q1,54,45,117,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=10207,1556-603X/1556-6048,A1
+Virtual and Physical Prototyping,1.665,Q1,36,35,97,https://www.tandfonline.com/loi/nvpp20,1745-2759/1745-2767,A1
+Computers and Operations Research,1.663,Q1,143,247,718,http://www.elsevier.com/wps/find/journaldescription.cws_home/300/description#description,0305-0548/1873-765X,A1
+Cognitive Science,1.6540000000000001,Q1,107,94,406,https://onlinelibrary.wiley.com/journal/15516709,0364-0213/1551-6709,A1
+Swarm and Evolutionary Computation,1.65,Q1,51,214,217,https://www.journals.elsevier.com/swarm-and-evolutionary-computation,2210-6502/2210-6510,A1
+Structural and Multidisciplinary Optimization,1.6369999999999998,Q1,106,295,762,https://www.springer.com/journal/158,1615-147X/1615-1488,A1
+IEEE Transactions on Vehicular Technology,1.6340000000000001,Q1,160,999,2954,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25,0018-9545/1939-9359,A1
+Journal of Materials Processing Technology,1.6340000000000001,Q1,173,449,1369,https://www.journals.elsevier.com/journal-of-materials-processing-technology,0924-0136/1873-4774,A1
+BMC Bioinformatics,1.626,Q1,196,763,1669,https://bmcbioinformatics.biomedcentral.com/,1471-2105,A1
+Computational Mechanics,1.6119999999999999,Q1,97,167,360,https://www.springer.com/journal/466,0178-7675/1432-0924,A1
+Foundations and Trends in Human-Computer Interaction,1.607,Q1,22,1,11,https://www.nowpublishers.com/HCI,Sin informacion,No
+PeerJ Computer Science,1.601,Q1,18,63,129,https://peerj.com/computer-science/,2376-5992,A1
+User Modeling and User-Adapted Interaction,1.574,Q1,69,33,40,https://www.springer.com/journal/11257,Sin informacion,No
+IEEE Robotics and Automation Letters,1.555,Q1,34,536,1040,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369,2377-3766,A1
+IEEE Intelligent Systems,1.5419999999999998,Q1,115,40,191,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670,1541-1672/1941-1294,A1
+Journal of Computer Assisted Learning,1.54,Q1,86,77,184,https://onlinelibrary.wiley.com/journal/13652729,0266-4909/1365-2729,A1
+"Computers, Materials and Continua",1.534,Q1,33,290,165,https://www.techscience.com/cmc/,Sin informacion,No
+IEEE Transactions on Computational Imaging,1.5330000000000001,Q1,7,0,14,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852,2573-0436,A1
+IEEE/CAA Journal of Automatica Sinica,1.531,Q1,30,162,294,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570654,Sin informacion,No
+IEEE Transactions on Dependable and Secure Computing,1.531,Q1,69,125,296,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858,1545-5971/1941-0018,A1
+Journal of Scientific Computing,1.531,Q1,70,330,742,https://www.springer.com/journal/10915,0885-7474/1573-7691,A1
+Mobile Media and Communication,1.53,Q1,23,33,71,https://journals.sagepub.com/home/mmc,2050-1579/2050-1587,A1
+Semantic Web,1.53,Q1,39,42,134,http://www.semantic-web-journal.net/,1570-0844/2210-4968,A1
+Computers and Structures,1.528,Q1,129,124,519,https://www.journals.elsevier.com/computers-and-structures,0045-7949/1879-2243,A1
+IEEE Transactions on Visualization and Computer Graphics,1.5190000000000001,Q1,128,287,811,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945,1077-2626/1941-0506,A1
+IEEE Transactions on Mobile Computing,1.505,Q1,130,205,716,https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7755,1536-1233/1558-0660,A1
+Autonomous Robots,1.5019999999999998,Q1,105,126,270,https://www.springer.com/journal/10514,0929-5593/1573-7527,A1
+IEEE/ACM Transactions on Networking,1.4980000000000002,Q1,165,173,760,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90,Sin informacion,No
+Expert Systems with Applications,1.494,Q1,184,725,1877,https://www.journals.elsevier.com/expert-systems-with-applications,0957-4174/1873-6793,A1
+SIAM Journal on Computing,1.492,Q1,103,55,213,https://www.siam.org/publications/journals/siam-journal-on-computing-sicomp,0097-5397/1095-7111,A1
+Artificial Intelligence and Law,1.482,Q1,34,21,48,https://www.springer.com/journal/10506,0924-8463/1572-8382,A1
+Journal of Information Technology and Politics,1.479,Q1,37,25,73,https://www.tandfonline.com/loi/witp20,1933-1681/1933-169X,A1
+INFORMS Journal on Computing,1.476,Q1,75,37,150,https://pubsonline.informs.org/journal/ijoc,1091-9856/1526-5528,A1
+Foundations and Trends in Information Retrieval,1.474,Q1,28,3,11,https://www.nowpublishers.com/INR,1554-0669/1554-0677,A1
+Computers and Industrial Engineering,1.469,Q1,121,673,1244,https://www.journals.elsevier.com/computers-and-industrial-engineering,0360-8352/1879-0550,A1
+Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,1.465,Q1,38,49,78,https://onlinelibrary.wiley.com/journal/19424795,Sin informacion,No
+Computer Vision and Image Understanding,1.453,Q1,128,84,424,https://www.sciencedirect.com/journal/computer-vision-and-image-understanding,1077-3142/1090-235X,A1
+Telematics and Informatics,1.4409999999999998,Q1,56,108,476,https://www.journals.elsevier.com/telematics-and-informatics,0736-5853,A1
+Computing and Visualization in Science,1.431,Q1,40,18,30,https://www.springer.com/journal/791,1432-9360/1433-0369,A1
+Journal of Cheminformatics,1.43,Q1,44,48,207,https://jcheminf.biomedcentral.com/,1758-2946,A1
+Foundations and Trends in Computer Graphics and Vision,1.422,Q1,23,1,4,https://www.nowpublishers.com/CGV,1572-2740,A1
+Network Neuroscience,1.42,Q1,10,12,74,https://www.mitpressjournals.org/netn,2472-1751,A1
+Social Science Computer Review,1.42,Q1,67,113,148,https://journals.sagepub.com/home/ssc,0894-4393/1552-8286,A1
+Applied Soft Computing Journal,1.405,Q1,124,705,1923,https://www.journals.elsevier.com/applied-soft-computing,1568-4946/1872-9681,A1
+Combinatorics Probability and Computing,1.399,Q1,45,64,153,https://www.cambridge.org/core/journals/combinatorics-probability-and-computing,0963-5483/1469-2163,A1
+Production Planning and Control,1.3940000000000001,Q1,70,144,299,https://www.tandfonline.com/toc/tppc20/current,0953-7287/1366-5871,A1
+Industrial Management and Data Systems,1.39,Q1,96,130,313,https://www.emerald.com/insight/publication/issn/0263-5577,0263-5577/1758-5783,A1
+Journal of Network and Computer Applications,1.389,Q1,89,220,777,https://www.journals.elsevier.com/journal-of-network-and-computer-applications,1084-8045/1095-8592,A1
+IEEE Transactions on Services Computing,1.382,Q1,62,119,368,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386,1939-1374,A1
+Frontiers in Neuroinformatics,1.3769999999999998,Q1,57,76,225,https://www.frontiersin.org/journals/neuroinformatics,1662-5196,A1
+International Journal of Neural Systems,1.3719999999999999,Q1,59,66,152,https://www.worldscientific.com/worldscinet/ijns,0129-0657/1793-6462,A1
+IEEE Transactions on Network and Service Management,1.359,Q1,43,126,280,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028,1932-4537,A1
+IET Control Theory and Applications,1.358,Q1,102,339,941,https://digital-library.theiet.org/content/journals/iet-cta,1751-8644/1751-8652,A1
+Information and Inference,1.3559999999999999,Q1,17,18,49,https://academic.oup.com/imaiai,2049-8772,A1
+"Cyberpsychology, Behavior, and Social Networking",1.3519999999999999,Q1,133,144,407,https://home.liebertpub.com/publications/cyberpsychology-behavior-brand-social-networking/10/overview,Sin informacion,No
+Journal of Combinatorial Theory - Series A,1.3459999999999999,Q1,44,118,298,https://www.journals.elsevier.com/journal-of-combinatorial-theory-series-a,Sin informacion,No
+IEEE/ACM Transactions on Audio Speech and Language Processing,1.335,Q1,40,188,574,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655,Sin informacion,No
+International Journal of Mobile Learning and Organisation,1.334,Q1,20,21,56,https://www.inderscience.com/jhome.php?jcode=ijmlo,1746-725X/1746-7268,A1
+Journal of Building Performance Simulation,1.329,Q1,34,50,129,https://www.tandfonline.com/toc/tbps20/current,1940-1493/1940-1507,A1
+Journal of Chemical Information and Modeling,1.329,Q1,149,496,752,https://pubs.acs.org/journal/jcisd8,1549-9596/1549-960X,A1
+IEEE Transactions on Affective Computing,1.318,Q1,53,71,220,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369,1949-3045,A1
+International Journal of Molecular Sciences,1.317,Q1,140,6385,9042,https://www.mdpi.com/journal/ijms,1422-0067/1661-6596,A1
+Journal of Field Robotics,1.3130000000000002,Q1,88,84,198,https://onlinelibrary.wiley.com/journal/15564967,1556-4959/1556-4967,A1
+IEEE Journal of Biomedical and Health Informatics,1.306,Q1,115,288,554,https://jbhi.embs.org/,2168-2194/2168-2208,A1
+Wirtschaftsinformatik,1.306,Q1,43,65,126,http://www.bise-journal.com/,Sin informacion,No
+Journal of the Association for Information Science and Technology,1.27,Q1,134,156,568,https://asistdl.onlinelibrary.wiley.com/journal/23301643,2330-1635/2330-1643,A1
+Journal of the Franklin Institute,1.265,Q1,77,578,1151,https://www.sciencedirect.com/journal/journal-of-the-franklin-institute,0016-0032/1879-2693,A1
+IEEE Communications Letters,1.261,Q1,136,540,1976,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234,1089-7798/1558-2558,A1
+Artificial Intelligence,1.254,Q1,142,83,231,https://www.journals.elsevier.com/artificial-intelligence/,0004-3702/1872-7921,A1
+Computer Graphics Forum,1.246,Q1,107,313,741,https://onlinelibrary.wiley.com/journal/14678659,0167-7055/1467-8659,A1
+Electronic Commerce Research and Applications,1.2429999999999999,Q1,69,69,178,https://www.sciencedirect.com/journal/electronic-commerce-research-and-applications,1567-4223/1873-7846,A1
+Advances in Engineering Software,1.24,Q1,72,97,405,https://www.journals.elsevier.com/advances-in-engineering-software,0965-9978/1873-5339,A1
+IEEE Transactions on Signal and Information Processing over Networks,1.238,Q1,20,57,158,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276,2373-776X,A1
+Inverse Problems,1.23,Q1,107,165,482,https://iopscience.iop.org/journal/0266-5611,0266-5611/1361-6420,A1
+Artificial Intelligence Review,1.228,Q1,70,168,120,https://www.springer.com/journal/10462,0269-2821/1573-7462,A1
+Networks and Spatial Economics,1.227,Q1,44,77,141,https://www.springer.com/journal/11067,1566-113X/1572-9427,A1
+Interactive Learning Environments,1.226,Q1,38,243,337,https://www.tandfonline.com/toc/nile20/current,1049-4820/1744-5191,A1
+Mechanism and Machine Theory,1.222,Q1,103,335,738,https://www.sciencedirect.com/journal/mechanism-and-machine-theory,0094-114X/0374-1052,A1
+International Journal of Geographical Information Science,1.218,Q1,107,140,359,https://www.tandfonline.com/toc/tgis20/current,1362-3087/1365-8816,A1
+Future Generation Computer Systems,1.216,Q1,105,930,1451,https://www.journals.elsevier.com/future-generation-computer-systems,0167-739X/1872-7115,A1
+Journal of Environmental Informatics,1.215,Q1,29,13,66,http://www.jeionline.org/index.php?journal=mys,1684-8799/1726-2135,A1
+Computers and Mathematics with Applications,1.214,Q1,118,513,1255,https://www.journals.elsevier.com/computers-and-mathematics-with-applications,0898-1221/1873-7668,A1
+Journal of Intelligent Manufacturing,1.213,Q1,74,229,347,https://link.springer.com/journal/10845,0956-5515/1572-8145,A1
+Scientometrics,1.21,Q1,106,310,1169,http://www.springer.com/computer+science/database+management+%26+information+retrieval/journal/11192,0138-9130/1588-2861,A1
+Topics in Cognitive Science,1.207,Q1,51,97,178,https://onlinelibrary.wiley.com/journal/17568765,1756-8757/1756-8765,A1
+Communications of the ACM,1.204,Q1,203,246,928,https://cacm.acm.org/,0001-0782/1557-7317,A1
+Computational Statistics and Data Analysis,1.198,Q1,103,154,605,https://www.journals.elsevier.com/computational-statistics-and-data-analysis,0167-9473/1872-7352,A1
+IEEE Transactions on Software Engineering,1.193,Q1,158,110,239,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32,0098-5589/1939-3520,A1
+Information Processing and Management,1.192,Q1,94,167,232,https://www.journals.elsevier.com/information-processing-and-management,0306-4573/1873-5371,A1
+Journal of Research on Technology in Education,1.192,Q1,60,24,61,https://www.tandfonline.com/loi/ujrt20,1539-1523/1945-0818,A1
+Engineering Applications of Computational Fluid Mechanics,1.186,Q1,27,80,133,https://www.tandfonline.com/toc/tcfm20/current,1994-2060/1997-003X,A1
+IEEE Transactions on Human-Machine Systems,1.185,Q1,115,69,253,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037,Sin informacion,No
+International Journal of Artificial Intelligence in Education,1.181,Q1,45,17,117,https://www.springer.com/journal/40593,1560-4292/1560-4306,A1
+IEEE Transactions on Green Communications and Networking,1.18,Q1,18,99,140,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7511293,2473-2400,A1
+Neurocomputing,1.178,Q1,123,1370,4090,https://www.journals.elsevier.com/neurocomputing,0925-2312/1872-8286,A1
+Computer Physics Communications,1.177,Q1,167,299,816,https://www.journals.elsevier.com/computer-physics-communications,0010-4655/1879-2944,A1
+"Designs, Codes, and Cryptography",1.1740000000000002,Q1,54,183,440,https://www.springer.com/journal/10623,Sin informacion,No
+Journal of Manufacturing Technology Management,1.173,Q1,65,94,154,https://www.emeraldgrouppublishing.com/journal/jmtm,1741-038X/1758-7786,A1
+ISA Transactions,1.166,Q1,70,441,797,https://www.journals.elsevier.com/isa-transactions,0019-0578/1879-2022,A1
+Journal of Biomedical Semantics,1.166,Q1,32,25,150,https://jbiomedsem.biomedcentral.com/,2041-1480,A1
+Cognitive Computation,1.165,Q1,43,83,243,https://www.springer.com/journal/12559,1866-9956/1866-9964,A1
+Foundations and Trends in Databases,1.158,Q1,16,0,6,https://www.nowpublishers.com/DBS,1931-7883/1931-7891,A1
+Fuzzy Optimization and Decision Making,1.156,Q1,49,24,71,https://www.springer.com/journal/10700,1568-4539/1573-2908,A1
+Control Engineering Practice,1.148,Q1,113,228,563,https://www.journals.elsevier.com/control-engineering-practice,0967-0661/1873-6939,A1
+IEEE Signal Processing Letters,1.145,Q1,128,348,1118,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97,1070-9908/1558-2361,A1
+Journal of Biomedical Informatics,1.14,Q1,91,189,601,https://www.journals.elsevier.com/journal-of-biomedical-informatics,1532-0464/1532-0480,A1
+European Journal of Combinatorics,1.138,Q1,45,144,371,https://www.journals.elsevier.com/european-journal-of-combinatorics,0195-6698/1095-9971,A1
+Web Semantics,1.135,Q1,79,39,73,https://www.journals.elsevier.com/journal-of-web-semantics,1570-8268,A1
+Finite Elements in Analysis and Design,1.119,Q1,73,58,244,https://www.journals.elsevier.com/finite-elements-in-analysis-and-design,0168-874X/1872-6925,A1
+Journal of Scheduling,1.117,Q1,58,59,142,https://www.springer.com/journal/10951,1094-6136/1099-1425,A1
+Journal of Semantics,1.113,Q1,36,22,48,https://academic.oup.com/jos,0167-5133/1477-4593,A1
+Gene Regulation and Systems Biology,1.1079999999999999,Q1,17,0,26,https://www.scimagojr.com/journalsearch.php?q=19700174894&tip=sid&clean=0,1177-6250,A1
+Design Studies,1.104,Q1,87,47,149,https://www.journals.elsevier.com/design-studies,0142-694X/1872-6909,A1
+"Journal of Manufacturing Science and Engineering, Transactions of the ASME",1.104,Q1,90,147,630,https://asmedigitalcollection.asme.org/manufacturingscience,Sin informacion,No
+Information Society,1.095,Q1,73,22,78,http://www.informaworld.com/smpp/title~content=t713669588~db=all,0197-2243/1087-6537,A1
+International Journal of Control,1.09,Q1,111,464,732,http://www.informaworld.com/smpp/title~content=t713393989~db=all,0020-7179/1366-5820,A1
+Internet Policy Review,1.09,Q1,10,46,62,https://www.scimagojr.com/journalsearch.php?q=21100898535&tip=sid&clean=0,2197-6775,A1
+Empirical Software Engineering,1.084,Q1,64,119,268,https://www.springer.com/journal/10664,1382-3256/1573-7616,A1
+International Journal of Digital Earth,1.084,Q1,41,107,215,https://www.tandfonline.com/loi/tjde20,1753-8947/1753-8955,A1
+Advanced Modeling and Simulation in Engineering Sciences,1.081,Q1,12,13,71,https://amses-journal.springeropen.com/,2213-7467,A1
+Engineering,1.077,Q1,30,148,317,https://www.journals.elsevier.com/engineering/,0013-7782,C
+Computers and Fluids,1.075,Q1,98,303,994,https://www.journals.elsevier.com/computers-and-fluids,0045-7930/1879-0747,A1
+Smart Materials and Structures,1.07,Q1,144,526,1404,https://iopscience.iop.org/journal/0964-1726,0964-1726/1361-665X,A1
+Journal of Artificial Intelligence Research,1.069,Q1,112,61,202,http://www.jair.org/,1076-9757/1943-5037,A1
+International Journal of Educational Technology in Higher Education,1.0659999999999998,Q1,22,42,130,https://educationaltechnologyjournal.springeropen.com/,2365-9440,A1
+Signal Processing,1.064,Q1,125,333,1076,https://www.journals.elsevier.com/signal-processing,0165-1684/1872-7557,A1
+Multiscale Modeling and Simulation,1.063,Q1,61,45,184,https://www.siam.org/publications/journals/multiscale-modeling-and-simulation-a-siam-interdisciplinary-journal-mms,1540-3459/1540-3467,A1
+Fuzzy Sets and Systems,1.062,Q1,162,292,602,https://www.journals.elsevier.com/fuzzy-sets-and-systems,0165-0114/1872-6801,A1
+Computers and Electronics in Agriculture,1.058,Q1,104,545,1080,https://www.journals.elsevier.com/computers-and-electronics-in-agriculture,0168-1699/1872-7107,A1
+ReCALL,1.058,Q1,48,23,58,https://www.cambridge.org/core/journals/recall,0958-3440/1474-0109,A1
+CAD Computer Aided Design,1.052,Q1,109,106,278,https://www.sciencedirect.com/journal/computer-aided-design,0010-4485/1879-2685,A1
+Data Mining and Knowledge Discovery,1.052,Q1,96,63,168,https://www.springer.com/journal/10618,1384-5810/1573-756X,A1
+ACM Transactions on Intelligent Systems and Technology,1.05,Q1,53,66,207,https://tist.acm.org/,2157-6904/2157-6912,A1
+ACM Transactions on Mathematical Software,1.042,Q1,78,46,117,https://dl.acm.org/journal/toms,0098-3500/1557-7295,A1
+Transportmetrica B,1.042,Q1,19,83,59,https://www.tandfonline.com/toc/ttrb20/1/1,2168-0566/2168-0582,A1
+Computerized Medical Imaging and Graphics,1.035,Q1,70,57,182,http://www.elsevier.com/wps/find/journaldescription.cws_home/292/description#description,0895-6111/1879-0771,A1
+Data Base for Advances in Information Systems,1.035,Q1,55,31,78,https://dl.acm.org/newsletter/sigmis,0095-0033/1532-0936,A1
+Machine Learning,1.034,Q1,144,99,218,https://www.springer.com/journal/10994,0885-6125/1573-0565,A1
+IEEE Transactions on Neural Systems and Rehabilitation Engineering,1.033,Q1,130,249,644,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333,1534-4320/1558-0210,A1
+Image and Vision Computing,1.032,Q1,125,91,292,http://www.elsevier.com/wps/find/journaldescription.cws_home/525443/description#description,0262-8856/1872-8138,A1
+Foundations and Trends in Communications and Information Theory,1.026,Q1,24,3,5,https://www.nowpublishers.com/CIT,1567-2190/1567-2328,A1
+Information Systems Frontiers,1.02,Q1,62,134,270,http://www.springer.com/business+%26+management/business+information+systems/journal/10796,1387-3326/1572-9419,A1
+International Transactions in Operational Research,1.018,Q1,48,165,247,https://onlinelibrary.wiley.com/journal/14753995,0969-6016/1475-3995,A1
+Policy and Internet,1.0170000000000001,Q1,20,32,66,https://onlinelibrary.wiley.com/journal/19442866,1944-2866,A1
+Engineering Applications of Artificial Intelligence,1.011,Q1,93,216,610,https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence,0952-1976/1873-6769,A1
+IEEE Robotics and Automation Magazine,1.01,Q1,88,73,235,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100,1070-9932/1558-223X,A1
+Computers in Industry,1.0070000000000001,Q1,93,127,290,https://www.sciencedirect.com/journal/computers-in-industry,0166-3615/1872-6194,A1
+Electronic Markets,1.006,Q1,29,81,103,https://www.springer.com/journal/12525,1019-6781/1422-8890,A1
+Journal of Pathology Informatics,1.005,Q1,13,28,146,http://www.jpathinformatics.org/,2153-3539/2229-5089,A1
+Artificial Intelligence in Medicine,1.004,Q1,80,111,189,https://www.journals.elsevier.com/artificial-intelligence-in-medicine,0933-3657/1873-2860,A1
+BioData Mining,1.004,Q1,26,22,109,https://biodatamining.biomedcentral.com/,1756-0381,A1
+Journal of Optical Communications and Networking,1.0,Q1,55,100,450,https://www.osapublishing.org/jocn/home.cfm,1943-0620/1943-0639,A1
+International Journal of Advanced Manufacturing Technology,0.9990000000000001,Q1,112,1926,5300,https://www.springer.com/journal/170,0268-3768/1433-3015,A1
+Computers and Chemical Engineering,0.997,Q1,131,366,917,https://www.journals.elsevier.com/computers-and-chemical-engineering,0098-1354/1873-4375,A1
+VLDB Journal,0.997,Q1,83,47,117,http://www.springer.com/computer+science/database+management+%26+information+retrieval/journal/778,0949-877X/1066-8888,A1
+ACM Transactions on Database Systems,0.996,Q1,79,18,72,http://tods.acm.org/,0362-5915/1557-4644,A1
+Library and Information Science Research,0.992,Q1,53,34,113,https://www.journals.elsevier.com/library-and-information-science-research,0740-8188/1873-1848,A1
+Robotics and Autonomous Systems,0.988,Q1,109,181,570,https://www.journals.elsevier.com/robotics-and-autonomous-systems,0921-8890/1872-793X,A1
+Computers and Security,0.9840000000000001,Q1,86,208,449,https://www.journals.elsevier.com/computers-and-security,0167-4048/1872-6208,A1
+IEEE Systems Journal,0.983,Q1,66,494,736,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003,1932-8184/1937-9234,A1
+Mechatronics,0.975,Q1,83,97,405,http://www.elsevier.com/wps/find/journaldescription.cws_home/933/description#description,0957-4158,A1
+Animal Biotelemetry,0.9740000000000001,Q1,19,27,70,https://animalbiotelemetry.biomedcentral.com/,2050-3385,A1
+IEEE Transactions on Cloud Computing,0.9740000000000001,Q1,40,113,267,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519,2168-7161,A1
+Big Data,0.973,Q1,22,28,86,https://www.liebertpub.com/loi/big,2167-6461/2167-647X,A1
+Bioinformatics and Biology Insights,0.973,Q1,21,25,52,http://www.la-press.com/bioinformatics-and-biology-insights-journal-j39,1177-9322,A1
+Applied Clinical Informatics,0.972,Q1,23,104,279,https://www.scimagojr.com/journalsearch.php?q=21100258404&tip=sid&clean=0,1869-0327,A1
+Calphad: Computer Coupling of Phase Diagrams and Thermochemistry,0.9690000000000001,Q1,59,134,266,http://www.elsevier.com/wps/find/journaldescription.cws_home/254/description#description,Sin informacion,No
+Journal of Digital Imaging,0.9670000000000001,Q1,51,179,291,http://www.springer.com/medicine/radiology/journal/10278,0897-1889/1618-727X,A1
+Digital Communications and Networks,0.965,Q1,20,57,91,http://www.keaipublishing.com/en/journals/digital-communications-and-networks/,2352-8648/2468-5925,A1
+International Journal of Health Geographics,0.961,Q1,68,31,134,http://www.ij-healthgeographics.com/,1476-072X,A1
+Computers and Geosciences,0.955,Q1,112,154,541,http://www.elsevier.com/wps/find/journaldescription.cws_home/398/description#description,0098-3004/1873-7803,A1
+Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing,0.9540000000000001,Q1,68,43,179,http://www.worldscibooks.com/lifesci/bbcb.shtml,Sin informacion,No
+Virtual Reality,0.9540000000000001,Q1,41,70,61,http://www.springer.com/computer+science/image+processing/journal/10055,1359-4338/1434-9957,A1
+BMC Systems Biology,0.9520000000000001,Q1,79,40,425,http://www.biomedcentral.com/bmcsystbiol/,1752-0509,A1
+Journal of Computing in Civil Engineering,0.951,Q1,68,58,330,http://pubs.asce.org/journals/computing/default.htm,0887-3801/1943-5487,A1
+Advanced Engineering Informatics,0.946,Q1,75,119,232,https://www.journals.elsevier.com/advanced-engineering-informatics,1474-0346/1873-5320,A1
+Computer Methods and Programs in Biomedicine,0.946,Q1,92,256,831,http://www.elsevier.com/wps/find/journaldescription.cws_home/505960/description#description,0169-2607/1872-7565,A1
+Random Structures and Algorithms,0.946,Q1,58,68,174,https://onlinelibrary.wiley.com/journal/10982418,1042-9832/1098-2418,A1
+IEEE Transactions on Computers,0.943,Q1,118,127,633,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12,0018-9340/1557-9956,A1
+Information Technology for Development,0.938,Q1,33,46,114,https://www.tandfonline.com/toc/titd20/current,0268-1102/1554-0170,A1
+Journal of Global Optimization,0.938,Q1,80,144,376,http://www.springer.com/business+%26+management/operations+research/journal/10898,0925-5001/1573-2916,A1
+IEEE Transactions on Learning Technologies,0.935,Q1,44,52,130,http://ieee-edusociety.org/about/ieee-transactions-learning-technologies,1939-1382,A1
+IEEE Cloud Computing,0.929,Q1,31,0,181,https://www.scimagojr.com/journalsearch.php?q=21100373966&tip=sid&clean=0,Sin informacion,No
+IEEE Transactions on Parallel and Distributed Systems,0.929,Q1,130,185,750,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71,1045-9219/1558-2183,A1
+Journal of Big Data,0.925,Q1,23,112,127,https://journalofbigdata.springeropen.com/,2196-1115,A1
+Integrated Computer-Aided Engineering,0.9229999999999999,Q1,39,25,83,http://www.iospress.nl/loadtop/load.php?isbn=10692509,Sin informacion,No
+"ACM Transactions on Multimedia Computing, Communications and Applications",0.922,Q1,45,113,200,https://dl.acm.org/journal/tomm,Sin informacion,No
+Online Learning Journal,0.92,Q1,44,59,177,https://olj.onlinelearningconsortium.org/index.php/olj,2472-5730,A1
+Bioprinting,0.917,Q1,11,20,38,https://www.journals.elsevier.com/bioprinting,2405-8866,A1
+Astronomy and Computing,0.912,Q1,20,38,136,https://www.journals.elsevier.com/astronomy-and-computing,2213-1337/2213-1345,A1
+EPJ Data Science,0.903,Q1,25,39,113,https://epjdatascience.springeropen.com/,2193-1127,A1
+Computational Management Science,0.902,Q1,29,36,83,http://www.springer.com/business+%26+management/operations+research/journal/10287,1619-697X/1619-6988,A1
+Journal of Process Control,0.902,Q1,108,173,340,http://www.elsevier.com/wps/find/journaldescription.cws_home/30445/description#description,0959-1524/1873-2771,A1
+IEEE Consumer Electronics Magazine,0.897,Q1,25,113,300,https://www.scimagojr.com/journalsearch.php?q=21100337101&tip=sid&clean=0,Sin informacion,No
+Journal of Hospitality and Tourism Technology,0.894,Q1,24,53,81,https://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=JHTT,1757-9880/1757-9899,A1
+Journal of Documentation,0.89,Q1,61,108,204,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=jd,0022-0418/1758-7379,A1
+Telecommunications Policy,0.888,Q1,66,87,223,https://www.journals.elsevier.com/telecommunications-policy,0308-5961/1879-3258,A1
+International Journal of Social Robotics,0.882,Q1,44,108,157,https://www.scimagojr.com/journalsearch.php?q=19500157063&tip=sid&clean=0,1875-4791/1875-4805,A1
+ACM Transactions on Information Systems,0.877,Q1,79,52,111,http://tois.acm.org/,1046-8188/1558-2868,A1
+"Journal of Mechanical Design, Transactions Of the ASME",0.877,Q1,115,128,429,http://www.asmedl.org/MechanicalDesign,Sin informacion,No
+Knowledge and Information Systems,0.875,Q1,65,216,353,http://www.springer.com/computer+science/information+systems+and+applications/journal/10115,0219-1377/0219-3116,A1
+International Journal of Logistics Research and Applications,0.873,Q1,29,48,104,https://www.tandfonline.com/toc/cjol20/current,1367-5567/1469-848X,A1
+International Journal of Systems Science: Operations and Logistics,0.872,Q1,16,43,83,https://www.scimagojr.com/journalsearch.php?q=21100886529&tip=sid&clean=0,Sin informacion,No
+"Technology, Pedagogy and Education",0.87,Q1,30,40,114,http://www.informaworld.com/smpp/title~content=t716100724~db=all,Sin informacion,No
+BIT Numerical Mathematics,0.868,Q1,53,60,168,https://www.springer.com/journal/10543,0006-3835/1572-9125,A1
+Journal of Simulation,0.867,Q1,22,44,84,http://www.palgrave-journals.com/jos/index.html,1747-7778/1747-7786,A1
+Applied Categorical Structures,0.856,Q1,26,37,152,http://www.springer.com/mathematics/journal/10485,0927-2852/1572-9095,A1
+Brain-Computer Interfaces,0.85,Q1,14,8,51,https://www.scimagojr.com/journalsearch.php?q=21100886426&tip=sid&clean=0,Sin informacion,No
+Pattern Recognition Letters,0.848,Q1,149,401,839,http://www.elsevier.com/wps/find/journaldescription.cws_home/505619/description#description,0167-8655/1872-7344,A1
+Ad Hoc Networks,0.847,Q1,86,216,473,http://www.elsevier.com/wps/find/journaldescription.cws_home/672380/description#description,1570-8705/1570-8713,A1
+Computer Networks,0.845,Q1,127,300,886,https://www.journals.elsevier.com/computer-networks,1389-1286/1872-7069,A1
+Memetic Computing,0.838,Q1,28,37,91,http://www.springer.com/engineering/journal/12293,1865-9284/1865-9292,A1
+Networks,0.835,Q1,59,213,199,http://www3.interscience.wiley.com/journal/32046/home,0028-3045/1097-0037,A1
+ACM Transactions on Management Information Systems,0.833,Q1,26,20,42,https://dl.acm.org/journal/tmis,2158-656X/2158-6578,A1
+ACM Transactions on Computer-Human Interaction,0.8320000000000001,Q1,84,44,116,http://tochi.acm.org/,Sin informacion,No
+IEEE Transactions on Network Science and Engineering,0.828,Q1,16,82,114,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902,2327-4697,A1
+Ecological Informatics,0.825,Q1,48,98,271,http://www.elsevier.com/wps/find/journaldescription.cws_home/705192/description#description,1574-9541/1878-0512,A1
+Match,0.8240000000000001,Q1,57,65,253,http://www.pmf.kg.ac.yu/match/,0340-6253,A1
+Computational Geosciences,0.823,Q1,60,118,238,http://www.springer.com/mathematics/journal/10596,1420-0597/1573-1499,A1
+Computational Materials Science,0.823,Q1,107,612,1885,http://www.elsevier.com/wps/find/journaldescription.cws_home/523412/description#description,0927-0256/1879-0801,A1
+Cryptography and Communications,0.816,Q1,14,111,150,https://www.scimagojr.com/journalsearch.php?q=19600156814&tip=sid&clean=0,1936-2447/1936-2455,A1
+Electronic Journal of Combinatorics,0.815,Q1,41,179,708,https://www.combinatorics.org/ojs/index.php/eljc,1077-8926/1097-1440,A1
+IEEE Transactions on Emerging Topics in Computing,0.807,Q1,38,106,249,https://www.scimagojr.com/journalsearch.php?q=21100338508&tip=sid&clean=0,2168-6750,A1
+Information Systems,0.807,Q1,80,111,245,http://www.elsevier.com/wps/find/journaldescription.cws_home/236/description#description,0306-4379/1873-6076,A1
+IEEE Software,0.805,Q1,106,117,365,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52,0740-7459/1937-4194,A1
+International Journal of Approximate Reasoning,0.8,Q1,91,152,448,https://www.journals.elsevier.com/international-journal-of-approximate-reasoning,0888-613X/1873-4731,A1
+ACM Transactions on Knowledge Discovery from Data,0.7979999999999999,Q1,49,67,154,https://tkdd.acm.org/,1556-4681/1556-472X,A1
+Theory and Practice of Logic Programming,0.7979999999999999,Q1,40,63,132,https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming,1471-0684/1475-3081,A1
+Journal of Enterprise Information Management,0.797,Q1,56,71,136,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=jeim,1741-0398/1758-7409,A1
+Neural Computing and Applications,0.7959999999999999,Q1,68,1304,1353,http://www.springer.com/new+%26+forthcoming+titles+%28default%29/journal/521,0941-0643/1433-3058,A1
+Computer,0.794,Q1,161,127,517,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2&_ga=2.230452380.1060451619.1570701794-436963832.1568633786,Sin informacion,No
+Journal of Complex Networks,0.7929999999999999,Q1,17,15,134,https://academic.oup.com/comnet,2051-1310/2051-1329,A1
+Journal of King Saud University - Computer and Information Sciences,0.7929999999999999,Q1,28,209,290,https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences,Sin informacion,No
+Applied Computing and Informatics,0.792,Q1,17,54,75,https://www.journals.elsevier.com/applied-computing-and-informatics,2210-8327,A1
+Optimization Methods and Software,0.792,Q1,56,105,202,http://www.informaworld.com/smpp/title~content=t713645924~db=all,1029-4937/1055-6788,A1
+Journal of Logic and Computation,0.7859999999999999,Q1,50,37,207,http://logcom.oxfordjournals.org/,0955-792X/1465-363X,A1
+Journal of Mathematical Imaging and Vision,0.784,Q1,68,90,239,http://www.springer.com/computer+science/image+processing/journal/10851,0924-9907/1573-7683,A1
+Multisensory research,0.7829999999999999,Q1,48,36,115,https://www.scimagojr.com/journalsearch.php?q=21100243801&tip=sid&clean=0,2213-4794/2213-4808,A1
+International Journal of Machine Learning and Cybernetics,0.782,Q1,38,283,396,https://www.springer.com/journal/13042,1868-8071/1868-808X,A1
+Information and Software Technology,0.7809999999999999,Q1,95,144,407,https://www.journals.elsevier.com/information-and-software-technology,0950-5849/1873-6025,A1
+Journal of Information Systems,0.78,Q1,30,34,62,https://aaahq.org/AIS/Journal,0888-7985/1558-7959,A1
+IEEE Access,0.775,Q1,86,13729,9790,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639,2169-3536,A1
+Journal of Systems and Software,0.772,Q1,101,186,674,https://www.journals.elsevier.com/journal-of-systems-and-software/,0164-1212/1873-1228,A1
+Information Technology and Libraries,0.7709999999999999,Q1,33,39,80,https://ejournals.bc.edu/index.php/ital,0730-9295/2163-5226,A1
+JASSS,0.77,Q1,55,39,139,http://jasss.soc.surrey.ac.uk/JASSS.html,1460-7425,A1
+Computer Communication Review,0.769,Q1,163,51,105,http://www.sigcomm.org/learn/computer-communication-review/,Sin informacion,No
+IEEE Internet Computing,0.767,Q1,108,51,248,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236,1089-7801/1941-0131,A1
+"Journal of King Saud University, Engineering Sciences",0.764,Q1,27,95,136,https://www.journals.elsevier.com/journal-of-king-saud-university-engineering-sciences/,Sin informacion,No
+International Journal of Human Computer Studies,0.7559999999999999,Q1,116,140,232,http://www.elsevier.com/wps/find/journaldescription.cws_home/622846/description#description,1071-5819/1095-9300,A1
+Journal of Control and Decision,0.7559999999999999,Q1,14,34,53,https://www.scimagojr.com/journalsearch.php?q=21100873335&tip=sid&clean=0,2330-7706/2330-7714,A1
+Requirements Engineering,0.755,Q1,52,35,72,http://www.springer.com/computer+science/swe/journal/766,0947-3602/1432-010X,A1
+Aslib Journal of Information Management,0.753,Q1,39,58,123,http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=ajim,2050-3814,A1
+Statistical Analysis and Data Mining,0.753,Q1,28,41,80,https://onlinelibrary.wiley.com/journal/19321872,1932-1864/1932-1872,A1
+Games and Culture,0.7509999999999999,Q1,44,85,121,http://gac.sagepub.com/,1555-4120/1555-4139,A1
+"Engineering Science and Technology, an International Journal",0.75,Q1,39,188,478,https://www.journals.elsevier.com/engineering-science-and-technology-an-international-journal,Sin informacion,No
+International Journal of Child-Computer Interaction,0.7490000000000001,Q1,18,31,71,https://www.scimagojr.com/journalsearch.php?q=21100228541&tip=sid&clean=0,Sin informacion,No
+Journal of Computer and System Sciences,0.745,Q1,88,74,255,https://www.journals.elsevier.com/journal-of-computer-and-system-sciences,0022-0000/1090-2724,A1
+Journal of Computational Design and Engineering,0.7390000000000001,Q1,17,60,106,https://www.journals.elsevier.com/journal-of-computational-design-and-engineering,2288-4300/2288-5048,A1
+Visualization in Engineering,0.7390000000000001,Q1,15,1,38,https://viejournal.springeropen.com/,2213-7459,A1
+Information Technology and Tourism,0.731,Q1,14,30,76,https://www.springer.com/journal/40558,1098-3058/1943-4294,A1
+Distributed Computing,0.7290000000000001,Q1,44,40,76,http://www.springer.com/computer+science/communication+networks/journal/446,0178-2770/1432-0452,A1
+Science China Information Sciences,0.7240000000000001,Q1,50,286,872,https://www.springer.com/computer/information+systems+and+applications/journal/11432,1674-733X/1862-2836,A1
+International Journal of Design,0.72,Q1,35,18,55,http://www.ijdesign.org/index.php/IJDesign,1991-3761/1994-036X,A1
+Journal of Electromagnetic Engineering and Science,0.7070000000000001,Q1,10,34,121,http://www.jees.kr/,2671-7255/2671-7263,A1
+Journal of Information Technology Education:Research,0.7070000000000001,Q1,17,13,73,https://www.informingscience.org/Journals/JITEResearch/Overview,Sin informacion,No
+ACM Transactions on Sensor Networks,0.706,Q1,62,51,107,http://tosn.acm.org/,1550-4859/1550-4867,A1
+First Monday,0.7,Q1,65,25,288,http://firstmonday.org/,1396-0466,A1
+Pervasive and Mobile Computing,0.691,Q1,60,81,358,http://www.elsevier.com/wps/find/journaldescription.cws_home/704220/description#description,1574-1192/1873-1589,A1
+Advances in Mathematics of Communications,0.69,Q1,19,45,175,https://www.scimagojr.com/journalsearch.php?q=18800156711&tip=sid&clean=0,1930-5338/1930-5346,A1
+Computer Communications,0.687,Q1,98,185,637,https://www.journals.elsevier.com/computer-communications,0140-3664/1873-703X,A1
+Applied Ontology,0.679,Q1,27,16,43,https://www.scimagojr.com/journalsearch.php?q=19900193674&tip=sid&clean=0,1570-5838/1875-8533,A1
+International journal of computer assisted radiology and surgery,0.679,Q1,43,213,601,http://www.springer.com/medicine/radiology/journal/11548,1861-6410/1861-6429,A1
+Signal Processing: Image Communication,0.679,Q1,76,198,406,http://www.elsevier.com/wps/find/journaldescription.cws_home/505651/description#description,Sin informacion,No
+Computer Supported Cooperative Work,0.677,Q1,63,27,96,http://www.springer.com/computer+science/journal/10606,0925-9724/1573-7551,A1
+ACM Transactions on Computing Education,0.6759999999999999,Q1,28,45,65,https://www.scimagojr.com/journalsearch.php?q=19700183047&tip=sid&clean=0,1946-6226,A1
+ACM Transactions on Internet Technology,0.675,Q1,51,47,122,http://toit.acm.org/,1533-5399/1557-6051,A1
+ACM Transactions on Information and System Security,0.6729999999999999,Q1,78,0,5,http://tissec.acm.org/,1557-7406,A1
+Computer Law and Security Review,0.6679999999999999,Q1,32,51,276,http://www.elsevier.com/wps/find/journaldescription.cws_home/422550/description#description,0267-3649,A1
+Computer Standards and Interfaces,0.662,Q1,60,78,247,http://www.elsevier.com/wps/find/journaldescription.cws_home/505607/description#description,0920-5489/1872-7018,A1
+Human-centric Computing and Information Sciences,0.6609999999999999,Q1,29,43,104,https://www.scimagojr.com/journalsearch.php?q=21100358314&tip=sid&clean=0,Sin informacion,No
+IEEE Micro,0.6579999999999999,Q1,90,73,208,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40,0272-1732/1937-4143,A1
+Journal of Cybersecurity,0.655,Q1,11,3,39,https://academic.oup.com/cybersecurity,2057-2093,A1
+Journal of Grid Computing,0.64,Q1,50,52,107,http://www.springer.com/computer+science/communication+networks/journal/10723,1570-7873/1572-9184,A1
+Ecological Psychology,0.627,Q1,47,19,58,http://www.informaworld.com/smpp/title~content=t775653640~db=all,1040-7413/1532-6969,A1
+IT Professional,0.625,Q1,45,71,226,http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6294,1520-9202/1941-045X,A1
+ICT Express,0.624,Q1,15,63,117,https://www.journals.elsevier.com/ict-express,2405-9595,A1
+IEEE Journal on Exploratory Solid-State Computational Devices and Circuits,0.621,Q1,12,31,33,https://www.scimagojr.com/journalsearch.php?q=21100905985&tip=sid&clean=0,Sin informacion,No
+Frontiers of Computer Science,0.617,Q1,30,105,252,https://www.scimagojr.com/journalsearch.php?q=21100200426&tip=sid&clean=0,2095-2228/2095-2236,A1
+Journal of Computational Science,0.614,Q1,38,114,495,https://www.journals.elsevier.com/journal-of-computational-science,1877-7503,A1
+ACM Transactions on Privacy and Security,0.613,Q1,9,17,51,https://tops.acm.org/,2471-2566/2471-2574,A1
+Simulation Modelling Practice and Theory,0.609,Q1,63,112,313,http://www.elsevier.com/wps/find/journaldescription.cws_home/622330/description#description,1569-190X/1878-1462,A1
+Construction Innovation,0.595,Q1,36,35,78,https://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=CI,1471-4175/1477-0857,A1
+Optical Materials,0.594,Q1,98,770,2040,http://www.elsevier.com/wps/find/journaldescription.cws_home/522512/description#description,0925-3467/1873-1252,A1
+ACM Transactions on Modeling and Performance Evaluation of Computing Systems,0.593,Q1,6,22,55,https://www.scimagojr.com/journalsearch.php?q=21100934924&tip=sid&clean=0,2376-3639/2376-3647,A1
+Journal of Intelligent Information Systems,0.593,Q1,52,75,153,http://www.springer.com/computer+science/security+and+cryptology/journal/10844,0925-9902/1573-7675,A1
+Computers and Electrical Engineering,0.579,Q1,55,262,1044,http://www.elsevier.com/wps/find/journaldescription.cws_home/367/description#description,0045-7906/1879-0755,A1
+ACM Transactions on Computational Logic,0.5720000000000001,Q1,46,33,88,http://tocl.acm.org/,1529-3785/1557-945X,A1
+Theoretical Computer Science,0.57,Q1,110,476,1180,http://www.elsevier.com/wps/find/journaldescription.cws_home/505625/description#description,0304-3975/1879-2294,A1
+Indonesian Journal of Science and Technology,0.569,Q1,9,26,54,https://ejournal.upi.edu/index.php/ijost/,2527-8045/2528-1410,A1
+Algorithmica,0.565,Q1,70,181,466,http://www.springer.com/computer+science/theoretical+computer+science/foundations+of+computations/journal/453,0178-4617/1432-0541,A1
+Logical Methods in Computer Science,0.5579999999999999,Q1,33,108,237,https://www.scimagojr.com/journalsearch.php?q=19700175752&tip=sid&clean=0,1860-5974,A1
+International Journal of Computational Methods,0.557,Q1,34,187,254,http://www.worldscinet.com/ijcm/ijcm.shtml,0219-8762/1793-6969,A1
+Journal of Ambient Intelligence and Humanized Computing,0.544,Q1,28,680,511,https://www.springer.com/journal/12652,1868-5137/1868-5145,A1
+ACM Transactions on Autonomous and Adaptive Systems,0.537,Q1,38,16,69,http://taas.acm.org/,1556-4665/1556-4703,A1
+Computational Intelligence and Neuroscience,0.534,Q1,47,148,486,http://www.hindawi.com/journals/cin/,1687-5265/1687-5273,A1
+Journal of Formalized Reasoning,0.534,Q1,6,3,19,https://www.scimagojr.com/journalsearch.php?q=21100262198&tip=sid&clean=0,1972-5787,A1
+International Journal of Information Technology and Decision Making,0.5329999999999999,Q1,39,70,200,https://www.worldscientific.com/worldscinet/ijitdm,0219-6220/1793-6845,A1
+Computer Science Education,0.526,Q1,29,19,47,https://www.tandfonline.com/toc/ncse20/current,0899-3408/1744-5175,A1
+Global Journal of Engineering Education,0.509,Q1,11,36,121,http://www.wiete.com.au/journals/GJEE/Publish/index.html,1328-3154,A1
+Complexity,0.507,Q1,52,679,1256,https://www.hindawi.com/journals/complexity/,1076-2787/1099-0526,A1
+Computers and Composition,0.496,Q1,33,48,103,http://www.elsevier.com/wps/find/journaldescription.cws_home/620371/description#description,8755-4615,A1
