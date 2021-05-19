@@ -5,12 +5,6 @@ from flask_cors import CORS
 
 
 
-app = Flask(__name__)
-if __name__ == '__main__':
-    app.run(host='0.0.0.0')
-cors = CORS(app,resources={r"/filtroParametros/*": {"origins": "*"}})
-
-
 filtro = [
    {
        "Categoria": "Revista 1",
@@ -58,5 +52,7 @@ def getFiltro():
 
 
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0',port=5000)
+app = Flask(__name__)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0')
+cors = CORS(app,resources={r"/filtroParametros/*": {"origins": "*"}})
