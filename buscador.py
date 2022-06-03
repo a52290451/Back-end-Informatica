@@ -28,8 +28,10 @@ def listaRevistas(area,categorias,minArt,maxArt,estado):
     
     listaTotal = sorted(listaTotal, key=lambda rev:int(rev['CantidadArticulosUltimo']), reverse = True)
     
+    varx = json.dumps(listaTotal[:3])
+
     if estado == 'Free':
-        return json.dumps(listaTotal[:3])
+        return varx
     elif estado == 'Premium':
         return json.dumps(listaTotal)
 
