@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Back-Tendencias'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BFE0A7D69694296A9D735590395F2D7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD7C0EB19DA24AB79C09CEE4B18A2F1E }}
