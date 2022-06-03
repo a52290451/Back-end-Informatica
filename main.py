@@ -18,14 +18,18 @@ filtro = [
    } 
 ]
 
+@app.route('/')
+def hello_geek():
+    return '<h1>Hello from Flask & Docker</h2>'
+
 #Ruta que captura los parametros de busqueda de la forma 
-#(http://localhost:5000/filtroParametros?area=Computer%20Science&categoria1=Q1&minArt=100&maxArt=1500&estado=premium)
+#(http://localhost:5000/filtroParametros?area=Computer%20Science&categoria1=Q1&minArt=100&maxArt=1500&estado=Premium)
 
 @app.route('/filtroParametros', methods =["GET"])
 def jsonRevistas():
     # Si no se encuentra la etiqueta, devuelve None
     area = request.args.get('area')
-    categorias= []
+    categorias = []
     if request.args.get('categoria1') != '':
         categorias.append(True)
     else:
@@ -48,9 +52,11 @@ def jsonRevistas():
     
     estado = request.args.get('estado')
 
-    return listaRevistas(area,categorias,minArt,maxArt,estado),200
+    jsonx = listaRevistas(area,categorias,minArt,maxArt,estado)
 
-#ruta que captura petición y devuelve una lista (local)
+    return jsonx,200
+
+#ruta que captura peticion y devuelve una lista (local)
 @app.route('/filtro', methods =["GET"])
 def getFiltro():
     return jsonify(filtro), 200
@@ -58,7 +64,7 @@ def getFiltro():
 
 
 
-#------------------ Métodos de prueba --------------------
+#------------------ Metodos de prueba --------------------
 
 users = [
    {
@@ -73,7 +79,7 @@ users = [
    } 
 ]
 
-#ruta que captura petición, filtra por nombre de usuario y retorna la información de ese usuario
+#ruta que captura peticion, filtra por nombre de usuario y retorna la informacion de ese usuario
 @app.route('/users/<string:username>', methods =["GET"])
 def getUsersByUsername(username):
     result = next((user for user in users if user["Username"] == username),None)
@@ -82,7 +88,7 @@ def getUsersByUsername(username):
     else:
         return "User not found", 404
 
-#ruta que captura petición, filtra por nombre de usuario y retorna la información de ese usuario
+#ruta que captura peticion, filtra por nombre de usuario y retorna la informacion de ese usuario
 @app.route('/filtro/<string:categoria>/<string:cuartil>/<int:cantidad>', methods =["GET"])
 def getRevistasByCategoria(categoria):
     result = next((comp for comp in filtro if comp["Categoria"] == categoria),None)
@@ -97,7 +103,7 @@ def getRevistasByCuartil(cuartil):
     else:
         return "User not found", 404
 
-#ruta que captura petición y devuelve una lista de usuarios
+#ruta que captura peticion y devuelve una lista de usuarios
 @app.route('/users', methods =["GET"])
 def getAllUsers():
     return jsonify(users), 200
@@ -137,4 +143,5 @@ def deleteUser(username):
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0')
+    #app.run(host='0.0.0.0')
+    app.run(debug=True,host='0.0.0.0',port=80)
